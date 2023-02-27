@@ -5,20 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97ee3d09-df8d-4b6a-9e57-e72e9878fdc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/eden/historical/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/eden/historical/App.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/eden/historical/NovelProcessingJob.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/eden/historical/NovelProcessingJob.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/eden/historical/categorization/HardcodedCategorizer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/eden/historical/categorization/HardcodedCategorizer.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/eden/historical/models/Book.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/eden/historical/models/Book.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/eden/historical/models/CategorizedBook.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/eden/historical/models/CategorizedBook.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/eden/historical/models/Place.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/eden/historical/models/Place.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/eden/historical/sources/GoodreadsSource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/eden/historical/sources/GoodreadsSource.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/eden/historical/storage/DummyStore.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/eden/historical/storage/DummyStore.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +32,7 @@
         <option value="Kotlin Data Class" />
         <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
+        <option value="Kotlin Object" />
       </list>
     </option>
   </component>
@@ -75,6 +71,7 @@
       <recent name="eden.historical" />
     </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="eden.historical.models" />
       <recent name="eden.historical.categorization" />
       <recent name="eden.historical.sources" />
     </key>

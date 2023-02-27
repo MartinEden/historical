@@ -2,6 +2,7 @@ package eden.historical.sources
 
 import com.google.gson.Gson
 import eden.historical.fetching.Fetcher
+import eden.historical.models.Author
 import eden.historical.models.Book
 import eden.historical.models.BookMetadata
 import eden.historical.sources.Json.Companion.getJsonData
@@ -21,10 +22,10 @@ class GoodreadsSource(private val fetcher: Fetcher) : BookSource {
         val title = doc.trimmedText(".BookPageTitleSection__title h1")
         val authors = doc.select(".BookPageMetadataSection__contributor a.ContributorLink")
             .map { it.trimmedText(".ContributorLink__name") }
-        val author = authors.sorted().joinToString()
+            .map { Author.fromFullName(it) }
         val synopsis = doc.trimmedText(".BookPageMetadataSection__description .Formatted")
         return BookMetadata(
-            Book(url, title, author),
+            Book(url, title, authors),
             synopsis = synopsis,
             tags = getTags(doc, url)
         )

@@ -7,6 +7,6 @@ data class CategorizedBook(
 ) {
     val title
         get() = book.title
-    val author
-        get() = book.author
+    val authors
+        get() = book.authors
 }

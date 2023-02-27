@@ -22,7 +22,7 @@ class HardcodedCategorizer : Categorizer {
         TagRule("Tudor Period", Categorization(period = Period("Tudor", 1485, 1603)))
     ) + CenturyRule.all
 
-    private val defaultCategorization = Categorization(Period.default, Place.default)
+    private val defaultCategorization = Categorization(Period.default, Place.Unknown)
 
     override fun categorize(book: BookMetadata): CategorizedBook {
         val candidates = rules.mapNotNull { it.apply(book) } + defaultCategorization
