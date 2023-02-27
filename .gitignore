@@ -43,3 +43,5 @@ bin/
 output/
 
 src/main/resources/example.json
+
+.idea/workspace.xml
