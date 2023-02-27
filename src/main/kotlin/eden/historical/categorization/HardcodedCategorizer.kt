@@ -20,7 +20,7 @@ class HardcodedCategorizer : Categorizer {
             Categorization(place = Place.Area("Scotland", emptyList()))
         ),
         TagRule("Tudor Period", Categorization(period = Period("Tudor", 1485, 1603)))
-    ) + CenturyRule.all
+    ) + CenturyRule.all + LocationRule.all
 
     private val defaultCategorization = Categorization(Period.default, Place.Unknown)
 
