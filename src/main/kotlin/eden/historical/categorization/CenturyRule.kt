@@ -7,7 +7,7 @@ class CenturyRule(name: String, private val period: Period) : Rule {
     private val regex = Regex("""the $name century""")
 
     override fun apply(book: BookMetadata): Categorization? {
-        return if (regex.containsMatchIn(book.synopsis.lowercase())) {
+        return if (regex.containsMatchIn(book.synopsis)) {
             Categorization(period = period)
         } else null
     }

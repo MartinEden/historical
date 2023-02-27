@@ -30,7 +30,7 @@ class GoodreadsSource(private val fetcher: Fetcher) : BookSource {
 
         return BookMetadata(
             Book(url, title, authors),
-            synopsis = synopsis,
+            synopsis = synopsis.lowercase(),
             tags = getTags(jsonData),
             places = getPlaces(jsonData)
         )
