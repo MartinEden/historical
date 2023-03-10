@@ -22,14 +22,14 @@ class CachingFetcher(private val nestedFetcher: Fetcher) : Fetcher {
         }
     }
 
-    override fun get(url: String) : Document {
+    override fun get(url: String, cookies: Map<String, String>) : Document {
         val cacheFile = getCacheFile(url)
         return if (cacheFile.isFile) {
             Jsoup.parse(cacheFile)
         } else {
             updateCacheMissCount()
             println("Fetching $url")
-            val document = nestedFetcher.get(url)
+            val document = nestedFetcher.get(url, cookies)
             saveToCache(document, cacheFile)
             document
         }

@@ -17,7 +17,7 @@ class GoodreadsSource(private val fetcher: Fetcher) : BookSource {
     override val books: Sequence<BookMetadata> = urlFinder.urls.map { getBookFromUrl(it) }
 
     private fun getBookFromUrl(url: String): BookMetadata {
-        val doc = fetcher.get(url)
+        val doc = fetcher.get(url, emptyMap())
 
         val title = doc.trimmedText(".BookPageTitleSection__title h1")
         val authors = doc.select(".BookPageMetadataSection__contributor a.ContributorLink")
