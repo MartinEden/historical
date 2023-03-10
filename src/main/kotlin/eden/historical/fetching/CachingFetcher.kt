@@ -1,16 +1,18 @@
 package eden.historical.fetching
 
+import eden.historical.Settings
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
-import java.lang.Thread.sleep
-import java.time.Duration
-import java.time.Instant
+import java.io.File
 import kotlin.io.path.Path
 
-class CachingFetcher : Fetcher {
+class CachingFetcher(private val nestedFetcher: Fetcher) : Fetcher {
     private val cacheRoot = Path(System.getProperty("user.home"), ".eden.historical", "cache")
     private val invalidFileCharacters = Regex("""[^a-zA-Z0-9]+""")
-    private var lastFetch = Instant.MIN
+    private var cacheMissCount = 0
+
+    override val exhausted
+        get() = cacheMissCount >= Settings.maximumCacheMisses || nestedFetcher.exhausted
 
     init {
         val cacheDir = cacheRoot.toFile()
@@ -20,30 +22,33 @@ class CachingFetcher : Fetcher {
         }
     }
 
-    override fun get(url: String): Document {
-        val mangledUrl = url.replace(invalidFileCharacters, "_") + ".html"
-        val cacheFile = cacheRoot.resolve(mangledUrl).toFile()
+    override fun get(url: String) : Document {
+        val cacheFile = getCacheFile(url)
         return if (cacheFile.isFile) {
             Jsoup.parse(cacheFile)
         } else {
+            updateCacheMissCount()
             println("Fetching $url")
-            throttle()
-            val document = Jsoup.connect(url).get()
-            val text = document.html()
-            cacheFile.writeText(text)
+            val document = nestedFetcher.get(url)
+            saveToCache(document, cacheFile)
             document
         }
     }
 
-    private fun throttle() {
-        val now = Instant.now()
-        val timeSinceLastFetch = Duration.between(lastFetch, now)
-        val timeToWait = Duration.ofSeconds(5) - timeSinceLastFetch
-        if (timeToWait > Duration.ZERO) {
-            val msToWait = timeToWait.toMillis()
-            println("Sleeping for $msToWait")
-            sleep(msToWait)
+    private fun getCacheFile(url: String): File {
+        val mangledUrl = url.replace(invalidFileCharacters, "_") + ".html"
+        return cacheRoot.resolve(mangledUrl).toFile()
+    }
+
+    private fun saveToCache(document: Document, cacheFile: File) {
+        val text = document.html()
+        cacheFile.writeText(text)
+    }
+
+    private fun updateCacheMissCount() {
+        cacheMissCount++
+        if (exhausted) {
+            println("Fetcher exhausted after $cacheMissCount cache misses")
         }
-        lastFetch = now
     }
 }

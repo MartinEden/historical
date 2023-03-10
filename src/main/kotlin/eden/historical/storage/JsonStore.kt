@@ -9,6 +9,7 @@ import java.time.LocalDateTime
 import java.time.format.DateTimeFormatter
 import kotlin.io.path.absolutePathString
 
+// TODO: Output reasoning
 class JsonStore : Store {
     private val books = mutableListOf<CategorizedBook>()
     private val nowAsString = LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH.mm.ss"))
@@ -16,6 +17,7 @@ class JsonStore : Store {
     private val gson = GsonBuilder()
         .setPrettyPrinting()
         .create()
+
 
     override fun put(book: CategorizedBook) {
         books.add(book)

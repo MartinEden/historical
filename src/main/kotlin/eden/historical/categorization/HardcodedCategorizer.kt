@@ -26,6 +26,8 @@ class HardcodedCategorizer : Categorizer {
 
     override fun categorize(book: BookMetadata): CategorizedBook {
         val candidates = rules.mapNotNull { it.apply(book) } + defaultCategorization
+        // TODO: distinguish by confidence
+        // TODO: distinguish by specificity
         val period = candidates.firstNotNullOf { it.period }
         val place = candidates.firstNotNullOf { it.place }
         return CategorizedBook(book.book, period, place)
