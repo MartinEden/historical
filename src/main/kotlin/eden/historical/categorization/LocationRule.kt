@@ -15,7 +15,8 @@ data class LocationRule(val namesToMatch: Set<String>, val categorization: Categ
 
     companion object {
         val all = listOf(
-            LocationRule("England", Categorization(place = Place.Area("England", emptyList())))
+            LocationRule("England", Categorization(place = Place.Area("England", emptyList()))),
+            LocationRule("Nigeria", Categorization(place = Place.Area("Nigeria", emptyList())))
         )
     }
 }
