@@ -6,7 +6,7 @@ import eden.historical.models.Period
 object TheYearIsRule : Rule {
     private val phraseRegex = Regex("""(?:the\s+year\s+is|it\s+is)\s+(\d{4})""")
     private val anyYearRegex = Regex("""\W(\d{4})\W""")
-    private val decadeRegex = Regex("""in the (\d{4})s""")
+    private val decadeRegex = Regex("""in the (?:early|late)?\s*(\d{4})s""")
 
     override fun apply(book: BookMetadata): Categorization? {
         val phraseMatch = phraseRegex.find(book.synopsis)
