@@ -1,17 +1,21 @@
 package eden.historical.fetching
 
+import eden.historical.Settings
 import org.jsoup.nodes.Document
 
 class RequiresLoginFetcher(private val nestedFetcher: JsoupFetcher): Fetcher {
-    private var loginCookies: Map<String, String> = emptyMap()
+    private var loginCookies: Map<String, String?> = mapOf(
+        "at-main" to Settings.atMain,
+        "ubid-main" to Settings.ubidMain
+    )
     override val exhausted
         get() = nestedFetcher.exhausted
 
     override fun get(url: String, cookies: Map<String, String>): Document {
-        if (loginCookies.isEmpty()) {
+        if (loginCookies["at-main"].isNullOrBlank() || loginCookies["ubid-main"].isNullOrBlank()) {
             doLogin()
         }
-        return nestedFetcher.get(url, cookies + loginCookies)
+        return nestedFetcher.get(url, cookies + loginCookies.mapValues { (_, v) -> v!! })
     }
 
     private fun doLogin() {
