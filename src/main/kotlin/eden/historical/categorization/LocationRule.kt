@@ -2,6 +2,7 @@ package eden.historical.categorization
 
 import eden.historical.models.BookMetadata
 import eden.historical.models.Place
+import eden.historical.models.countries.Country
 
 data class LocationRule(val namesToMatch: Set<String>, val categorization: Categorization) : Rule {
     constructor(nameToMatch: String, categorization: Categorization)
@@ -14,12 +15,8 @@ data class LocationRule(val namesToMatch: Set<String>, val categorization: Categ
     }
 
     companion object {
-        val all = listOf(
-            LocationRule("England", Categorization(place = Place.Area("England", emptyList()))),
-            LocationRule("Nigeria", Categorization(place = Place.Area("Nigeria", emptyList()))),
-            LocationRule("Massachusetts", Categorization(place = Place.Area("Massachusetts", emptyList()))),
-            LocationRule("Spain", Categorization(place = Place.Area("Spain", emptyList()))),
-            LocationRule("Chile", Categorization(place = Place.Area("Spain", emptyList())))
-        )
+        fun from(countries: List<Country>) = countries.map {
+            LocationRule(it.name, Categorization(place = Place.Area(it.name, emptyList())))
+        }
     }
 }

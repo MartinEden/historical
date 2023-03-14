@@ -4,8 +4,9 @@ import eden.historical.models.BookMetadata
 import eden.historical.models.CategorizedBook
 import eden.historical.models.Period
 import eden.historical.models.Place
+import eden.historical.models.countries.Country
 
-class HardcodedCategorizer : Categorizer {
+class HardcodedCategorizer(countries: List<Country>) : Categorizer {
     private val rules = listOf(
         TheYearIsRule,
         TagRule(
@@ -20,7 +21,7 @@ class HardcodedCategorizer : Categorizer {
             Categorization(place = Place.Area("Scotland", emptyList()))
         ),
         TagRule("Tudor Period", Categorization(period = Period("Tudor", 1485, 1603)))
-    ) + CenturyRule.all + LocationRule.all
+    ) + CenturyRule.all + LocationRule.from(countries)
 
     private val defaultCategorization = Categorization(Period.default, Place.Unknown)
 
