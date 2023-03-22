@@ -32,7 +32,7 @@ Alias Grace by Atwood, Margaret
 1843 (1843)
 Canada
 The Clan of the Cave Bear by Auel, Jean M.
-Unknown (-4000 - 2000)
+Ice Age (-115000 - -11700)
 Unknown
 The Mammoth Hunters by Auel, Jean M.
 Unknown (-4000 - 2000)
@@ -42,6 +42,9 @@ Unknown (-4000 - 2000)
 Unknown
 Sense and Sensibility by Austen, Jane; Ballaster, Ros; Остин, Джейн
 Unknown (-4000 - 2000)
+England
+Persuasion by Austen, Jane; Lynch, Deidre Shauna; Kinsley, James
+1816 (1816)
 England
 Pride and Prejudice by Austen, Jane; Quindlen, Anna
 1813 (1813)
@@ -589,6 +592,9 @@ France
 Nefertiti by Moran, Michelle
 Unknown (-4000 - 2000)
 Unknown
+The Heretic Queen by Moran, Michelle
+Unknown (-4000 - 2000)
+Egypt
 The Heretic Queen by Moran, Michelle
 Unknown (-4000 - 2000)
 Egypt

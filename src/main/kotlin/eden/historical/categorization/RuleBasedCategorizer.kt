@@ -9,6 +9,9 @@ import eden.historical.models.countries.Country
 class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
     private val rules = sequence {
         yield(TheYearIsRule)
+        yield(AnyYearRule)
+        yield(DecadeRule)
+        yield(IceAgeRule)
         yield(
             TagRule(
                 "World War II",
