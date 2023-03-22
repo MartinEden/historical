@@ -1,6 +1,6 @@
 package eden.historical
 
-import eden.historical.categorization.HardcodedCategorizer
+import eden.historical.categorization.RuleBasedCategorizer
 import eden.historical.fetching.CachingFetcher
 import eden.historical.fetching.JsoupFetcher
 import eden.historical.fetching.RequiresLoginFetcher
@@ -15,7 +15,7 @@ fun main() {
     val fetcher = CachingFetcher(ThrottlingFetcher(RequiresLoginFetcher(JsoupFetcher())))
     val source = GoodreadsSource(fetcher)
     val countries = CountryDataSource().load()
-    val categorizer = HardcodedCategorizer(countries)
+    val categorizer = RuleBasedCategorizer(countries)
     val store = MultiStore(listOf(
         JsonStore(),
         HumanReadableStore()
