@@ -9,6 +9,7 @@ src/main/resources/app.properties
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/workspace.xml
+.idea/uiDesigner.xml
 .idea/libraries/
 *.iws
 *.iml
