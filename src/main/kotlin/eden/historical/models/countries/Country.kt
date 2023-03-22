@@ -1,6 +1,6 @@
 package eden.historical.models.countries
 
-data class Country(val name: String, val iso3: String, val border: List<Border>) {
+data class Country(val name: String, val iso3: String?, val border: List<Border>) {
     companion object {
         fun from(raw: RawFeature): Country {
             check(raw.type == "Feature", "Expected $raw to have type 'Feature'")
@@ -8,8 +8,7 @@ data class Country(val name: String, val iso3: String, val border: List<Border>)
             check("ADMIN" in raw.properties, "Missing key 'ADMIN' in feature $raw")
             val name = raw.properties["ADMIN"]!!
 
-            check("ISO_A3" in raw.properties, "Missing key 'ISO_A3' in feature $raw")
-            val iso3 = raw.properties["ISO_A3"]!!
+            val iso3: String? = raw.properties["ISO_A3"]
 
             val borders = try {
                 check(raw.geometry.type == "MultiPolygon", "Expected geometry to have type 'MultiPolygon'")
