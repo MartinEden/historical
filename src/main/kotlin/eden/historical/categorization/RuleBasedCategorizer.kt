@@ -41,6 +41,7 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
         )
         yieldAll(CenturyRule.all)
         yieldAll(LocationRule.from(countries))
+        yield(SourceYearRule)
         yield(HandwrittenCategorizationRule())
     }
 

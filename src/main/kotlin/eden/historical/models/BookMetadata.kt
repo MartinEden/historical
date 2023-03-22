@@ -5,4 +5,5 @@ data class BookMetadata(
     val synopsis: String,
     val tags: Set<String>,
     val places: Set<String>,
+    val years: Set<Int>
 )

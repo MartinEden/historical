@@ -6,7 +6,8 @@ import org.jsoup.nodes.Element
 @JvmInline
 value class Json(private val value: Map<*,*>) {
     operator fun get(key: String): Json = getSomething(key).asDynamicJson()
-    fun value(key: String): String = getSomething(key).toString()
+    fun value(key: String): String? = getSomething(key)?.toString()
+    fun int(key: String): Int? = (getSomething(key) as Double?)?.toInt()
     fun list(key: String): List<Json> {
         val raw = getSomething(key)
         if (raw is List<*>) {

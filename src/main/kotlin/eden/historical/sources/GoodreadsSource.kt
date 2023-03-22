@@ -6,9 +6,10 @@ import eden.historical.models.Author
 import eden.historical.models.Book
 import eden.historical.models.BookMetadata
 import eden.historical.sources.Json.Companion.getJsonData
-import org.jsoup.nodes.Document
 
 const val goodreadsUrl = "https://www.goodreads.com"
+
+private data class PlacesAndYears(val places: Set<String>, val years: Set<Int>)
 
 class GoodreadsSource(private val fetcher: Fetcher) : BookSource {
     private val urlFinder = GoodreadsUrlFinder(fetcher)
@@ -27,12 +28,18 @@ class GoodreadsSource(private val fetcher: Fetcher) : BookSource {
 
         val jsonData: Json = doc.select("script#__NEXT_DATA__").first()?.getJsonData(gson)
             ?: throw Exception("Unable to find JSON metadata at $url")
+        val placesAndYears = try {
+            fromPlaceData(jsonData)
+        } catch (e: Exception) {
+            throw Exception("Error parsing place data for $title", e)
+        }
 
         return BookMetadata(
             Book(url, title, authors),
             synopsis = synopsis.lowercase(),
             tags = getTags(jsonData),
-            places = getPlaces(jsonData)
+            places = placesAndYears.places,
+            years = placesAndYears.years
         )
     }
 
@@ -40,20 +47,21 @@ class GoodreadsSource(private val fetcher: Fetcher) : BookSource {
         val bookData = jsonData["props"]["pageProps"]["apolloState"].getLookupWithKeyMatching(Regex("^Book:"))
         return bookData
             .list("bookGenres")
-            .map { it["genre"].value("name") }
+            .map { it["genre"].value("name")!! }
             .toSet()
     }
 
-    private fun getPlaces(jsonData: Json): Set<String> {
+    private fun fromPlaceData(jsonData: Json): PlacesAndYears {
         val workData = jsonData["props"]["pageProps"]["apolloState"].getLookupWithKeyMatching(Regex("^Work:"))
-        return workData["details"]
-            .list("places")
-            .flatMap {
-                listOfNotNull(
-                    it.value("name"),
-                    it.value("countryName")
-                )
-            }
-            .toSet()
+        val rawPlaces = workData["details"].list("places")
+        val places = mutableSetOf<String>()
+        val years = mutableSetOf<Int>()
+
+        for (place in rawPlaces) {
+            place.value("name")?.let { places.add(it) }
+            place.value("countryName")?.let { places.add(it) }
+            place.int("year")?.let { years.add(it) }
+        }
+        return PlacesAndYears(places, years)
     }
 }
