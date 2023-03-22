@@ -41,7 +41,7 @@ The Valley of Horses by Auel, Jean M.; Burr, Sandra
 Prehistoric (-20000 - -5000)
 Unknown
 Sense and Sensibility by Austen, Jane; Ballaster, Ros; Остин, Джейн
-Unknown (-4000 - 2000)
+19th Century (1800 - 1899)
 England
 Persuasion by Austen, Jane; Lynch, Deidre Shauna; Kinsley, James
 1816 (1816)
@@ -50,7 +50,7 @@ Pride and Prejudice by Austen, Jane; Quindlen, Anna
 1813 (1813)
 England
 Emma by Austen, Jane; Stafford, Fiona
-Unknown (-4000 - 2000)
+19th Century (1800 - 1899)
 United Kingdom
 The True Confessions of Charlotte Doyle by Avi
 1832 (1832)
@@ -104,7 +104,7 @@ Moloka'i by Brennert, Alan
 1891 (1891)
 Hawaii
 Jane Eyre by Brontë, Charlotte; Mason, Michael
-Unknown (-4000 - 2000)
+19th Century (1800 - 1899)
 England
 Wuthering Heights by Brontë, Emily; Dunn, Richard J.; Brontë, Charlotte
 1847 (1847)
@@ -166,6 +166,9 @@ Japan
 Next Year in Havana by Cleeton, Chanel
 1958 (1958)
 Cuba
+The Girls by Cline, Emma; Holmsten, My
+Unknown (-4000 - 2000)
+California
 The Water Dancer by Coates, Ta-Nehisi
 Unknown (-4000 - 2000)
 Virginia
@@ -203,7 +206,7 @@ The Red Tent by Diamant, Anita
 Unknown (-4000 - 2000)
 Unknown
 A Tale of Two Cities by Dickens, Charles; Maxwell, Richard
-1789 (1789)
+19th Century (1800 - 1899)
 England
 All the Light We Cannot See by Doerr, Anthony
 World War II (1939 - 1945)
@@ -221,7 +224,7 @@ The Wonder by Donoghue, Emma
 1859 (1859)
 Ireland
 America's First Daughter by Dray, Stephanie; Kamoie, Laura
-Unknown (-4000 - 2000)
+18th Century (1700 - 1799)
 Virginia
 The Count of Monte Cristo by Dumas, Alexandre; Buss, Robin
 1840s (1840 - 1850)
@@ -230,7 +233,7 @@ The Three Musketeers by Dumas, Alexandre; Pevear, Richard; Lee, John
 1627 (1627)
 France
 The Birth of Venus by Dunant, Sarah
-Unknown (-4000 - 2000)
+15th Century (1400 - 1499)
 Italy
 Bringing Down the Duke by Dunmore, Evie
 1879 (1879)
@@ -245,7 +248,7 @@ Middlesex by Eugenides, Jeffrey
 1967 (1967)
 Michigan
 The Crimson Petal and the White by Faber, Michel
-1874 (1874)
+19th Century (1800 - 1899)
 England
 One Thousand White Women: The Journals of May Dodd by Fergus, Jim
 1875 (1875)
@@ -331,6 +334,9 @@ Japan
 These Violent Delights by Gong, Chloe
 1926 (1926)
 China
+Ross Poldark by Graham, Winston
+18th Century (1700 - 1799)
+England
 I, Claudius by Graves, Robert
 Unknown (-4000 - 2000)
 Italy
@@ -677,7 +683,7 @@ The Dutch House by Patchett, Ann
 Unknown (-4000 - 2000)
 Pennsylvania
 Here Be Dragons by Penman, Sharon Kay
-1183 (1183)
+13th Century (1200 - 1299)
 England
 The Sunne in Splendour by Penman, Sharon Kay
 15th Century (1400 - 1499)
@@ -829,9 +835,15 @@ California
 The Grapes of Wrath by Steinbeck, John
 1939 (1939)
 California
+Girl Waits with Gun by Stewart, Amy
+1914 (1914)
+Unknown
 The Help by Stockett, Kathryn
 1962 (1962)
 Mississippi
+Uncle Tom's Cabin by Stowe, Harriet Beecher
+19th Century (1800 - 1899)
+Louisiana
 Beneath a Scarlet Sky by Sullivan, Mark T.
 World War II (1939 - 1945)
 Europe
@@ -845,7 +857,7 @@ Roll of Thunder, Hear My Cry by Taylor, Mildred D.
 Unknown (-4000 - 2000)
 Mississippi
 Anna Karenina by Tolstoy, Leo; Maude, Aylmer; Maude, Louise
-Unknown (-4000 - 2000)
+19th Century (1800 - 1899)
 Russia
 War and Peace by Tolstoy, Leo; Maude, Aylmer; Maude, Louise
 1812 (1812)

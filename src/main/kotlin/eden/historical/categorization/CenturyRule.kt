@@ -4,6 +4,12 @@ import eden.historical.models.BookMetadata
 import eden.historical.models.Period
 
 class CenturyRule(century: Int) : Rule {
+    init {
+        if (century < 1 || century > ordinals.size) {
+            throw Exception("Unsupported century for CenturyRule: $century")
+        }
+    }
+
     private val ordinalAsWord = ordinals[century - 1]
     private val ordinalAsNumber = ordinalWithSuffix(century)
     private val startYear = ((century - 1) * 100)
@@ -12,8 +18,7 @@ class CenturyRule(century: Int) : Rule {
     private val regex = Regex("""the $ordinalAsWord century""")
 
     override fun apply(book: BookMetadata): Categorization? {
-        // if (book.tags.any { it == "$ordinalAsNumber Century" } ||
-        return if (regex.containsMatchIn(book.synopsis)) {
+        return if (book.tags.any { it == "$ordinalAsNumber Century" } || regex.containsMatchIn(book.synopsis)) {
             Categorization(period = period)
         } else null
     }
