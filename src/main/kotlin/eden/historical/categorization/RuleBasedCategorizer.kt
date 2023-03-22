@@ -11,7 +11,6 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
         yield(TheYearIsRule)
         yield(AnyYearRule)
         yield(DecadeRule)
-        yield(IceAgeRule)
         yield(
             TagRule(
                 "World War II",
@@ -31,6 +30,12 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
             TagRule(
                 "Tudor Period",
                 Categorization(period = Period("Tudor", 1485, 1603))
+            )
+        )
+        yield(
+            TagRule(
+                "Prehistoric",
+                Categorization(period = Period("Prehistoric", -20000, -5000))
             )
         )
         yield(

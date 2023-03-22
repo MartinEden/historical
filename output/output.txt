@@ -32,13 +32,13 @@ Alias Grace by Atwood, Margaret
 1843 (1843)
 Canada
 The Clan of the Cave Bear by Auel, Jean M.
-Ice Age (-115000 - -11700)
+Prehistoric (-20000 - -5000)
 Unknown
 The Mammoth Hunters by Auel, Jean M.
-Unknown (-4000 - 2000)
+Prehistoric (-20000 - -5000)
 Unknown
 The Valley of Horses by Auel, Jean M.; Burr, Sandra
-Unknown (-4000 - 2000)
+Prehistoric (-20000 - -5000)
 Unknown
 Sense and Sensibility by Austen, Jane; Ballaster, Ros; Остин, Джейн
 Unknown (-4000 - 2000)
@@ -193,6 +193,9 @@ Italy
 Bud, Not Buddy by Curtis, Christopher Paul
 1936 (1936)
 Michigan
+Catherine, Called Birdy by Cushman, Karen
+1290 (1290)
+Unknown
 The Red Tent by Diamant, Anita
 Unknown (-4000 - 2000)
 Unknown
