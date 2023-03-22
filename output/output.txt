@@ -11,7 +11,7 @@ A Long Petal of the Sea by Allende, Isabel
 1930s (1930 - 1940)
 Chile
 The House of the Spirits by Allende, Isabel; Bogin, Magda
-Twentieth century (1900 - 1999)
+20th Century (1900 - 1999)
 Chile
 Daughter of Fortune by Allende, Isabel; Peden, Margaret Sayers
 1849 (1849)
@@ -173,7 +173,7 @@ Sword Song by Cornwell, Bernard
 Unknown (-4000 - 2000)
 England
 The Burning Land by Cornwell, Bernard
-Ninth century (800 - 899)
+9th Century (800 - 899)
 England
 The Last Kingdom by Cornwell, Bernard
 Unknown (-4000 - 2000)
@@ -193,6 +193,9 @@ Italy
 Bud, Not Buddy by Curtis, Christopher Paul
 1936 (1936)
 Michigan
+The Watsons Go to Birmingham - 1963 by Curtis, Christopher Paul
+1963 (1963)
+Unknown
 Catherine, Called Birdy by Cushman, Karen
 1290 (1290)
 Unknown
@@ -263,7 +266,7 @@ The Evening and the Morning by Follett, Ken
 997 (997)
 France
 The Pillars of the Earth by Follett, Ken
-Twelfth century (1100 - 1199)
+12th Century (1100 - 1199)
 England
 Winter of the World by Follett, Ken
 World War II (1939 - 1945)
@@ -272,7 +275,7 @@ World Without End by Follett, Ken
 Unknown (-4000 - 2000)
 United Kingdom
 Edge of Eternity by Follett, Ken; Lee, John
-Twentieth century (1900 - 1999)
+20th Century (1900 - 1999)
 Germany
 Hotel on the Corner of Bitter and Sweet by Ford, Jamie
 1986 (1986)
@@ -370,6 +373,9 @@ England
 The Kitchen House by Grissom, Kathleen
 Unknown (-4000 - 2000)
 Virginia
+Matrix by Groff, Lauren
+Unknown (-4000 - 2000)
+England
 At the Water's Edge by Gruen, Sara
 1942 (1942)
 Europe
@@ -412,6 +418,9 @@ Italy
 The Scarlet Letter by Hawthorne, Nathaniel; James, Henry; Baym, Nina
 1642 (1642)
 Massachusetts
+A Thousand Ships by Haynes, Natalie
+Unknown (-4000 - 2000)
+Greece
 Catch-22 by Heller, Joseph
 Unknown (-4000 - 2000)
 Italy
@@ -652,6 +661,9 @@ England
 The Marriage Portrait by O'Farrell, Maggie
 Unknown (-4000 - 2000)
 Italy
+The English Patient by Ondaatje, Michael
+Unknown (-4000 - 2000)
+Egypt
 The Scarlet Pimpernel by Orczy, Emmuska; Page, Michael
 1792 (1792)
 England
@@ -668,14 +680,17 @@ Here Be Dragons by Penman, Sharon Kay
 1183 (1183)
 England
 The Sunne in Splendour by Penman, Sharon Kay
-Fifteenth century (1400 - 1499)
+15th Century (1400 - 1499)
 England
 The Lost Apothecary by Penner, Sarah
 1791 (1791)
 England
 The Essex Serpent by Perry, Sarah
-Nineteenth century (1800 - 1899)
+19th Century (1800 - 1899)
 England
+The Secrets We Kept by Prescott, Lara; Uiterweer, Ellis Post; Uiterweer, Anna Post
+20th Century (1900 - 1999)
+Unknown
 Gates of Fire by Pressfield, Steven
 Unknown (-4000 - 2000)
 Greece

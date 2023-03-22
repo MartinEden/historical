@@ -3,27 +3,36 @@ package eden.historical.categorization
 import eden.historical.models.BookMetadata
 import eden.historical.models.Period
 
-class CenturyRule(name: String, private val period: Period) : Rule {
-    private val regex = Regex("""the $name century""")
+class CenturyRule(century: Int) : Rule {
+    private val ordinalAsWord = ordinals[century - 1]
+    private val ordinalAsNumber = ordinalWithSuffix(century)
+    private val startYear = ((century - 1) * 100)
+        .coerceAtLeast(1) // There is no 0 AD
+    private val period = Period("$ordinalAsNumber Century", startYear, startYear + 99)
+    private val regex = Regex("""the $ordinalAsWord century""")
 
     override fun apply(book: BookMetadata): Categorization? {
+        // if (book.tags.any { it == "$ordinalAsNumber Century" } ||
         return if (regex.containsMatchIn(book.synopsis)) {
             Categorization(period = period)
         } else null
     }
 
+    private fun ordinalWithSuffix(number: Int): String = when (number) {
+        1 -> "1st"
+        2 -> "2nd"
+        3 -> "3rd"
+        else -> "${number}th"
+    }
+
     companion object {
-        val all by lazy {
-            var startYear = 0
-            ordinals.map {
-                val capitalized = it.replaceFirstChar { it.uppercase() }
-                val rule = CenturyRule(it, Period("$capitalized century", startYear.coerceAtLeast(1), startYear + 99))
-                startYear += 100
-                rule
+        val all = sequence {
+            for (century in 1..21) {
+                yield(CenturyRule(century))
             }
         }
 
-        private val ordinals = listOf(
+        val ordinals = listOf(
             "first",
             "second",
             "third",
