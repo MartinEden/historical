@@ -1,0 +1,3 @@
+Countries: https://github.com/datasets/geo-countries/
+Nations of England: https://geoportal.statistics.gov.uk/datasets/ons::countries-december-2022-gb-bfc
+US States: https://eric.clst.org/tech/usgeojson/
