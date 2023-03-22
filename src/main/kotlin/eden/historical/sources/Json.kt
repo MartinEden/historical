@@ -15,7 +15,7 @@ value class Json(private val value: Map<*,*>) {
         throw Exception("Tried to treat $raw as list in JSON lookup")
     }
 
-    private fun getSomething(key: String): Any = value[key] ?: throw Exception("Couldn't find key '$key' in $value")
+    private fun getSomething(key: String): Any? = value[key]
 
     fun getLookupWithKeyMatching(regex: Regex): Json {
         for (key in keys) {

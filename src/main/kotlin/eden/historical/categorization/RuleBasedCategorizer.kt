@@ -30,6 +30,15 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
                 Categorization(period = Period("Tudor", 1485, 1603))
             )
         )
+        yield(
+            TagRule(
+                "American Revolutionary War",
+                Categorization(
+                    period = Period("American Revolutionary War", 1775, 1783),
+                    place =  Place.Area(countries.single { it.iso3 == "USA" }.name, emptyList())
+                )
+            )
+        )
         yieldAll(CenturyRule.all)
         yieldAll(LocationRule.from(countries))
         yield(HandwrittenCategorizationRule())

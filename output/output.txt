@@ -17,8 +17,8 @@ Daughter of Fortune by Allende, Isabel; Peden, Margaret Sayers
 1849 (1849)
 California
 Chains by Anderson, Laurie Halse
-Unknown (-4000 - 2000)
-Unknown
+American Revolutionary War (1775 - 1783)
+United States of America
 Fever 1793 by Anderson, Laurie Halse
 1793 (1793)
 Unknown
@@ -48,7 +48,7 @@ Pride and Prejudice by Austen, Jane; Quindlen, Anna
 England
 Emma by Austen, Jane; Stafford, Fiona
 Unknown (-4000 - 2000)
-Unknown
+United Kingdom
 The True Confessions of Charlotte Doyle by Avi
 Unknown (-4000 - 2000)
 England
@@ -75,7 +75,7 @@ Unknown (-4000 - 2000)
 California
 Lovely War by Berry, Julie
 1917 (1917)
-Unknown
+France
 Those Who Save Us by Blum, Jenna
 World War II (1939 - 1945)
 Europe
@@ -138,7 +138,7 @@ The Luminaries by Catton, Eleanor
 New Zealand
 The Amazing Adventures of Kavalier & Clay by Chabon, Michael
 Unknown (-4000 - 2000)
-Unknown
+Czech Republic
 The Paris Library by Charles, Janet Skeslien
 1939 (1939)
 Europe
@@ -159,7 +159,7 @@ Jonathan Strange & Mr Norrell by Clarke, Susanna
 United Kingdom
 Shōgun by Clavell, James
 Unknown (-4000 - 2000)
-Unknown
+Japan
 Next Year in Havana by Cleeton, Chanel
 1958 (1958)
 Cuba
@@ -225,7 +225,7 @@ Unknown (-4000 - 2000)
 Italy
 Bringing Down the Duke by Dunmore, Evie
 1879 (1879)
-Unknown
+United Kingdom
 The Name of the Rose by Eco, Umberto; Weaver, William
 1327 (1327)
 Italy
@@ -249,13 +249,13 @@ The Great Gatsby by Fitzgerald, F. Scott
 Unknown
 A Column of Fire by Follett, Ken
 1558 (1558)
-Unknown
+Belgium
 Fall of Giants by Follett, Ken
 1911 (1911)
-Unknown
+Germany
 The Evening and the Morning by Follett, Ken
 Unknown (-4000 - 2000)
-Unknown
+France
 The Pillars of the Earth by Follett, Ken
 Twelfth century (1100 - 1199)
 England
@@ -264,10 +264,10 @@ World War II (1939 - 1945)
 Europe
 World Without End by Follett, Ken
 Unknown (-4000 - 2000)
-Unknown
+United Kingdom
 Edge of Eternity by Follett, Ken; Lee, John
 Twentieth century (1900 - 1999)
-Unknown
+Germany
 Hotel on the Corner of Bitter and Sweet by Ford, Jamie
 1986 (1986)
 Europe
@@ -291,7 +291,7 @@ Unknown (-4000 - 2000)
 Scotland
 Drums of Autumn by Gabaldon, Diana
 Unknown (-4000 - 2000)
-Unknown
+United Kingdom
 Outlander by Gabaldon, Diana
 1945 (1945)
 Scotland
@@ -330,7 +330,7 @@ Tudor (1485 - 1603)
 England
 The Constant Princess by Gregory, Philippa
 Tudor (1485 - 1603)
-Unknown
+United Kingdom
 The Kingmaker's Daughter by Gregory, Philippa
 Unknown (-4000 - 2000)
 England
@@ -348,7 +348,7 @@ Tudor (1485 - 1603)
 Unknown
 The Queen's Fool by Gregory, Philippa
 1553 (1553)
-Unknown
+France
 The Red Queen by Gregory, Philippa
 Tudor (1485 - 1603)
 Unknown
@@ -402,7 +402,7 @@ What the Wind Knows by Harmon, Amy
 Ireland
 Pompeii by Harris, Robert
 Unknown (-4000 - 2000)
-Unknown
+Italy
 The Scarlet Letter by Hawthorne, Nathaniel; James, Henry; Baym, Nina
 1642 (1642)
 Massachusetts
@@ -528,7 +528,7 @@ Unknown (-4000 - 2000)
 England
 Pachinko by Lee, Min Jin
 1900s (1900 - 1910)
-Unknown
+Japan
 The Downstairs Girl by Lee, Stacey
 Unknown (-4000 - 2000)
 Georgia
@@ -561,7 +561,7 @@ Unknown (-4000 - 2000)
 Kenya
 The Paris Wife by McLain, Paula
 1920 (1920)
-Unknown
+Spain
 Lonesome Dove by McMurtry, Larry
 Unknown (-4000 - 2000)
 Texas
@@ -585,10 +585,13 @@ Unknown (-4000 - 2000)
 Unknown
 Madame Tussaud: A Novel of the French Revolution by Moran, Michelle
 1788 (1788)
-Unknown
+France
 Nefertiti by Moran, Michelle
 Unknown (-4000 - 2000)
 Unknown
+The Heretic Queen by Moran, Michelle
+Unknown (-4000 - 2000)
+Egypt
 Mexican Gothic by Moreno-Garcia, Silvia
 Unknown (-4000 - 2000)
 Mexico
@@ -612,7 +615,7 @@ Unknown (-4000 - 2000)
 Australia
 The House at Riverton by Morton, Kate
 Unknown (-4000 - 2000)
-Unknown
+United Kingdom
 The Secret Keeper by Morton, Kate
 Unknown (-4000 - 2000)
 Unknown
@@ -639,7 +642,7 @@ Hamnet by O'Farrell, Maggie
 England
 The Marriage Portrait by O'Farrell, Maggie
 Unknown (-4000 - 2000)
-Unknown
+Italy
 The Scarlet Pimpernel by Orczy, Emmuska; Page, Michael
 Unknown (-4000 - 2000)
 England
@@ -664,6 +667,9 @@ England
 The Essex Serpent by Perry, Sarah
 Nineteenth century (1800 - 1899)
 England
+Gates of Fire by Pressfield, Steven
+Unknown (-4000 - 2000)
+Greece
 The Hangman's Daughter by Pötzsch, Oliver; Chadeayne, Lee; Marić, Sabine
 1659 (1659)
 Germany
@@ -717,7 +723,7 @@ Unknown (-4000 - 2000)
 California
 Dissolution by Sansom, C.J.
 Tudor (1485 - 1603)
-Unknown
+United Kingdom
 Lincoln in the Bardo by Saunders, George
 1862 (1862)
 Unknown
@@ -729,7 +735,7 @@ The Invisible Life of Addie LaRue by Schwab, V.E.
 France
 Shanghai Girls by See, Lisa
 1937 (1937)
-Unknown
+China
 Snow Flower and the Secret Fan by See, Lisa
 Unknown (-4000 - 2000)
 China
@@ -738,7 +744,7 @@ Unknown (-4000 - 2000)
 Unknown
 The Invention of Hugo Cabret by Selznick, Brian
 Unknown (-4000 - 2000)
-Unknown
+France
 Between Shades of Gray by Sepetys, Ruta
 1941 (1941)
 Europe
@@ -762,7 +768,7 @@ Unknown (-4000 - 2000)
 England
 The Thirteenth Tale by Setterfield, Diane
 Unknown (-4000 - 2000)
-Unknown
+United Kingdom
 The Killer Angels by Shaara, Michael
 Unknown (-4000 - 2000)
 Pennsylvania
@@ -816,7 +822,7 @@ Unknown (-4000 - 2000)
 Russia
 War and Peace by Tolstoy, Leo; Maude, Aylmer; Maude, Louise
 1812 (1812)
-Russia
+Czech Republic
 A Gentleman in Moscow: A Novel by Towles, Amor
 1922 (1922)
 Unknown
@@ -834,7 +840,7 @@ Unknown (-4000 - 2000)
 Missouri
 Brooklyn by Tóibín, Colm
 1950s (1950 - 1960)
-Unknown
+Ireland
 The Color Purple by Walker, Alice
 Unknown (-4000 - 2000)
 Georgia
@@ -846,7 +852,7 @@ The Paying Guests by Waters, Sarah
 England
 Tipping the Velvet by Waters, Sarah
 Unknown (-4000 - 2000)
-Unknown
+United Kingdom
 The Golem and the Jinni by Wecker, Helene
 1899 (1899)
 Unknown
@@ -858,7 +864,7 @@ World War II (1939 - 1945)
 Europe
 Innocent Traitor by Weir, Alison
 Tudor (1485 - 1603)
-Unknown
+United Kingdom
 And I Darken by White, Kiersten
 Unknown (-4000 - 2000)
 Unknown

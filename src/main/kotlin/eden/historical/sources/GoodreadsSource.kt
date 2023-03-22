@@ -48,7 +48,12 @@ class GoodreadsSource(private val fetcher: Fetcher) : BookSource {
         val workData = jsonData["props"]["pageProps"]["apolloState"].getLookupWithKeyMatching(Regex("^Work:"))
         return workData["details"]
             .list("places")
-            .map { it.value("name") }
+            .flatMap {
+                listOfNotNull(
+                    it.value("name"),
+                    it.value("countryName")
+                )
+            }
             .toSet()
     }
 }
