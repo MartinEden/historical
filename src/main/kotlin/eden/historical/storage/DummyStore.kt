@@ -6,7 +6,7 @@ class DummyStore : Store {
     override fun put(book: CategorizedBook) {
         println(""""${book.title}" by ${book.authors.joinToString()}""")
         println("\t${book.period}")
-        println("\t${book.location.name}")
+        println("\t${book.place.name}")
     }
 
     override fun save() {

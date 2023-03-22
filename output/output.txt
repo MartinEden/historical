@@ -280,6 +280,9 @@ United Kingdom
 Edge of Eternity by Follett, Ken; Lee, John
 20th Century (1900 - 1999)
 Germany
+Johnny Tremain by Forbes, Esther; Ward, Lynd
+1775 (1775)
+Massachusetts
 Hotel on the Corner of Bitter and Sweet by Ford, Jamie
 1986 (1986)
 Europe
@@ -937,3 +940,6 @@ Spain
 The Book Thief by Zusak, Markus
 1939 (1939)
 Europe
+
+Number of books: 314
+Missing pieces of data: 152
