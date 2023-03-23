@@ -13,12 +13,13 @@ class RequiresLoginFetcher(private val nestedFetcher: JsoupFetcher): Fetcher {
 
     override fun get(url: String, cookies: Map<String, String>): Document {
         if (loginCookies["at-main"].isNullOrBlank() || loginCookies["ubid-main"].isNullOrBlank()) {
-            doLogin()
+            getCookiesFromUser()
         }
+        // TODO: Check cookies haven't expired
         return nestedFetcher.get(url, cookies + loginCookies.mapValues { (_, v) -> v!! })
     }
 
-    private fun doLogin() {
+    private fun getCookiesFromUser() {
         println("Missing Goodreads cookie data.")
         loginCookies = mapOf(
             "at-main" to promptUser("Please provide value for 'at-main' cookie: "),

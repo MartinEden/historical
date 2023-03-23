@@ -10,11 +10,13 @@ class NovelProcessingJob(
     private val store: Store
 ) {
     fun run() {
-        for (book in bookSource.books) {
-            val categorizedBook = categorizer.categorize(book)
-            store.put(categorizedBook)
+        try {
+            for (book in bookSource.books) {
+                val categorizedBook = categorizer.categorize(book)
+                store.put(categorizedBook)
+            }
+        } finally {
+            store.save()
         }
-        // TODO: Put this in a try... finally so that we save even if an exception occurs
-        store.save()
     }
 }
