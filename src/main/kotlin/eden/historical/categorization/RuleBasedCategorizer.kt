@@ -1,9 +1,6 @@
 package eden.historical.categorization
 
-import eden.historical.models.BookMetadata
-import eden.historical.models.CategorizedBook
-import eden.historical.models.Period
-import eden.historical.models.Place
+import eden.historical.models.*
 import eden.historical.models.countries.Country
 
 class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
@@ -73,9 +70,16 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
 
     override fun categorize(book: BookMetadata): CategorizedBook {
         val candidates = rules.mapNotNull { it.apply(book) } + defaultCategorization
-        // TODO: distinguish by confidence
-        // TODO: distinguish by specificity
-        val period = candidates.firstNotNullOf { it.period }
+        // TODO: distinguish period & place by confidence
+
+        // TODO: take smallest intersection? e.g. 15th century / tudor
+        val period = candidates
+            .map { it.period }
+            .filterNotNull()
+            .sortedWith(Period.Specificity())
+            .firstOrNull() ?: Period.Unknown
+
+        // TODO: distinguish places by specificity
         val place = candidates.firstNotNullOf { it.place }
         return CategorizedBook(book.book, period, place)
     }

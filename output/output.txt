@@ -74,7 +74,7 @@ The Personal Librarian by Benedict, Marie; Murray, Victoria Christopher
 Unknown
 United States of America
 City of Thieves by Benioff, David
-World War II (1939 - 1945)
+1942 (1942)
 Europe
 The Aviator's Wife by Benjamin, Melanie
 1927 (1927)
@@ -89,7 +89,7 @@ Those Who Save Us by Blum, Jenna
 World War II (1939 - 1945)
 Europe
 The Boy in the Striped Pajamas by Boyne, John
-World War II (1939 - 1945)
+1943 (1943)
 Europe
 The Heart's Invisible Furies by Boyne, John
 Unknown
@@ -181,6 +181,9 @@ California
 The Water Dancer by Coates, Ta-Nehisi
 Unknown
 Virginia
+Agincourt by Cornwell, Bernard
+1415 (1415)
+England
 Sword Song by Cornwell, Bernard
 Unknown
 England
@@ -215,7 +218,7 @@ The Red Tent by Diamant, Anita
 Unknown
 Unknown
 A Tale of Two Cities by Dickens, Charles; Maxwell, Richard
-19th Century (1800 - 1899)
+1789 (1789)
 England
 All the Light We Cannot See by Doerr, Anthony
 World War II (1939 - 1945)
@@ -239,7 +242,7 @@ My Dear Hamilton: A Novel of Eliza Schuyler Hamilton by Dray, Stephanie; Kamoie,
 Unknown
 United States of America
 The Count of Monte Cristo by Dumas, Alexandre; Buss, Robin
-1840s (1840 - 1850)
+1815 (1815)
 France
 The Three Musketeers by Dumas, Alexandre; Pevear, Richard; Lee, John
 1627 (1627)
@@ -260,7 +263,7 @@ Middlesex by Eugenides, Jeffrey
 1967 (1967)
 Michigan
 The Crimson Petal and the White by Faber, Michel
-19th Century (1800 - 1899)
+1874 (1874)
 England
 One Thousand White Women: The Journals of May Dodd by Fergus, Jim
 1875 (1875)
@@ -350,17 +353,20 @@ These Violent Delights by Gong, Chloe
 1926 (1926)
 China
 Ross Poldark by Graham, Winston
-18th Century (1700 - 1799)
+1783 (1783)
 England
 I, Claudius by Graves, Robert
 Unknown
 Italy
 The Boleyn Inheritance by Gregory, Philippa
-Tudor (1485 - 1603)
+1539 (1539)
 England
 The Constant Princess by Gregory, Philippa
 Tudor (1485 - 1603)
 United Kingdom
+The King's Curse by Gregory, Philippa
+16th Century (1500 - 1599)
+Unknown
 The Kingmaker's Daughter by Gregory, Philippa
 Unknown
 England
@@ -368,22 +374,22 @@ The Lady of the Rivers by Gregory, Philippa
 Unknown
 England
 The Other Boleyn Girl by Gregory, Philippa
-Tudor (1485 - 1603)
+1521 (1521)
 England
 The Other Boleyn Girl by Gregory, Philippa
-Tudor (1485 - 1603)
+1521 (1521)
 England
 The Other Queen by Gregory, Philippa
-Tudor (1485 - 1603)
+1568 (1568)
 Unknown
 The Queen's Fool by Gregory, Philippa
 1553 (1553)
 France
 The Red Queen by Gregory, Philippa
-Tudor (1485 - 1603)
+15th Century (1400 - 1499)
 Unknown
 The Virgin's Lover by Gregory, Philippa
-Tudor (1485 - 1603)
+16th Century (1500 - 1599)
 United Kingdom
 The White Princess by Gregory, Philippa
 Tudor (1485 - 1603)
@@ -587,13 +593,13 @@ Stalking Jack the Ripper by Maniscalco, Kerri
 1888 (1888)
 Unknown
 Bring Up the Bodies by Mantel, Hilary
-Tudor (1485 - 1603)
+1536 (1536)
 England
 The Mirror & the Light by Mantel, Hilary
 1536 (1536)
 England
 Wolf Hall by Mantel, Hilary
-1520s (1520 - 1530)
+1500 (1500)
 England
 The Thorn Birds by McCullough, Colleen
 Unknown
@@ -713,7 +719,7 @@ The Dutch House by Patchett, Ann
 Unknown
 Pennsylvania
 Here Be Dragons by Penman, Sharon Kay
-13th Century (1200 - 1299)
+1183 (1183)
 England
 The Sunne in Splendour by Penman, Sharon Kay
 15th Century (1400 - 1499)
@@ -737,7 +743,7 @@ The Hangman's Daughter by Pötzsch, Oliver; Chadeayne, Lee; Marić, Sabine
 1659 (1659)
 Germany
 The Duke and I by Quinn, Julia
-Regency (1795 - 1837)
+1813 (1813)
 England
 The Viscount Who Loved Me by Quinn, Julia
 1814 (1814)
@@ -785,7 +791,7 @@ Esperanza Rising by Ryan, Pam Muñoz
 Unknown
 California
 Dissolution by Sansom, C.J.
-Tudor (1485 - 1603)
+1573 (1573)
 United Kingdom
 Lincoln in the Bardo by Saunders, George
 1862 (1862)
@@ -935,7 +941,7 @@ Rose Under Fire by Wein, Elizabeth
 World War II (1939 - 1945)
 Europe
 Innocent Traitor by Weir, Alison
-Tudor (1485 - 1603)
+16th Century (1500 - 1599)
 United Kingdom
 And I Darken by White, Kiersten
 Unknown
@@ -971,5 +977,5 @@ The Book Thief by Zusak, Markus
 1939 (1939)
 Europe
 
-Number of books: 324
-Missing pieces of data: 126
+Number of books: 326
+Missing pieces of data: 127
