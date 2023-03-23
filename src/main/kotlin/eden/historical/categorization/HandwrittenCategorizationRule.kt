@@ -27,4 +27,4 @@ class HandwrittenCategorizationRule : Rule {
     override fun apply(book: BookMetadata) = extraCategorizations[book.book.id]
 }
 
-private data class ManualBookData(val id: String, val period: Period?, val place: Place?)
+private data class ManualBookData(val id: String, val period: Period.Range?, val place: Place?)

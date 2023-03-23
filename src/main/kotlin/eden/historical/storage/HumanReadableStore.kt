@@ -25,7 +25,7 @@ class HumanReadableStore : Store {
             }
             f.write("\n")
             f.write("Number of books: ${books.size}\n")
-            val missingDataPoints = books.count { it.period == Period.default } + books.count { it.place == Place.Unknown }
+            val missingDataPoints = books.count { it.period == Period.Unknown } + books.count { it.place == Place.Unknown }
             f.write("Missing pieces of data: $missingDataPoints\n")
         }
     }

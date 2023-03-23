@@ -14,7 +14,7 @@ class CenturyRule(century: Int) : Rule {
     private val ordinalAsNumber = ordinalWithSuffix(century)
     private val startYear = ((century - 1) * 100)
         .coerceAtLeast(1) // There is no 0 AD
-    private val period = Period("$ordinalAsNumber Century", startYear, startYear + 99)
+    private val period = Period.Range("$ordinalAsNumber Century", startYear, startYear + 99)
     private val regex = Regex("""the $ordinalAsWord century""")
 
     override fun apply(book: BookMetadata): Categorization? {

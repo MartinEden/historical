@@ -1,19 +1,34 @@
 package eden.historical.models
 
-data class Period(
-    val name: String,
-    val start: Int,
-    val end: Int
-) {
-    companion object {
-        val default = Period("Unknown", -4000, 2000)
-    }
+import kotlin.math.absoluteValue
 
-    override fun toString(): String {
-        return if (start != end) {
-            "$name ($start - $end)"
-        } else {
-            "$name ($start)"
+sealed class Period {
+    object Unknown : Period() {
+        override fun toString() = "Unknown"
+    }
+    data class Range(
+        val name: String,
+        val start: Int,
+        val end: Int
+    ): Period() {
+
+        private val startAsYear
+            get() = start.yearToString()
+        private val endAsYear
+            get() = end.yearToString()
+
+        override fun toString(): String {
+            return if (start != end) {
+                "$name ($startAsYear - $endAsYear)"
+            } else {
+                "$name ($startAsYear)"
+            }
         }
     }
+}
+
+fun Int.yearToString() = if (this > 0) {
+    this.toString()
+} else {
+    "${this.absoluteValue}BC"
 }

@@ -15,7 +15,7 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
             TagRule(
                 "World War II",
                 Categorization(
-                    Period("World War II", 1939, 1945),
+                    Period.Range("World War II", 1939, 1945),
                     Place.Area("Europe", emptyList())
                 )
             )
@@ -29,14 +29,14 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
         yield(
             TagRule(
                 "Tudor Period",
-                Categorization(period = Period("Tudor", 1485, 1603))
+                Categorization(period = Period.Range("Tudor", 1485, 1603))
             )
         )
         yield(
             TagRule(
                 "Regency",
                 Categorization(
-                    period = Period("Regency", 1795, 1837),
+                    period = Period.Range("Regency", 1795, 1837),
                     // TODO: Needs low confidence
                     place = countries.single { it.defaultName == "England" }.asPlace()
                 )
@@ -45,14 +45,14 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
         yield(
             TagRule(
                 "Prehistoric",
-                Categorization(period = Period("Prehistoric", -20000, -5000))
+                Categorization(period = Period.Range("Prehistoric", -20000, -5000))
             )
         )
         yield(
             TagRule(
                 "American Revolutionary War",
                 Categorization(
-                    period = Period("American Revolutionary War", 1775, 1783),
+                    period = Period.Range("American Revolutionary War", 1775, 1783),
                     place =  countries.single { it.iso3 == "USA" }.asPlace()
                 )
             )
@@ -63,7 +63,7 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
         yield(HandwrittenCategorizationRule())
     }
 
-    private val defaultCategorization = Categorization(Period.default, Place.Unknown)
+    private val defaultCategorization = Categorization(Period.Unknown, Place.Unknown)
 
     override fun categorize(book: BookMetadata): CategorizedBook {
         val candidates = rules.mapNotNull { it.apply(book) } + defaultCategorization
