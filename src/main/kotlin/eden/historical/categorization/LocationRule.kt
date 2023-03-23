@@ -13,7 +13,9 @@ data class LocationRule(val namesToMatch: Set<String>, val categorization: Categ
 
     companion object {
         fun from(countries: List<Country>) = countries.map {
-            LocationRule(it.names.toSet(), Categorization(place = Place.Area(it.defaultName, emptyList())))
+            LocationRule(it.names.toSet(), Categorization(place = it.asPlace()))
         }
     }
 }
+
+fun Country.asPlace() = Place.Area(defaultName, emptyList())

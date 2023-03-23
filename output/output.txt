@@ -23,7 +23,7 @@ Fever 1793 by Anderson, Laurie Halse
 1793 (1793)
 United States of America
 The Bear and the Nightingale by Arden, Katherine
-Unknown (-4000 - 2000)
+14th Century (1300 - 1399)
 Russia
 Life After Life by Atkinson, Kate
 1910 (1910)
@@ -59,8 +59,8 @@ The True Confessions of Charlotte Doyle by Avi
 1832 (1832)
 England
 Longbourn by Baker, Jo
-Unknown (-4000 - 2000)
-Unknown
+Regency (1795 - 1837)
+England
 The Silence of the Girls by Barker, Pat
 Unknown (-4000 - 2000)
 Unknown
@@ -427,6 +427,9 @@ Ireland
 Pompeii by Harris, Robert
 79 (79)
 Italy
+The Once and Future Witches by Harrow, Alix E.
+1893 (1893)
+Massachusetts
 The Scarlet Letter by Hawthorne, Nathaniel; James, Henry; Baym, Nina
 1642 (1642)
 Massachusetts
@@ -538,6 +541,9 @@ Minnesota
 Babel, Or the Necessity of Violence: An Arcane History of the Oxford Translators' Revolution by Kuang, R.F.
 1828 (1828)
 England
+The Poppy War by Kuang, R.F.
+Unknown (-4000 - 2000)
+Unknown
 Grave Mercy by LaFevers, Robin
 1485 (1485)
 France
@@ -700,6 +706,9 @@ England
 The Essex Serpent by Perry, Sarah
 19th Century (1800 - 1899)
 England
+The Storyteller by Picoult, Jodi
+World War II (1939 - 1945)
+Europe
 The Secrets We Kept by Prescott, Lara; Uiterweer, Ellis Post; Uiterweer, Anna Post
 20th Century (1900 - 1999)
 Unknown
@@ -710,11 +719,11 @@ The Hangman's Daughter by Pötzsch, Oliver; Chadeayne, Lee; Marić, Sabine
 1659 (1659)
 Germany
 The Duke and I by Quinn, Julia
-1813 (1813)
-Unknown
+Regency (1795 - 1837)
+England
 The Viscount Who Loved Me by Quinn, Julia
 1814 (1814)
-Unknown
+England
 The Alice Network by Quinn, Kate
 1947 (1947)
 Europe
@@ -944,5 +953,5 @@ The Book Thief by Zusak, Markus
 1939 (1939)
 Europe
 
-Number of books: 315
-Missing pieces of data: 130
+Number of books: 318
+Missing pieces of data: 127

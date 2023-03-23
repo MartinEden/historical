@@ -34,6 +34,16 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
         )
         yield(
             TagRule(
+                "Regency",
+                Categorization(
+                    period = Period("Regency", 1795, 1837),
+                    // TODO: Needs low confidence
+                    place = countries.single { it.defaultName == "England" }.asPlace()
+                )
+            )
+        )
+        yield(
+            TagRule(
                 "Prehistoric",
                 Categorization(period = Period("Prehistoric", -20000, -5000))
             )
@@ -43,7 +53,7 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
                 "American Revolutionary War",
                 Categorization(
                     period = Period("American Revolutionary War", 1775, 1783),
-                    place =  Place.Area(countries.single { it.iso3 == "USA" }.defaultName, emptyList())
+                    place =  countries.single { it.iso3 == "USA" }.asPlace()
                 )
             )
         )
