@@ -43,7 +43,7 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
                 "American Revolutionary War",
                 Categorization(
                     period = Period("American Revolutionary War", 1775, 1783),
-                    place =  Place.Area(countries.single { it.iso3 == "USA" }.name, emptyList())
+                    place =  Place.Area(countries.single { it.iso3 == "USA" }.defaultName, emptyList())
                 )
             )
         )

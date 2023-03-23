@@ -21,12 +21,15 @@ American Revolutionary War (1775 - 1783)
 United States of America
 Fever 1793 by Anderson, Laurie Halse
 1793 (1793)
-Unknown
+United States of America
 The Bear and the Nightingale by Arden, Katherine
 Unknown (-4000 - 2000)
 Russia
 Life After Life by Atkinson, Kate
 1910 (1910)
+Europe
+Transcription by Atkinson, Kate
+1940 (1940)
 Europe
 Alias Grace by Atwood, Margaret
 1843 (1843)
@@ -66,7 +69,7 @@ Unknown (-4000 - 2000)
 Unknown
 The Personal Librarian by Benedict, Marie; Murray, Victoria Christopher
 Unknown (-4000 - 2000)
-Unknown
+United States of America
 City of Thieves by Benioff, David
 World War II (1939 - 1945)
 Europe
@@ -99,7 +102,7 @@ A Great and Terrible Beauty by Bray, Libba
 England
 The Diviners by Bray, Libba
 1926 (1926)
-Unknown
+United States of America
 Moloka'i by Brennert, Alan
 1891 (1891)
 Hawaii
@@ -135,7 +138,7 @@ Kindred by Butler, Octavia E.
 Maryland
 The Alienist by Carr, Caleb
 1896 (1896)
-Unknown
+United States of America
 The Luminaries by Catton, Eleanor
 1866 (1866)
 New Zealand
@@ -198,7 +201,7 @@ Bud, Not Buddy by Curtis, Christopher Paul
 Michigan
 The Watsons Go to Birmingham - 1963 by Curtis, Christopher Paul
 1963 (1963)
-Unknown
+United States of America
 Catherine, Called Birdy by Cushman, Karen
 1290 (1290)
 Unknown
@@ -216,7 +219,7 @@ Cloud Cuckoo Land by Doerr, Anthony
 Idaho
 A Northern Light by Donnelly, Jennifer
 1906 (1906)
-Unknown
+United States of America
 The Pull of the Stars by Donoghue, Emma
 1918 (1918)
 Ireland
@@ -258,7 +261,7 @@ Unknown (-4000 - 2000)
 Italy
 The Great Gatsby by Fitzgerald, F. Scott
 1920s (1920 - 1930)
-Unknown
+United States of America
 A Column of Fire by Follett, Ken
 1558 (1558)
 Belgium
@@ -321,16 +324,16 @@ Written in My Own Heart's Blood by Gabaldon, Diana
 North Carolina
 Lessons in Chemistry by Garmus, Bonnie
 Unknown (-4000 - 2000)
-Unknown
+United States of America
 City of Girls by Gilbert, Elizabeth
 1940 (1940)
-Unknown
+United States of America
 The Signature of All Things by Gilbert, Elizabeth
 1800 (1800)
-Unknown
+United States of America
 The Luxe by Godbersen, Anna
 1899 (1899)
-Unknown
+United States of America
 Memoirs of a Geisha by Golden, Arthur
 1930 (1930)
 Japan
@@ -390,7 +393,7 @@ At the Water's Edge by Gruen, Sara
 Europe
 Water for Elephants by Gruen, Sara
 1932 (1932)
-Unknown
+United States of America
 Homegoing by Gyasi, Yaa
 Unknown (-4000 - 2000)
 Alabama
@@ -510,7 +513,7 @@ Unknown (-4000 - 2000)
 Unknown
 The Invention of Wings by Kidd, Sue Monk
 1803 (1803)
-Unknown
+United States of America
 The Secret Life of Bees by Kidd, Sue Monk
 1964 (1964)
 South Carolina
@@ -522,7 +525,7 @@ Unknown
 Maine
 The Poisonwood Bible by Kingsolver, Barbara
 1959 (1959)
-Unknown
+United States of America
 Orphan Train by Kline, Christina Baker
 2011 (2011)
 Maine
@@ -540,7 +543,7 @@ Grave Mercy by LaFevers, Robin
 France
 Go Set a Watchman by Lee, Harper
 Unknown (-4000 - 2000)
-Unknown
+United States of America
 To Kill a Mockingbird by Lee, Harper
 1960 (1960)
 Alabama
@@ -600,7 +603,7 @@ Unknown (-4000 - 2000)
 Greece
 Gone with the Wind by Mitchell, Margaret
 Unknown (-4000 - 2000)
-Unknown
+United States of America
 Anne of Green Gables by Montgomery, L.M.
 Unknown (-4000 - 2000)
 Canada
@@ -648,13 +651,13 @@ Unknown (-4000 - 2000)
 Unknown
 The Giver of Stars by Moyes, Jojo
 1937 (1937)
-Unknown
+United States of America
 Love in the Time of Cholera by Márquez, Gabriel García; Grossman, Edith; Risvik, Kjell
 1931 (1931)
 Colombia
 The Sympathizer by Nguyen, Viet Thanh
 1975 (1975)
-Vietnam
+United States of America
 Master and Commander by O'Brian, Patrick
 Unknown (-4000 - 2000)
 Unknown
@@ -759,7 +762,7 @@ Tudor (1485 - 1603)
 United Kingdom
 Lincoln in the Bardo by Saunders, George
 1862 (1862)
-Unknown
+United States of America
 The Reader by Schlink, Bernhard; Janeway, Carol Brown
 World War II (1939 - 1945)
 Europe
@@ -789,7 +792,7 @@ I Must Betray You by Sepetys, Ruta
 Romania
 Out of the Easy by Sepetys, Ruta
 1950 (1950)
-Unknown
+United States of America
 The Fountains of Silence by Sepetys, Ruta
 1957 (1957)
 Texas
@@ -822,7 +825,7 @@ The Summer Before the War by Simonson, Helen
 Unknown
 A Tree Grows in Brooklyn by Smith, Betty
 Unknown (-4000 - 2000)
-Unknown
+United States of America
 The Witch of Blackbird Pond by Speare, Elizabeth George
 Unknown (-4000 - 2000)
 Connecticut
@@ -870,7 +873,7 @@ A Gentleman in Moscow: A Novel by Towles, Amor
 Unknown
 Rules of Civility by Towles, Amor
 1937 (1937)
-Unknown
+United States of America
 The Lincoln Highway by Towles, Amor
 1954 (1954)
 Nebraska
@@ -897,7 +900,7 @@ Unknown (-4000 - 2000)
 United Kingdom
 The Golem and the Jinni by Wecker, Helene
 1899 (1899)
-Unknown
+United States of America
 Code Name Verity by Wein, Elizabeth
 1943 (1943)
 Europe
@@ -941,5 +944,5 @@ The Book Thief by Zusak, Markus
 1939 (1939)
 Europe
 
-Number of books: 314
-Missing pieces of data: 152
+Number of books: 315
+Missing pieces of data: 130
