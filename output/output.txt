@@ -65,7 +65,7 @@ Longbourn by Baker, Jo
 Regency (1795 - 1837)
 England
 The Silence of the Girls by Barker, Pat
-Unknown
+Greek mythology (2000BC - 1000BC)
 Unknown
 The Other Einstein by Benedict, Marie
 Unknown
@@ -157,6 +157,9 @@ Netherlands
 Remarkable Creatures by Chevalier, Tracy
 1810 (1810)
 England
+The Lady and the Unicorn by Chevalier, Tracy
+1490 (1490)
+Belgium
 The Night Tiger by Choo, Yangsze
 Unknown
 Malaysia
@@ -443,7 +446,7 @@ The Scarlet Letter by Hawthorne, Nathaniel; James, Henry; Baym, Nina
 1642 (1642)
 Massachusetts
 A Thousand Ships by Haynes, Natalie
-Unknown
+Greek mythology (2000BC - 1000BC)
 Greece
 Catch-22 by Heller, Joseph
 Unknown
@@ -611,10 +614,10 @@ The Crucible: A Play in Four Acts by Miller, Arthur; Bigsby, Christopher W.E.
 1953 (1953)
 Massachusetts
 Circe by Miller, Madeline
-Unknown
+Greek mythology (2000BC - 1000BC)
 Greece
 The Song of Achilles by Miller, Madeline
-Unknown
+Greek mythology (2000BC - 1000BC)
 Greece
 The Thousand Autumns of Jacob de Zoet by Mitchell, David
 1799 (1799)
@@ -968,5 +971,5 @@ The Book Thief by Zusak, Markus
 1939 (1939)
 Europe
 
-Number of books: 323
-Missing pieces of data: 130
+Number of books: 324
+Missing pieces of data: 126

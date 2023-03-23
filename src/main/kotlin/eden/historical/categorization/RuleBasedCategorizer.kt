@@ -50,6 +50,12 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
         )
         yield(
             TagRule(
+                "Greek Mythology",
+                Categorization(period = Period.Range("Greek mythology", -2000, -1000))
+            )
+        )
+        yield(
+            TagRule(
                 "American Revolutionary War",
                 Categorization(
                     period = Period.Range("American Revolutionary War", 1775, 1783),
