@@ -14,5 +14,45 @@
 			"start": 1300,
 			"end": 1399
 		}
+	},
+	{
+		"id": "https://www.goodreads.com/book/show/40611463-the-clan-of-the-cave-bear",
+		"place": {
+			"coords": [],
+			"name": "Earth"
+		}
+	},
+	{
+		"id": "https://www.goodreads.com/book/show/49824.The_Mammoth_Hunters",
+		"place": {
+			"coords": [],
+			"name": "Earth"
+		}
+	},
+	{
+		"id": "https://www.goodreads.com/book/show/40493.The_Valley_of_Horses",
+		"place": {
+			"coords": [],
+			"name": "Earth"
+		}
+	},
+	{
+		"id": "https://www.goodreads.com/book/show/37969723-the-silence-of-the-girls",
+		"place": {
+			"coords": [],
+			"name": "Mediterranean"
+		}
+	},
+	{
+		"id": "https://www.goodreads.com/book/show/28389305-the-other-einstein",
+		"period": {
+			"name": "1875 – 1948",
+			"start": 1875,
+			"end": 1948
+		},
+		"place": {
+			"coords": [],
+			"name": "Europe"
+		}
 	}
 ]

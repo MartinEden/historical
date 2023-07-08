@@ -39,13 +39,13 @@ Alias Grace by Atwood, Margaret
 Canada
 The Clan of the Cave Bear by Auel, Jean M.
 Prehistoric (20000BC - 5000BC)
-Unknown
+Earth
 The Mammoth Hunters by Auel, Jean M.
 Prehistoric (20000BC - 5000BC)
-Unknown
+Earth
 The Valley of Horses by Auel, Jean M.; Burr, Sandra
 Prehistoric (20000BC - 5000BC)
-Unknown
+Earth
 Sense and Sensibility by Austen, Jane; Ballaster, Ros; Остин, Джейн
 19th Century (1800 - 1899)
 England
@@ -66,10 +66,10 @@ Regency (1795 - 1837)
 England
 The Silence of the Girls by Barker, Pat
 Greek mythology (2000BC - 1000BC)
-Unknown
+Mediterranean
 The Other Einstein by Benedict, Marie
-Unknown
-Unknown
+1875 – 1948 (1875 - 1948)
+Europe
 The Personal Librarian by Benedict, Marie; Murray, Victoria Christopher
 Unknown
 United States of America
@@ -235,6 +235,9 @@ Idaho
 A Northern Light by Donnelly, Jennifer
 1906 (1906)
 United States of America
+Revolution by Donnelly, Jennifer
+Unknown
+France
 The Pull of the Stars by Donoghue, Emma
 1918 (1918)
 Ireland
@@ -559,6 +562,9 @@ United States of America
 Orphan Train by Kline, Christina Baker
 2011 (2011)
 Maine
+The Exiles by Kline, Christina Baker
+1840s (1840 - 1850)
+Australia
 The Historian by Kostova, Elizabeth
 1974 (1974)
 England
@@ -598,6 +604,9 @@ California
 Number the Stars by Lowry, Lois
 1943 (1943)
 Europe
+Inside Out & Back Again by Lại, Thanhhà
+1975 (1975)
+Alabama
 Stalking Jack the Ripper by Maniscalco, Kerri
 1888 (1888)
 Unknown
@@ -658,6 +667,9 @@ Egypt
 The Heretic Queen by Moran, Michelle
 Unknown
 Egypt
+Gods of Jade and Shadow by Moreno-Garcia, Silvia
+1927 (1927)
+Mexico
 Mexican Gothic by Moreno-Garcia, Silvia
 Unknown
 Mexico
@@ -986,5 +998,5 @@ The Book Thief by Zusak, Markus
 1939 (1939)
 Europe
 
-Number of books: 329
-Missing pieces of data: 128
+Number of books: 333
+Missing pieces of data: 123
