@@ -16,9 +16,7 @@ sealed class Period {
             get() = start.yearToString()
         private val endAsYear
             get() = end.yearToString()
-        val size by lazy {
-            end - start
-        }
+        val lengthInYears = end - start
 
         override fun toString(): String {
             return if (start != end) {
@@ -34,7 +32,7 @@ sealed class Period {
         // If y is more specific return a positive number
         override fun compare(x: Period, y: Period): Int {
             return when {
-                x is Period.Range && y is Period.Range -> x.size - y.size
+                x is Period.Range && y is Period.Range -> x.lengthInYears - y.lengthInYears
                 x is Period.Unknown && y is Period.Range -> +1
                 x is Period.Range && y is Period.Unknown -> -1
                 else -> 0

@@ -166,6 +166,9 @@ Malaysia
 Clockwork Angel by Clare, Cassandra
 1878 (1878)
 Unknown
+Clockwork Prince by Clare, Cassandra
+1878 (1878)
+Unknown
 Jonathan Strange & Mr Norrell by Clarke, Susanna
 1806 (1806)
 United Kingdom
@@ -183,6 +186,9 @@ Unknown
 Virginia
 Agincourt by Cornwell, Bernard
 1415 (1415)
+England
+Death of Kings by Cornwell, Bernard
+9th Century (800 - 899)
 England
 Sword Song by Cornwell, Bernard
 Unknown
@@ -496,6 +502,9 @@ Maryland
 The Remains of the Day by Ishiguro, Kazuo
 1956 (1956)
 England
+The Librarian of Auschwitz by Iturbe, Antonio; Thwaites, Lilit Žekulin
+World War II (1939 - 1945)
+Europe
 The Snow Child by Ivey, Eowyn
 1920 (1920)
 Alaska
@@ -977,5 +986,5 @@ The Book Thief by Zusak, Markus
 1939 (1939)
 Europe
 
-Number of books: 326
-Missing pieces of data: 127
+Number of books: 329
+Missing pieces of data: 128
