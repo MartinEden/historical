@@ -48,7 +48,10 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
         yield(
             TagRule(
                 "Greek Mythology",
-                Categorization(period = Period.Range("Greek mythology", -2000, -1000))
+                Categorization(
+                    period = Period.Range("Greek mythology", -2000, -1000) withConfidence 0.1f,
+                    place = Place.Area("Mediterranean", emptyList()) withConfidence 0.1f,
+                )
             )
         )
         yield(
@@ -66,21 +69,26 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
         yield(HandwrittenCategorizationRule())
     }
 
-    private val defaultCategorization = Categorization(Period.Unknown, Place.Unknown)
+    private val defaultCategorization = Categorization(
+        Period.Unknown withConfidence 0f,
+        Place.Unknown withConfidence 0f
+    )
 
     override fun categorize(book: BookMetadata): CategorizedBook {
-        val candidates = rules.mapNotNull { it.apply(book) } + defaultCategorization
-        // TODO: distinguish period & place by confidence
+        val candidates = rules.toList().mapNotNull { it.apply(book) } + defaultCategorization
 
         // TODO: take smallest intersection? e.g. 15th century / tudor
         val period = candidates
-            .map { it.period }
-            .filterNotNull()
+            .mapNotNull { it.period }
+            .highestConfidenceInfo()
             .sortedWith(Period.Specificity())
             .firstOrNull() ?: Period.Unknown
 
         // TODO: distinguish places by specificity
-        val place = candidates.firstNotNullOf { it.place }
+        val place = candidates
+            .mapNotNull { it.place }
+            .highestConfidenceInfo()
+            .first()
         return CategorizedBook(book.book, period, place)
     }
 }
