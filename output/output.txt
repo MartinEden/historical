@@ -30,7 +30,7 @@ The Bear and the Nightingale by Arden, Katherine
 Russia
 Life After Life by Atkinson, Kate
 World War II (1939 - 1945)
-Europe
+England
 Transcription by Atkinson, Kate
 World War II (1939 - 1945)
 Europe
@@ -75,7 +75,7 @@ The Personal Librarian by Benedict, Marie; Murray, Victoria Christopher
 United States of America
 City of Thieves by Benioff, David
 1942 (1942)
-Europe
+Russia
 The Aviator's Wife by Benjamin, Melanie
 1927 (1927)
 Mexico
@@ -87,16 +87,16 @@ Lovely War by Berry, Julie
 France
 Those Who Save Us by Blum, Jenna
 World War II (1939 - 1945)
-Europe
+Germany
 The Boy in the Striped Pajamas by Boyne, John
 1943 (1943)
-Europe
+Germany
 The Heart's Invisible Furies by Boyne, John
 Unknown
 Ireland
 The War That Saved My Life by Bradley, Kimberly Brubaker
 World War II (1939 - 1945)
-Europe
+England
 The Mists of Avalon by Bradley, Marion Zimmer
 Unknown
 Unknown
@@ -150,7 +150,7 @@ Unknown
 Czech Republic
 The Paris Library by Charles, Janet Skeslien
 World War II (1939 - 1945)
-Europe
+Montana
 Girl with a Pearl Earring by Chevalier, Tracy
 1664 (1664)
 Netherlands
@@ -228,7 +228,7 @@ A Tale of Two Cities by Dickens, Charles; Maxwell, Richard
 England
 All the Light We Cannot See by Doerr, Anthony
 World War II (1939 - 1945)
-Europe
+Germany
 Cloud Cuckoo Land by Doerr, Anthony
 1453 (1453)
 Idaho
@@ -297,7 +297,7 @@ The Pillars of the Earth by Follett, Ken
 England
 Winter of the World by Follett, Ken
 World War II (1939 - 1945)
-Europe
+Germany
 World Without End by Follett, Ken
 Unknown
 United Kingdom
@@ -309,7 +309,7 @@ Johnny Tremain by Forbes, Esther; Ward, Lynd
 Massachusetts
 Hotel on the Corner of Bitter and Sweet by Ford, Jamie
 World War II (1939 - 1945)
-Europe
+United States of America
 Z: A Novel of Zelda Fitzgerald by Fowler, Therese Anne
 1918 (1918)
 Alabama
@@ -414,7 +414,7 @@ Unknown
 England
 At the Water's Edge by Gruen, Sara
 1945 (1945)
-Europe
+Scotland
 Water for Elephants by Gruen, Sara
 1932 (1932)
 United States of America
@@ -435,16 +435,16 @@ The Great Alone by Hannah, Kristin
 Alaska
 The Nightingale by Hannah, Kristin
 1939 (1939)
-Europe
+Oregon
 Winter Garden by Hannah, Kristin
 World War II (1939 - 1945)
-Europe
+United States of America
 The Mercies by Hargrave, Kiran Millwood
 1617 (1617)
 Scotland
 The Book of Lost Names by Harmel, Kristin
 1942 (1942)
-Europe
+Florida
 What the Wind Knows by Harmon, Amy
 1921 (1921)
 Ireland
@@ -471,7 +471,7 @@ Unknown
 Oklahoma
 Girl in the Blue Coat by Hesse, Monica
 World War II (1939 - 1945)
-Europe
+Netherlands
 The Book of Negroes by Hill, Lawrence
 Unknown
 Canada
@@ -492,7 +492,7 @@ Unknown
 France
 We Were the Lucky Ones by Hunter, Georgia
 World War II (1939 - 1945)
-Europe
+Brazil
 Their Eyes Were Watching God by Hurston, Zora Neale
 1928 (1928)
 Florida
@@ -507,7 +507,7 @@ The Remains of the Day by Ishiguro, Kazuo
 England
 The Librarian of Auschwitz by Iturbe, Antonio; Thwaites, Lilit Žekulin
 World War II (1939 - 1945)
-Europe
+Poland
 The Snow Child by Ivey, Eowyn
 1920 (1920)
 Alaska
@@ -516,7 +516,7 @@ The Jane Austen Society by Jenner, Natalie
 England
 The Lost Girls of Paris by Jenoff, Pam
 World War II (1939 - 1945)
-Europe
+France
 The Orphan's Tale by Jenoff, Pam
 World War II (1939 - 1945)
 Europe
@@ -537,7 +537,7 @@ The Winter Sea by Kearsley, Susanna
 Scotland
 Lilac Girls by Kelly, Martha Hall
 World War II (1939 - 1945)
-Europe
+Germany
 Burial Rites by Kent, Hannah
 1829 (1829)
 Iceland
@@ -603,7 +603,7 @@ Last Night at the Telegraph Club by Lo, Malinda
 California
 Number the Stars by Lowry, Lois
 1943 (1943)
-Europe
+Denmark
 Inside Out & Back Again by Lại, Thanhhà
 1975 (1975)
 Alabama
@@ -681,7 +681,7 @@ World War II (1939 - 1945)
 Europe
 The Tattooist of Auschwitz by Morris, Heather
 World War II (1939 - 1945)
-Europe
+Poland
 Beloved by Morrison, Toni
 Unknown
 Kentucky
@@ -753,7 +753,7 @@ The Essex Serpent by Perry, Sarah
 England
 The Storyteller by Picoult, Jodi
 World War II (1939 - 1945)
-Europe
+New Hampshire
 The Secrets We Kept by Prescott, Lara; Uiterweer, Ellis Post; Uiterweer, Anna Post
 20th Century (1900 - 1999)
 Russia
@@ -771,16 +771,16 @@ The Viscount Who Loved Me by Quinn, Julia
 England
 The Alice Network by Quinn, Kate
 World War II (1939 - 1945)
-Europe
+France
 The Diamond Eye by Quinn, Kate
 World War II (1939 - 1945)
-Europe
+Russia
 The Huntress by Quinn, Kate
 World War II (1939 - 1945)
 Europe
 The Rose Code by Quinn, Kate
 1940 (1940)
-Europe
+England
 A Curious Beginning by Raybourn, Deanna
 1887 (1887)
 Unknown
@@ -801,10 +801,10 @@ The Book Woman of Troublesome Creek by Richardson, Kim Michele
 Kentucky
 The Things We Cannot Say by Rimmer, Kelly
 1942 (1942)
-Europe
+Poland
 Sarah's Key by Rosnay, Tatiana de
 1942 (1942)
-Europe
+France
 Sarum: The Novel of England by Rutherfurd, Edward
 Unknown
 United Kingdom
@@ -819,7 +819,7 @@ Lincoln in the Bardo by Saunders, George
 United States of America
 The Reader by Schlink, Bernhard; Janeway, Carol Brown
 World War II (1939 - 1945)
-Europe
+Germany
 The Invisible Life of Addie LaRue by Schwab, V.E.
 1714 (1714)
 France
@@ -840,7 +840,7 @@ The Invention of Hugo Cabret by Selznick, Brian
 France
 Between Shades of Gray by Sepetys, Ruta
 1941 (1941)
-Europe
+Lithuania
 I Must Betray You by Sepetys, Ruta
 1989 (1989)
 Romania
@@ -867,13 +867,13 @@ Unknown
 Pennsylvania
 The Guernsey Literary and Potato Peel Pie Society by Shaffer, Mary Ann; Barrows, Annie
 1946 (1946)
-Europe
+United Kingdom
 The Women in the Castle by Shattuck, Jessica
 World War II (1939 - 1945)
 Europe
 The Bronze Horseman by Simons, Paullina
 1941 (1941)
-Europe
+Russia
 The Summer Before the War by Simonson, Helen
 1914 (1914)
 England
@@ -906,7 +906,7 @@ Uncle Tom's Cabin by Stowe, Harriet Beecher
 Louisiana
 Beneath a Scarlet Sky by Sullivan, Mark T.
 World War II (1939 - 1945)
-Europe
+Italy
 Perfume: The Story of a Murderer by Süskind, Patrick; Woods, John E.
 Unknown
 France
@@ -957,7 +957,7 @@ The Golem and the Jinni by Wecker, Helene
 United States of America
 Code Name Verity by Wein, Elizabeth
 1941 (1941)
-Europe
+England
 Rose Under Fire by Wein, Elizabeth
 World War II (1939 - 1945)
 Europe
@@ -996,7 +996,7 @@ The Shadow of the Wind by Zafón, Carlos Ruiz; Graves, Lucia
 Spain
 The Book Thief by Zusak, Markus
 1939 (1939)
-Europe
+Germany
 
 Number of books: 333
 Missing pieces of data: 101

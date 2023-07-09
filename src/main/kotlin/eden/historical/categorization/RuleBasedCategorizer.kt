@@ -12,8 +12,8 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
             TagRule(
                 "World War II",
                 Categorization(
-                    Period.Range("World War II", 1939, 1945),
-                    Place.Area("Europe", emptyList())
+                    Period.Range("World War II", 1939, 1945) withConfidence 1f,
+                    Place.Area("Europe", emptyList()) withConfidence 0.25f
                 )
             )
         )
