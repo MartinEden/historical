@@ -1,0 +1,7204 @@
+[
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/37781.Things_Fall_Apart",
+      "title": "Things Fall Apart",
+      "authors": [
+        {
+          "lastName": "Achebe",
+          "otherNames": "Chinua"
+        }
+      ]
+    },
+    "period": {
+      "name": "1890s",
+      "start": 1890,
+      "end": 1900,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Nigeria"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/18749.Half_of_a_Yellow_Sun",
+      "title": "Half of a Yellow Sun",
+      "authors": [
+        {
+          "lastName": "Adichie",
+          "otherNames": "Chimamanda Ngozi"
+        }
+      ]
+    },
+    "period": {
+      "name": "1960s",
+      "start": 1960,
+      "end": 1970,
+      "lengthInYears": 10
+    },
+    "place": {
+      "coords": [],
+      "name": "Nigeria"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/1934.Little_Women",
+      "title": "Little Women",
+      "authors": [
+        {
+          "lastName": "Alcott",
+          "otherNames": "Louisa May"
+        },
+        {
+          "lastName": "Barreca",
+          "otherNames": "Regina"
+        },
+        {
+          "lastName": "Komerski",
+          "otherNames": "Grzegorz"
+        }
+      ]
+    },
+    "period": {
+      "name": "1862",
+      "start": 1862,
+      "end": 1862,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Massachusetts"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/46042377-a-long-petal-of-the-sea",
+      "title": "A Long Petal of the Sea",
+      "authors": [
+        {
+          "lastName": "Allende",
+          "otherNames": "Isabel"
+        }
+      ]
+    },
+    "period": {
+      "name": "1930s",
+      "start": 1930,
+      "end": 1940,
+      "lengthInYears": 10
+    },
+    "place": {
+      "coords": [],
+      "name": "Chile"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/9328.The_House_of_the_Spirits",
+      "title": "The House of the Spirits",
+      "authors": [
+        {
+          "lastName": "Allende",
+          "otherNames": "Isabel"
+        },
+        {
+          "lastName": "Bogin",
+          "otherNames": "Magda"
+        }
+      ]
+    },
+    "period": {
+      "name": "20th Century",
+      "start": 1900,
+      "end": 1999,
+      "lengthInYears": 99
+    },
+    "place": {
+      "coords": [],
+      "name": "Chile"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/16527.Daughter_of_Fortune",
+      "title": "Daughter of Fortune",
+      "authors": [
+        {
+          "lastName": "Allende",
+          "otherNames": "Isabel"
+        },
+        {
+          "lastName": "Peden",
+          "otherNames": "Margaret Sayers"
+        }
+      ]
+    },
+    "period": {
+      "name": "1849",
+      "start": 1849,
+      "end": 1849,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "California"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/45013993-in-the-time-of-the-butterflies",
+      "title": "In the Time of the Butterflies",
+      "authors": [
+        {
+          "lastName": "Alvarez",
+          "otherNames": "Julia"
+        }
+      ]
+    },
+    "period": {
+      "name": "1960",
+      "start": 1960,
+      "end": 1960,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Dominican Republic"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/3002300-chains",
+      "title": "Chains",
+      "authors": [
+        {
+          "lastName": "Anderson",
+          "otherNames": "Laurie Halse"
+        }
+      ]
+    },
+    "period": {
+      "name": "American Revolutionary War",
+      "start": 1775,
+      "end": 1783,
+      "lengthInYears": 8
+    },
+    "place": {
+      "coords": [],
+      "name": "United States of America"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/781110.Fever_1793",
+      "title": "Fever 1793",
+      "authors": [
+        {
+          "lastName": "Anderson",
+          "otherNames": "Laurie Halse"
+        }
+      ]
+    },
+    "period": {
+      "name": "1793",
+      "start": 1793,
+      "end": 1793,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "United States of America"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/25489134-the-bear-and-the-nightingale",
+      "title": "The Bear and the Nightingale",
+      "authors": [
+        {
+          "lastName": "Arden",
+          "otherNames": "Katherine"
+        }
+      ]
+    },
+    "period": {
+      "name": "14th Century",
+      "start": 1300,
+      "end": 1399,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Russia"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/15790842-life-after-life",
+      "title": "Life After Life",
+      "authors": [
+        {
+          "lastName": "Atkinson",
+          "otherNames": "Kate"
+        }
+      ]
+    },
+    "period": {
+      "name": "World War II",
+      "start": 1939,
+      "end": 1945,
+      "lengthInYears": 6
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/37946414-transcription",
+      "title": "Transcription",
+      "authors": [
+        {
+          "lastName": "Atkinson",
+          "otherNames": "Kate"
+        }
+      ]
+    },
+    "period": {
+      "name": "World War II",
+      "start": 1939,
+      "end": 1945,
+      "lengthInYears": 6
+    },
+    "place": {
+      "coords": [],
+      "name": "Europe"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/72579.Alias_Grace",
+      "title": "Alias Grace",
+      "authors": [
+        {
+          "lastName": "Atwood",
+          "otherNames": "Margaret"
+        }
+      ]
+    },
+    "period": {
+      "name": "1843",
+      "start": 1843,
+      "end": 1843,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Canada"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/40611463-the-clan-of-the-cave-bear",
+      "title": "The Clan of the Cave Bear",
+      "authors": [
+        {
+          "lastName": "Auel",
+          "otherNames": "Jean M."
+        }
+      ]
+    },
+    "period": {
+      "name": "Prehistoric",
+      "start": -20000,
+      "end": -5000,
+      "lengthInYears": 15000
+    },
+    "place": {
+      "coords": [],
+      "name": "Earth"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/49824.The_Mammoth_Hunters",
+      "title": "The Mammoth Hunters",
+      "authors": [
+        {
+          "lastName": "Auel",
+          "otherNames": "Jean M."
+        }
+      ]
+    },
+    "period": {
+      "name": "Prehistoric",
+      "start": -20000,
+      "end": -5000,
+      "lengthInYears": 15000
+    },
+    "place": {
+      "coords": [],
+      "name": "Earth"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/40493.The_Valley_of_Horses",
+      "title": "The Valley of Horses",
+      "authors": [
+        {
+          "lastName": "Auel",
+          "otherNames": "Jean M."
+        },
+        {
+          "lastName": "Burr",
+          "otherNames": "Sandra"
+        }
+      ]
+    },
+    "period": {
+      "name": "Prehistoric",
+      "start": -20000,
+      "end": -5000,
+      "lengthInYears": 15000
+    },
+    "place": {
+      "coords": [],
+      "name": "Earth"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/14935.Sense_and_Sensibility",
+      "title": "Sense and Sensibility",
+      "authors": [
+        {
+          "lastName": "Austen",
+          "otherNames": "Jane"
+        },
+        {
+          "lastName": "Ballaster",
+          "otherNames": "Ros"
+        },
+        {
+          "lastName": "Остин",
+          "otherNames": "Джейн"
+        }
+      ]
+    },
+    "period": {
+      "name": "19th Century",
+      "start": 1800,
+      "end": 1899,
+      "lengthInYears": 99
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/2156.Persuasion",
+      "title": "Persuasion",
+      "authors": [
+        {
+          "lastName": "Austen",
+          "otherNames": "Jane"
+        },
+        {
+          "lastName": "Lynch",
+          "otherNames": "Deidre Shauna"
+        },
+        {
+          "lastName": "Kinsley",
+          "otherNames": "James"
+        }
+      ]
+    },
+    "period": {
+      "name": "19th Century",
+      "start": 1800,
+      "end": 1899,
+      "lengthInYears": 99
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/1885.Pride_and_Prejudice",
+      "title": "Pride and Prejudice",
+      "authors": [
+        {
+          "lastName": "Austen",
+          "otherNames": "Jane"
+        },
+        {
+          "lastName": "Quindlen",
+          "otherNames": "Anna"
+        }
+      ]
+    },
+    "period": {
+      "name": "1813",
+      "start": 1813,
+      "end": 1813,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/6969.Emma",
+      "title": "Emma",
+      "authors": [
+        {
+          "lastName": "Austen",
+          "otherNames": "Jane"
+        },
+        {
+          "lastName": "Stafford",
+          "otherNames": "Fiona"
+        }
+      ]
+    },
+    "period": {
+      "name": "19th Century",
+      "start": 1800,
+      "end": 1899,
+      "lengthInYears": 99
+    },
+    "place": {
+      "coords": [],
+      "name": "United Kingdom"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/310146.The_True_Confessions_of_Charlotte_Doyle",
+      "title": "The True Confessions of Charlotte Doyle",
+      "authors": [
+        {
+          "lastName": "Avi",
+          "otherNames": ""
+        }
+      ]
+    },
+    "period": {
+      "name": "1832",
+      "start": 1832,
+      "end": 1832,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/17380041-longbourn",
+      "title": "Longbourn",
+      "authors": [
+        {
+          "lastName": "Baker",
+          "otherNames": "Jo"
+        }
+      ]
+    },
+    "period": {
+      "name": "Regency",
+      "start": 1795,
+      "end": 1837,
+      "lengthInYears": 42
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/37969723-the-silence-of-the-girls",
+      "title": "The Silence of the Girls",
+      "authors": [
+        {
+          "lastName": "Barker",
+          "otherNames": "Pat"
+        }
+      ]
+    },
+    "period": {
+      "name": "Greek mythology",
+      "start": -2000,
+      "end": -1000,
+      "lengthInYears": 1000
+    },
+    "place": {
+      "coords": [],
+      "name": "Greece"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/28389305-the-other-einstein",
+      "title": "The Other Einstein",
+      "authors": [
+        {
+          "lastName": "Benedict",
+          "otherNames": "Marie"
+        }
+      ]
+    },
+    "period": {
+      "name": "1875 – 1948",
+      "start": 1875,
+      "end": 1948,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Europe"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/55333938-the-personal-librarian",
+      "title": "The Personal Librarian",
+      "authors": [
+        {
+          "lastName": "Benedict",
+          "otherNames": "Marie"
+        },
+        {
+          "lastName": "Murray",
+          "otherNames": "Victoria Christopher"
+        }
+      ]
+    },
+    "period": {
+      "name": "1879 - 1950",
+      "start": 1879,
+      "end": 1950,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "United States of America"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/1971304.City_of_Thieves",
+      "title": "City of Thieves",
+      "authors": [
+        {
+          "lastName": "Benioff",
+          "otherNames": "David"
+        }
+      ]
+    },
+    "period": {
+      "name": "1942",
+      "start": 1942,
+      "end": 1942,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Russia"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/13642950-the-aviator-s-wife",
+      "title": "The Aviator\u0027s Wife",
+      "authors": [
+        {
+          "lastName": "Benjamin",
+          "otherNames": "Melanie"
+        }
+      ]
+    },
+    "period": {
+      "name": "1927",
+      "start": 1927,
+      "end": 1927,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Mexico"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/51791252-the-vanishing-half",
+      "title": "The Vanishing Half",
+      "authors": [
+        {
+          "lastName": "Bennett",
+          "otherNames": "Brit"
+        }
+      ]
+    },
+    "period": {
+      "name": "1956",
+      "start": 1956,
+      "end": 1956,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "California"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/44107480-lovely-war",
+      "title": "Lovely War",
+      "authors": [
+        {
+          "lastName": "Berry",
+          "otherNames": "Julie"
+        }
+      ]
+    },
+    "period": {
+      "name": "1917",
+      "start": 1917,
+      "end": 1917,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "France"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/49465.Those_Who_Save_Us",
+      "title": "Those Who Save Us",
+      "authors": [
+        {
+          "lastName": "Blum",
+          "otherNames": "Jenna"
+        }
+      ]
+    },
+    "period": {
+      "name": "World War II",
+      "start": 1939,
+      "end": 1945,
+      "lengthInYears": 6
+    },
+    "place": {
+      "coords": [],
+      "name": "Germany"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/39999.The_Boy_in_the_Striped_Pajamas",
+      "title": "The Boy in the Striped Pajamas",
+      "authors": [
+        {
+          "lastName": "Boyne",
+          "otherNames": "John"
+        }
+      ]
+    },
+    "period": {
+      "name": "1943",
+      "start": 1943,
+      "end": 1943,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Germany"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/33253215-the-heart-s-invisible-furies",
+      "title": "The Heart\u0027s Invisible Furies",
+      "authors": [
+        {
+          "lastName": "Boyne",
+          "otherNames": "John"
+        }
+      ]
+    },
+    "period": {
+      "name": "1940s",
+      "start": 1940,
+      "end": 1950,
+      "lengthInYears": 10
+    },
+    "place": {
+      "coords": [],
+      "name": "Ireland"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/20912424-the-war-that-saved-my-life",
+      "title": "The War That Saved My Life",
+      "authors": [
+        {
+          "lastName": "Bradley",
+          "otherNames": "Kimberly Brubaker"
+        }
+      ]
+    },
+    "period": {
+      "name": "World War II",
+      "start": 1939,
+      "end": 1945,
+      "lengthInYears": 6
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/40605251-the-mists-of-avalon",
+      "title": "The Mists of Avalon",
+      "authors": [
+        {
+          "lastName": "Bradley",
+          "otherNames": "Marion Zimmer"
+        }
+      ]
+    },
+    "period": {
+      "name": "Arthurian mythology",
+      "start": 500,
+      "end": 1000,
+      "lengthInYears": 500
+    },
+    "place": {
+      "coords": [],
+      "name": "United Kingdom"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/3682.A_Great_and_Terrible_Beauty",
+      "title": "A Great and Terrible Beauty",
+      "authors": [
+        {
+          "lastName": "Bray",
+          "otherNames": "Libba"
+        }
+      ]
+    },
+    "period": {
+      "name": "1895",
+      "start": 1895,
+      "end": 1895,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/7728889-the-diviners",
+      "title": "The Diviners",
+      "authors": [
+        {
+          "lastName": "Bray",
+          "otherNames": "Libba"
+        }
+      ]
+    },
+    "period": {
+      "name": "1926",
+      "start": 1926,
+      "end": 1926,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "United States of America"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/3273.Moloka_i",
+      "title": "Moloka\u0027i",
+      "authors": [
+        {
+          "lastName": "Brennert",
+          "otherNames": "Alan"
+        }
+      ]
+    },
+    "period": {
+      "name": "1891",
+      "start": 1891,
+      "end": 1891,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Hawaii"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/10210.Jane_Eyre",
+      "title": "Jane Eyre",
+      "authors": [
+        {
+          "lastName": "Brontë",
+          "otherNames": "Charlotte"
+        },
+        {
+          "lastName": "Mason",
+          "otherNames": "Michael"
+        }
+      ]
+    },
+    "period": {
+      "name": "19th Century",
+      "start": 1800,
+      "end": 1899,
+      "lengthInYears": 99
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/6185.Wuthering_Heights",
+      "title": "Wuthering Heights",
+      "authors": [
+        {
+          "lastName": "Brontë",
+          "otherNames": "Emily"
+        },
+        {
+          "lastName": "Dunn",
+          "otherNames": "Richard J."
+        },
+        {
+          "lastName": "Brontë",
+          "otherNames": "Charlotte"
+        }
+      ]
+    },
+    "period": {
+      "name": "19th Century",
+      "start": 1800,
+      "end": 1899,
+      "lengthInYears": 99
+    },
+    "place": {
+      "coords": [],
+      "name": "Yorkshire"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/9684523-caleb-s-crossing",
+      "title": "Caleb\u0027s Crossing",
+      "authors": [
+        {
+          "lastName": "Brooks",
+          "otherNames": "Geraldine"
+        }
+      ]
+    },
+    "period": {
+      "name": "1660",
+      "start": 1660,
+      "end": 1660,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Massachusetts"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/13529.March",
+      "title": "March",
+      "authors": [
+        {
+          "lastName": "Brooks",
+          "otherNames": "Geraldine"
+        }
+      ]
+    },
+    "period": {
+      "name": "American Civil War",
+      "start": 1861,
+      "end": 1865,
+      "lengthInYears": 4
+    },
+    "place": {
+      "coords": [],
+      "name": "United States of America"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/1379961.People_of_the_Book",
+      "title": "People of the Book",
+      "authors": [
+        {
+          "lastName": "Brooks",
+          "otherNames": "Geraldine"
+        }
+      ]
+    },
+    "period": {
+      "name": "1996",
+      "start": 1996,
+      "end": 1996,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Bosnia and Herzegovina"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/4965.Year_of_Wonders",
+      "title": "Year of Wonders",
+      "authors": [
+        {
+          "lastName": "Brooks",
+          "otherNames": "Geraldine"
+        }
+      ]
+    },
+    "period": {
+      "name": "1666",
+      "start": 1666,
+      "end": 1666,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/968.The_Da_Vinci_Code",
+      "title": "The Da Vinci Code",
+      "authors": [
+        {
+          "lastName": "Brown",
+          "otherNames": "Dan"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/1078.The_Good_Earth",
+      "title": "The Good Earth",
+      "authors": [
+        {
+          "lastName": "Buck",
+          "otherNames": "Pearl S."
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "China"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/18498569-the-miniaturist",
+      "title": "The Miniaturist",
+      "authors": [
+        {
+          "lastName": "Burton",
+          "otherNames": "Jessie"
+        }
+      ]
+    },
+    "period": {
+      "name": "1686",
+      "start": 1686,
+      "end": 1686,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Netherlands"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/60931.Kindred",
+      "title": "Kindred",
+      "authors": [
+        {
+          "lastName": "Butler",
+          "otherNames": "Octavia E."
+        }
+      ]
+    },
+    "period": {
+      "name": "1976",
+      "start": 1976,
+      "end": 1976,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Maryland"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/40024.The_Alienist",
+      "title": "The Alienist",
+      "authors": [
+        {
+          "lastName": "Carr",
+          "otherNames": "Caleb"
+        }
+      ]
+    },
+    "period": {
+      "name": "1896",
+      "start": 1896,
+      "end": 1896,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "United States of America"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/17333230-the-luminaries",
+      "title": "The Luminaries",
+      "authors": [
+        {
+          "lastName": "Catton",
+          "otherNames": "Eleanor"
+        }
+      ]
+    },
+    "period": {
+      "name": "1866",
+      "start": 1866,
+      "end": 1866,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "New Zealand"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/3985.The_Amazing_Adventures_of_Kavalier_Clay",
+      "title": "The Amazing Adventures of Kavalier \u0026 Clay",
+      "authors": [
+        {
+          "lastName": "Chabon",
+          "otherNames": "Michael"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Czech Republic"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/52761909-the-paris-library",
+      "title": "The Paris Library",
+      "authors": [
+        {
+          "lastName": "Charles",
+          "otherNames": "Janet Skeslien"
+        }
+      ]
+    },
+    "period": {
+      "name": "World War II",
+      "start": 1939,
+      "end": 1945,
+      "lengthInYears": 6
+    },
+    "place": {
+      "coords": [],
+      "name": "Montana"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/2865.Girl_with_a_Pearl_Earring",
+      "title": "Girl with a Pearl Earring",
+      "authors": [
+        {
+          "lastName": "Chevalier",
+          "otherNames": "Tracy"
+        }
+      ]
+    },
+    "period": {
+      "name": "1664",
+      "start": 1664,
+      "end": 1664,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Netherlands"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/6457081-remarkable-creatures",
+      "title": "Remarkable Creatures",
+      "authors": [
+        {
+          "lastName": "Chevalier",
+          "otherNames": "Tracy"
+        }
+      ]
+    },
+    "period": {
+      "name": "1820",
+      "start": 1820,
+      "end": 1820,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/89788.The_Lady_and_the_Unicorn",
+      "title": "The Lady and the Unicorn",
+      "authors": [
+        {
+          "lastName": "Chevalier",
+          "otherNames": "Tracy"
+        }
+      ]
+    },
+    "period": {
+      "name": "1490",
+      "start": 1490,
+      "end": 1490,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Belgium"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/39863482-the-night-tiger",
+      "title": "The Night Tiger",
+      "authors": [
+        {
+          "lastName": "Choo",
+          "otherNames": "Yangsze"
+        }
+      ]
+    },
+    "period": {
+      "name": "1930s",
+      "start": 1930,
+      "end": 1940,
+      "lengthInYears": 10
+    },
+    "place": {
+      "coords": [],
+      "name": "Malaysia"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/7171637-clockwork-angel",
+      "title": "Clockwork Angel",
+      "authors": [
+        {
+          "lastName": "Clare",
+          "otherNames": "Cassandra"
+        }
+      ]
+    },
+    "period": {
+      "name": "1878",
+      "start": 1878,
+      "end": 1878,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "New York"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/10025305-clockwork-prince",
+      "title": "Clockwork Prince",
+      "authors": [
+        {
+          "lastName": "Clare",
+          "otherNames": "Cassandra"
+        }
+      ]
+    },
+    "period": {
+      "name": "1878",
+      "start": 1878,
+      "end": 1878,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Yorkshire"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/14201.Jonathan_Strange_Mr_Norrell",
+      "title": "Jonathan Strange \u0026 Mr Norrell",
+      "authors": [
+        {
+          "lastName": "Clarke",
+          "otherNames": "Susanna"
+        }
+      ]
+    },
+    "period": {
+      "name": "1806",
+      "start": 1806,
+      "end": 1806,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "United Kingdom"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/52382796-sh-gun",
+      "title": "Shōgun",
+      "authors": [
+        {
+          "lastName": "Clavell",
+          "otherNames": "James"
+        }
+      ]
+    },
+    "period": {
+      "name": "1600",
+      "start": 1600,
+      "end": 1600,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Japan"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/34374628-next-year-in-havana",
+      "title": "Next Year in Havana",
+      "authors": [
+        {
+          "lastName": "Cleeton",
+          "otherNames": "Chanel"
+        }
+      ]
+    },
+    "period": {
+      "name": "1958",
+      "start": 1958,
+      "end": 1958,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Cuba"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/26893819-the-girls",
+      "title": "The Girls",
+      "authors": [
+        {
+          "lastName": "Cline",
+          "otherNames": "Emma"
+        },
+        {
+          "lastName": "Holmsten",
+          "otherNames": "My"
+        }
+      ]
+    },
+    "period": {
+      "name": "1960s",
+      "start": 1960,
+      "end": 1970,
+      "lengthInYears": 10
+    },
+    "place": {
+      "coords": [],
+      "name": "California"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/43982054-the-water-dancer",
+      "title": "The Water Dancer",
+      "authors": [
+        {
+          "lastName": "Coates",
+          "otherNames": "Ta-Nehisi"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Virginia"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/3276012-agincourt",
+      "title": "Agincourt",
+      "authors": [
+        {
+          "lastName": "Cornwell",
+          "otherNames": "Bernard"
+        }
+      ]
+    },
+    "period": {
+      "name": "1415",
+      "start": 1415,
+      "end": 1415,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/11734251-death-of-kings",
+      "title": "Death of Kings",
+      "authors": [
+        {
+          "lastName": "Cornwell",
+          "otherNames": "Bernard"
+        }
+      ]
+    },
+    "period": {
+      "name": "9th Century",
+      "start": 800,
+      "end": 899,
+      "lengthInYears": 99
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/1297150.Sword_Song",
+      "title": "Sword Song",
+      "authors": [
+        {
+          "lastName": "Cornwell",
+          "otherNames": "Bernard"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/6489529-the-burning-land",
+      "title": "The Burning Land",
+      "authors": [
+        {
+          "lastName": "Cornwell",
+          "otherNames": "Bernard"
+        }
+      ]
+    },
+    "period": {
+      "name": "9th Century",
+      "start": 800,
+      "end": 899,
+      "lengthInYears": 99
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/68527.The_Last_Kingdom",
+      "title": "The Last Kingdom",
+      "authors": [
+        {
+          "lastName": "Cornwell",
+          "otherNames": "Bernard"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/68528.The_Pale_Horseman",
+      "title": "The Pale Horseman",
+      "authors": [
+        {
+          "lastName": "Cornwell",
+          "otherNames": "Bernard"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/68520.The_Winter_King",
+      "title": "The Winter King",
+      "authors": [
+        {
+          "lastName": "Cornwell",
+          "otherNames": "Bernard"
+        }
+      ]
+    },
+    "period": {
+      "name": "Arthurian mythology",
+      "start": 500,
+      "end": 1000,
+      "lengthInYears": 500
+    },
+    "place": {
+      "coords": [],
+      "name": "United Kingdom"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/68526.Lords_of_the_North",
+      "title": "Lords of the North",
+      "authors": [
+        {
+          "lastName": "Cornwell",
+          "otherNames": "Bernard"
+        },
+        {
+          "lastName": "Корнуел",
+          "otherNames": "Бърнард"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/27252.Pope_Joan",
+      "title": "Pope Joan",
+      "authors": [
+        {
+          "lastName": "Cross",
+          "otherNames": "Donna Woolfolk"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Italy"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/368468.Bud_Not_Buddy",
+      "title": "Bud, Not Buddy",
+      "authors": [
+        {
+          "lastName": "Curtis",
+          "otherNames": "Christopher Paul"
+        }
+      ]
+    },
+    "period": {
+      "name": "1936",
+      "start": 1936,
+      "end": 1936,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Michigan"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/108077.The_Watsons_Go_to_Birmingham_1963",
+      "title": "The Watsons Go to Birmingham - 1963",
+      "authors": [
+        {
+          "lastName": "Curtis",
+          "otherNames": "Christopher Paul"
+        }
+      ]
+    },
+    "period": {
+      "name": "1963",
+      "start": 1963,
+      "end": 1963,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "United States of America"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/24137.Catherine_Called_Birdy",
+      "title": "Catherine, Called Birdy",
+      "authors": [
+        {
+          "lastName": "Cushman",
+          "otherNames": "Karen"
+        }
+      ]
+    },
+    "period": {
+      "name": "1290",
+      "start": 1290,
+      "end": 1290,
+      "lengthInYears": 0
+    },
+    "place": {
+      "name": "Unknown"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/4989.The_Red_Tent",
+      "title": "The Red Tent",
+      "authors": [
+        {
+          "lastName": "Diamant",
+          "otherNames": "Anita"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "name": "Unknown"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/1953.A_Tale_of_Two_Cities",
+      "title": "A Tale of Two Cities",
+      "authors": [
+        {
+          "lastName": "Dickens",
+          "otherNames": "Charles"
+        },
+        {
+          "lastName": "Maxwell",
+          "otherNames": "Richard"
+        }
+      ]
+    },
+    "period": {
+      "name": "1789",
+      "start": 1789,
+      "end": 1789,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see",
+      "title": "All the Light We Cannot See",
+      "authors": [
+        {
+          "lastName": "Doerr",
+          "otherNames": "Anthony"
+        }
+      ]
+    },
+    "period": {
+      "name": "World War II",
+      "start": 1939,
+      "end": 1945,
+      "lengthInYears": 6
+    },
+    "place": {
+      "coords": [],
+      "name": "Germany"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/56783258-cloud-cuckoo-land",
+      "title": "Cloud Cuckoo Land",
+      "authors": [
+        {
+          "lastName": "Doerr",
+          "otherNames": "Anthony"
+        }
+      ]
+    },
+    "period": {
+      "name": "1453",
+      "start": 1453,
+      "end": 1453,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Idaho"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/64481.A_Northern_Light",
+      "title": "A Northern Light",
+      "authors": [
+        {
+          "lastName": "Donnelly",
+          "otherNames": "Jennifer"
+        }
+      ]
+    },
+    "period": {
+      "name": "1906",
+      "start": 1906,
+      "end": 1906,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "United States of America"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/28149981-revolution",
+      "title": "Revolution",
+      "authors": [
+        {
+          "lastName": "Donnelly",
+          "otherNames": "Jennifer"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "France"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/52722079-the-pull-of-the-stars",
+      "title": "The Pull of the Stars",
+      "authors": [
+        {
+          "lastName": "Donoghue",
+          "otherNames": "Emma"
+        }
+      ]
+    },
+    "period": {
+      "name": "1918",
+      "start": 1918,
+      "end": 1918,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Ireland"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/28449257-the-wonder",
+      "title": "The Wonder",
+      "authors": [
+        {
+          "lastName": "Donoghue",
+          "otherNames": "Emma"
+        }
+      ]
+    },
+    "period": {
+      "name": "1859",
+      "start": 1859,
+      "end": 1859,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Ireland"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/25817162-america-s-first-daughter",
+      "title": "America\u0027s First Daughter",
+      "authors": [
+        {
+          "lastName": "Dray",
+          "otherNames": "Stephanie"
+        },
+        {
+          "lastName": "Kamoie",
+          "otherNames": "Laura"
+        }
+      ]
+    },
+    "period": {
+      "name": "18th Century",
+      "start": 1700,
+      "end": 1799,
+      "lengthInYears": 99
+    },
+    "place": {
+      "coords": [],
+      "name": "Virginia"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/41014257-my-dear-hamilton",
+      "title": "My Dear Hamilton: A Novel of Eliza Schuyler Hamilton",
+      "authors": [
+        {
+          "lastName": "Dray",
+          "otherNames": "Stephanie"
+        },
+        {
+          "lastName": "Kamoie",
+          "otherNames": "Laura"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "United States of America"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo",
+      "title": "The Count of Monte Cristo",
+      "authors": [
+        {
+          "lastName": "Dumas",
+          "otherNames": "Alexandre"
+        },
+        {
+          "lastName": "Buss",
+          "otherNames": "Robin"
+        }
+      ]
+    },
+    "period": {
+      "name": "1815",
+      "start": 1815,
+      "end": 1815,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "France"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/7190.The_Three_Musketeers",
+      "title": "The Three Musketeers",
+      "authors": [
+        {
+          "lastName": "Dumas",
+          "otherNames": "Alexandre"
+        },
+        {
+          "lastName": "Pevear",
+          "otherNames": "Richard"
+        },
+        {
+          "lastName": "Lee",
+          "otherNames": "John"
+        }
+      ]
+    },
+    "period": {
+      "name": "1627",
+      "start": 1627,
+      "end": 1627,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "France"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/28078.The_Birth_of_Venus",
+      "title": "The Birth of Venus",
+      "authors": [
+        {
+          "lastName": "Dunant",
+          "otherNames": "Sarah"
+        }
+      ]
+    },
+    "period": {
+      "name": "15th Century",
+      "start": 1400,
+      "end": 1499,
+      "lengthInYears": 99
+    },
+    "place": {
+      "coords": [],
+      "name": "Italy"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/43521785-bringing-down-the-duke",
+      "title": "Bringing Down the Duke",
+      "authors": [
+        {
+          "lastName": "Dunmore",
+          "otherNames": "Evie"
+        }
+      ]
+    },
+    "period": {
+      "name": "1879",
+      "start": 1879,
+      "end": 1879,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "United Kingdom"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/119073.The_Name_of_the_Rose",
+      "title": "The Name of the Rose",
+      "authors": [
+        {
+          "lastName": "Eco",
+          "otherNames": "Umberto"
+        },
+        {
+          "lastName": "Weaver",
+          "otherNames": "William"
+        }
+      ]
+    },
+    "period": {
+      "name": "1327",
+      "start": 1327,
+      "end": 1327,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Italy"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/38140077-washington-black",
+      "title": "Washington Black",
+      "authors": [
+        {
+          "lastName": "Edugyan",
+          "otherNames": "Esi"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/2187.Middlesex",
+      "title": "Middlesex",
+      "authors": [
+        {
+          "lastName": "Eugenides",
+          "otherNames": "Jeffrey"
+        }
+      ]
+    },
+    "period": {
+      "name": "1967",
+      "start": 1967,
+      "end": 1967,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Michigan"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/40200.The_Crimson_Petal_and_the_White",
+      "title": "The Crimson Petal and the White",
+      "authors": [
+        {
+          "lastName": "Faber",
+          "otherNames": "Michel"
+        }
+      ]
+    },
+    "period": {
+      "name": "1874",
+      "start": 1874,
+      "end": 1874,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/33512.One_Thousand_White_Women",
+      "title": "One Thousand White Women: The Journals of May Dodd",
+      "authors": [
+        {
+          "lastName": "Fergus",
+          "otherNames": "Jim"
+        }
+      ]
+    },
+    "period": {
+      "name": "19th Century",
+      "start": 1800,
+      "end": 1899,
+      "lengthInYears": 99
+    },
+    "place": {
+      "name": "Unknown"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/35036409-my-brilliant-friend",
+      "title": "My Brilliant Friend",
+      "authors": [
+        {
+          "lastName": "Ferrante",
+          "otherNames": "Elena"
+        },
+        {
+          "lastName": "Goldstein",
+          "otherNames": "Ann"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Italy"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/4671.The_Great_Gatsby",
+      "title": "The Great Gatsby",
+      "authors": [
+        {
+          "lastName": "Fitzgerald",
+          "otherNames": "F. Scott"
+        }
+      ]
+    },
+    "period": {
+      "name": "1920s",
+      "start": 1920,
+      "end": 1930,
+      "lengthInYears": 10
+    },
+    "place": {
+      "coords": [],
+      "name": "United States of America"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/33571713-a-column-of-fire",
+      "title": "A Column of Fire",
+      "authors": [
+        {
+          "lastName": "Follett",
+          "otherNames": "Ken"
+        }
+      ]
+    },
+    "period": {
+      "name": "1558",
+      "start": 1558,
+      "end": 1558,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Belgium"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/7315573-fall-of-giants",
+      "title": "Fall of Giants",
+      "authors": [
+        {
+          "lastName": "Follett",
+          "otherNames": "Ken"
+        }
+      ]
+    },
+    "period": {
+      "name": "1917",
+      "start": 1917,
+      "end": 1917,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Germany"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/49239093-the-evening-and-the-morning",
+      "title": "The Evening and the Morning",
+      "authors": [
+        {
+          "lastName": "Follett",
+          "otherNames": "Ken"
+        }
+      ]
+    },
+    "period": {
+      "name": "997",
+      "start": 997,
+      "end": 997,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "France"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/5043.The_Pillars_of_the_Earth",
+      "title": "The Pillars of the Earth",
+      "authors": [
+        {
+          "lastName": "Follett",
+          "otherNames": "Ken"
+        }
+      ]
+    },
+    "period": {
+      "name": "12th Century",
+      "start": 1100,
+      "end": 1199,
+      "lengthInYears": 99
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/12959233-winter-of-the-world",
+      "title": "Winter of the World",
+      "authors": [
+        {
+          "lastName": "Follett",
+          "otherNames": "Ken"
+        }
+      ]
+    },
+    "period": {
+      "name": "World War II",
+      "start": 1939,
+      "end": 1945,
+      "lengthInYears": 6
+    },
+    "place": {
+      "coords": [],
+      "name": "Germany"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/5064.World_Without_End",
+      "title": "World Without End",
+      "authors": [
+        {
+          "lastName": "Follett",
+          "otherNames": "Ken"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "United Kingdom"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/23190986-edge-of-eternity",
+      "title": "Edge of Eternity",
+      "authors": [
+        {
+          "lastName": "Follett",
+          "otherNames": "Ken"
+        },
+        {
+          "lastName": "Lee",
+          "otherNames": "John"
+        }
+      ]
+    },
+    "period": {
+      "name": "20th Century",
+      "start": 1900,
+      "end": 1999,
+      "lengthInYears": 99
+    },
+    "place": {
+      "coords": [],
+      "name": "Germany"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/816870.Johnny_Tremain",
+      "title": "Johnny Tremain",
+      "authors": [
+        {
+          "lastName": "Forbes",
+          "otherNames": "Esther"
+        },
+        {
+          "lastName": "Ward",
+          "otherNames": "Lynd"
+        }
+      ]
+    },
+    "period": {
+      "name": "1775",
+      "start": 1775,
+      "end": 1775,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Massachusetts"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/3367956-hotel-on-the-corner-of-bitter-and-sweet",
+      "title": "Hotel on the Corner of Bitter and Sweet",
+      "authors": [
+        {
+          "lastName": "Ford",
+          "otherNames": "Jamie"
+        }
+      ]
+    },
+    "period": {
+      "name": "World War II",
+      "start": 1939,
+      "end": 1945,
+      "lengthInYears": 6
+    },
+    "place": {
+      "coords": [],
+      "name": "United States of America"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/15994634-z",
+      "title": "Z: A Novel of Zelda Fitzgerald",
+      "authors": [
+        {
+          "lastName": "Fowler",
+          "otherNames": "Therese Anne"
+        }
+      ]
+    },
+    "period": {
+      "name": "1918",
+      "start": 1918,
+      "end": 1918,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Alabama"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/86643.Mistress_of_the_Art_of_Death",
+      "title": "Mistress of the Art of Death",
+      "authors": [
+        {
+          "lastName": "Franklin",
+          "otherNames": "Ariana"
+        }
+      ]
+    },
+    "period": {
+      "name": "1171",
+      "start": 1171,
+      "end": 1171,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/10920.Cold_Mountain",
+      "title": "Cold Mountain",
+      "authors": [
+        {
+          "lastName": "Frazier",
+          "otherNames": "Charles"
+        }
+      ]
+    },
+    "period": {
+      "name": "American Civil War",
+      "start": 1861,
+      "end": 1865,
+      "lengthInYears": 4
+    },
+    "place": {
+      "coords": [],
+      "name": "Virginia"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/10965.A_Breath_of_Snow_and_Ashes",
+      "title": "A Breath of Snow and Ashes",
+      "authors": [
+        {
+          "lastName": "Gabaldon",
+          "otherNames": "Diana"
+        }
+      ]
+    },
+    "period": {
+      "name": "1773",
+      "start": 1773,
+      "end": 1773,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "North Carolina"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/2832909-an-echo-in-the-bone",
+      "title": "An Echo in the Bone",
+      "authors": [
+        {
+          "lastName": "Gabaldon",
+          "otherNames": "Diana"
+        }
+      ]
+    },
+    "period": {
+      "name": "1777",
+      "start": 1777,
+      "end": 1777,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Scotland"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/5364.Dragonfly_in_Amber",
+      "title": "Dragonfly in Amber",
+      "authors": [
+        {
+          "lastName": "Gabaldon",
+          "otherNames": "Diana"
+        }
+      ]
+    },
+    "period": {
+      "name": "1744",
+      "start": 1744,
+      "end": 1744,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Scotland"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/40909452-drums-of-autumn",
+      "title": "Drums of Autumn",
+      "authors": [
+        {
+          "lastName": "Gabaldon",
+          "otherNames": "Diana"
+        }
+      ]
+    },
+    "period": {
+      "name": "1969",
+      "start": 1969,
+      "end": 1969,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "United Kingdom"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/10964.Outlander",
+      "title": "Outlander",
+      "authors": [
+        {
+          "lastName": "Gabaldon",
+          "otherNames": "Diana"
+        }
+      ]
+    },
+    "period": {
+      "name": "1743",
+      "start": 1743,
+      "end": 1743,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Scotland"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/10967.The_Fiery_Cross",
+      "title": "The Fiery Cross",
+      "authors": [
+        {
+          "lastName": "Gabaldon",
+          "otherNames": "Diana"
+        }
+      ]
+    },
+    "period": {
+      "name": "1771",
+      "start": 1771,
+      "end": 1771,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "North Carolina"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/10987.Voyager",
+      "title": "Voyager",
+      "authors": [
+        {
+          "lastName": "Gabaldon",
+          "otherNames": "Diana"
+        }
+      ]
+    },
+    "period": {
+      "name": "1766",
+      "start": 1766,
+      "end": 1766,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Scotland"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/11710373-written-in-my-own-heart-s-blood",
+      "title": "Written in My Own Heart\u0027s Blood",
+      "authors": [
+        {
+          "lastName": "Gabaldon",
+          "otherNames": "Diana"
+        }
+      ]
+    },
+    "period": {
+      "name": "1778",
+      "start": 1778,
+      "end": 1778,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "North Carolina"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/58065033-lessons-in-chemistry",
+      "title": "Lessons in Chemistry",
+      "authors": [
+        {
+          "lastName": "Garmus",
+          "otherNames": "Bonnie"
+        }
+      ]
+    },
+    "period": {
+      "name": "1960s",
+      "start": 1960,
+      "end": 1970,
+      "lengthInYears": 10
+    },
+    "place": {
+      "coords": [],
+      "name": "United States of America"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/42135029-city-of-girls",
+      "title": "City of Girls",
+      "authors": [
+        {
+          "lastName": "Gilbert",
+          "otherNames": "Elizabeth"
+        }
+      ]
+    },
+    "period": {
+      "name": "1940s",
+      "start": 1940,
+      "end": 1950,
+      "lengthInYears": 10
+    },
+    "place": {
+      "coords": [],
+      "name": "United States of America"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/17465453-the-signature-of-all-things",
+      "title": "The Signature of All Things",
+      "authors": [
+        {
+          "lastName": "Gilbert",
+          "otherNames": "Elizabeth"
+        }
+      ]
+    },
+    "period": {
+      "name": "1800",
+      "start": 1800,
+      "end": 1800,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "United States of America"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/1254951.The_Luxe",
+      "title": "The Luxe",
+      "authors": [
+        {
+          "lastName": "Godbersen",
+          "otherNames": "Anna"
+        }
+      ]
+    },
+    "period": {
+      "name": "1899",
+      "start": 1899,
+      "end": 1899,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "United States of America"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/929.Memoirs_of_a_Geisha",
+      "title": "Memoirs of a Geisha",
+      "authors": [
+        {
+          "lastName": "Golden",
+          "otherNames": "Arthur"
+        }
+      ]
+    },
+    "period": {
+      "name": "1930",
+      "start": 1930,
+      "end": 1930,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Japan"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/50892212-these-violent-delights",
+      "title": "These Violent Delights",
+      "authors": [
+        {
+          "lastName": "Gong",
+          "otherNames": "Chloe"
+        }
+      ]
+    },
+    "period": {
+      "name": "1926",
+      "start": 1926,
+      "end": 1926,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "China"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/25365667-ross-poldark",
+      "title": "Ross Poldark",
+      "authors": [
+        {
+          "lastName": "Graham",
+          "otherNames": "Winston"
+        }
+      ]
+    },
+    "period": {
+      "name": "1783",
+      "start": 1783,
+      "end": 1783,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/18765.I_Claudius",
+      "title": "I, Claudius",
+      "authors": [
+        {
+          "lastName": "Graves",
+          "otherNames": "Robert"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Italy"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/16180.The_Boleyn_Inheritance",
+      "title": "The Boleyn Inheritance",
+      "authors": [
+        {
+          "lastName": "Gregory",
+          "otherNames": "Philippa"
+        }
+      ]
+    },
+    "period": {
+      "name": "1539",
+      "start": 1539,
+      "end": 1539,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/16181.The_Constant_Princess",
+      "title": "The Constant Princess",
+      "authors": [
+        {
+          "lastName": "Gregory",
+          "otherNames": "Philippa"
+        }
+      ]
+    },
+    "period": {
+      "name": "Tudor",
+      "start": 1485,
+      "end": 1603,
+      "lengthInYears": 118
+    },
+    "place": {
+      "coords": [],
+      "name": "United Kingdom"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/15849910-the-king-s-curse",
+      "title": "The King\u0027s Curse",
+      "authors": [
+        {
+          "lastName": "Gregory",
+          "otherNames": "Philippa"
+        }
+      ]
+    },
+    "period": {
+      "name": "16th Century",
+      "start": 1500,
+      "end": 1599,
+      "lengthInYears": 99
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/15801672-the-kingmaker-s-daughter",
+      "title": "The Kingmaker\u0027s Daughter",
+      "authors": [
+        {
+          "lastName": "Gregory",
+          "otherNames": "Philippa"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/9542439-the-lady-of-the-rivers",
+      "title": "The Lady of the Rivers",
+      "authors": [
+        {
+          "lastName": "Gregory",
+          "otherNames": "Philippa"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/37470.The_Other_Boleyn_Girl",
+      "title": "The Other Boleyn Girl",
+      "authors": [
+        {
+          "lastName": "Gregory",
+          "otherNames": "Philippa"
+        }
+      ]
+    },
+    "period": {
+      "name": "1521",
+      "start": 1521,
+      "end": 1521,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/37470.The_Other_Boleyn_Girl",
+      "title": "The Other Boleyn Girl",
+      "authors": [
+        {
+          "lastName": "Gregory",
+          "otherNames": "Philippa"
+        }
+      ]
+    },
+    "period": {
+      "name": "1521",
+      "start": 1521,
+      "end": 1521,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/2241558.The_Other_Queen",
+      "title": "The Other Queen",
+      "authors": [
+        {
+          "lastName": "Gregory",
+          "otherNames": "Philippa"
+        }
+      ]
+    },
+    "period": {
+      "name": "1568",
+      "start": 1568,
+      "end": 1568,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Scotland"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/252499.The_Queen_s_Fool",
+      "title": "The Queen\u0027s Fool",
+      "authors": [
+        {
+          "lastName": "Gregory",
+          "otherNames": "Philippa"
+        }
+      ]
+    },
+    "period": {
+      "name": "Tudor",
+      "start": 1485,
+      "end": 1603,
+      "lengthInYears": 118
+    },
+    "place": {
+      "coords": [],
+      "name": "France"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/7148256-the-red-queen",
+      "title": "The Red Queen",
+      "authors": [
+        {
+          "lastName": "Gregory",
+          "otherNames": "Philippa"
+        }
+      ]
+    },
+    "period": {
+      "name": "15th Century",
+      "start": 1400,
+      "end": 1499,
+      "lengthInYears": 99
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/16183.The_Virgin_s_Lover",
+      "title": "The Virgin\u0027s Lover",
+      "authors": [
+        {
+          "lastName": "Gregory",
+          "otherNames": "Philippa"
+        }
+      ]
+    },
+    "period": {
+      "name": "16th Century",
+      "start": 1500,
+      "end": 1599,
+      "lengthInYears": 99
+    },
+    "place": {
+      "coords": [],
+      "name": "United Kingdom"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/12326627-the-white-princess",
+      "title": "The White Princess",
+      "authors": [
+        {
+          "lastName": "Gregory",
+          "otherNames": "Philippa"
+        }
+      ]
+    },
+    "period": {
+      "name": "Tudor",
+      "start": 1485,
+      "end": 1603,
+      "lengthInYears": 118
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/5971165-the-white-queen",
+      "title": "The White Queen",
+      "authors": [
+        {
+          "lastName": "Gregory",
+          "otherNames": "Philippa"
+        }
+      ]
+    },
+    "period": {
+      "name": "1464",
+      "start": 1464,
+      "end": 1464,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/6837103-the-kitchen-house",
+      "title": "The Kitchen House",
+      "authors": [
+        {
+          "lastName": "Grissom",
+          "otherNames": "Kathleen"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Virginia"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/57185348-matrix",
+      "title": "Matrix",
+      "authors": [
+        {
+          "lastName": "Groff",
+          "otherNames": "Lauren"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/23209927-at-the-water-s-edge",
+      "title": "At the Water\u0027s Edge",
+      "authors": [
+        {
+          "lastName": "Gruen",
+          "otherNames": "Sara"
+        }
+      ]
+    },
+    "period": {
+      "name": "1945",
+      "start": 1945,
+      "end": 1945,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Scotland"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/43641.Water_for_Elephants",
+      "title": "Water for Elephants",
+      "authors": [
+        {
+          "lastName": "Gruen",
+          "otherNames": "Sara"
+        }
+      ]
+    },
+    "period": {
+      "name": "1932",
+      "start": 1932,
+      "end": 1932,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "United States of America"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/27071490-homegoing",
+      "title": "Homegoing",
+      "authors": [
+        {
+          "lastName": "Gyasi",
+          "otherNames": "Yaa"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Alabama"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/546018.Roots",
+      "title": "Roots: The Saga of an American Family",
+      "authors": [
+        {
+          "lastName": "Haley",
+          "otherNames": "Alex"
+        }
+      ]
+    },
+    "period": {
+      "name": "1767",
+      "start": 1767,
+      "end": 1767,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Gambia"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/22840421-my-lady-jane",
+      "title": "My Lady Jane",
+      "authors": [
+        {
+          "lastName": "Hand",
+          "otherNames": "Cynthia"
+        },
+        {
+          "lastName": "Ashton",
+          "otherNames": "Brodi"
+        },
+        {
+          "lastName": "Meadows",
+          "otherNames": "Jodi"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/53138081-the-four-winds",
+      "title": "The Four Winds",
+      "authors": [
+        {
+          "lastName": "Hannah",
+          "otherNames": "Kristin"
+        }
+      ]
+    },
+    "period": {
+      "name": "1934",
+      "start": 1934,
+      "end": 1934,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "California"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/34912895-the-great-alone",
+      "title": "The Great Alone",
+      "authors": [
+        {
+          "lastName": "Hannah",
+          "otherNames": "Kristin"
+        }
+      ]
+    },
+    "period": {
+      "name": "1974",
+      "start": 1974,
+      "end": 1974,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Alaska"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/21853621-the-nightingale",
+      "title": "The Nightingale",
+      "authors": [
+        {
+          "lastName": "Hannah",
+          "otherNames": "Kristin"
+        }
+      ]
+    },
+    "period": {
+      "name": "1939",
+      "start": 1939,
+      "end": 1939,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Oregon"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/6668467-winter-garden",
+      "title": "Winter Garden",
+      "authors": [
+        {
+          "lastName": "Hannah",
+          "otherNames": "Kristin"
+        }
+      ]
+    },
+    "period": {
+      "name": "World War II",
+      "start": 1939,
+      "end": 1945,
+      "lengthInYears": 6
+    },
+    "place": {
+      "coords": [],
+      "name": "United States of America"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/46138193-the-mercies",
+      "title": "The Mercies",
+      "authors": [
+        {
+          "lastName": "Hargrave",
+          "otherNames": "Kiran Millwood"
+        }
+      ]
+    },
+    "period": {
+      "name": "1600s",
+      "start": 1600,
+      "end": 1610,
+      "lengthInYears": 10
+    },
+    "place": {
+      "coords": [],
+      "name": "Scotland"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/52762903-the-book-of-lost-names",
+      "title": "The Book of Lost Names",
+      "authors": [
+        {
+          "lastName": "Harmel",
+          "otherNames": "Kristin"
+        }
+      ]
+    },
+    "period": {
+      "name": "1942",
+      "start": 1942,
+      "end": 1942,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Florida"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/40407141-what-the-wind-knows",
+      "title": "What the Wind Knows",
+      "authors": [
+        {
+          "lastName": "Harmon",
+          "otherNames": "Amy"
+        }
+      ]
+    },
+    "period": {
+      "name": "1921",
+      "start": 1921,
+      "end": 1921,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Ireland"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/880.Pompeii",
+      "title": "Pompeii",
+      "authors": [
+        {
+          "lastName": "Harris",
+          "otherNames": "Robert"
+        }
+      ]
+    },
+    "period": {
+      "name": "79",
+      "start": 79,
+      "end": 79,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Italy"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/49504061-the-once-and-future-witches",
+      "title": "The Once and Future Witches",
+      "authors": [
+        {
+          "lastName": "Harrow",
+          "otherNames": "Alix E."
+        }
+      ]
+    },
+    "period": {
+      "name": "1893",
+      "start": 1893,
+      "end": 1893,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Massachusetts"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/43521657-the-ten-thousand-doors-of-january",
+      "title": "The Ten Thousand Doors of January",
+      "authors": [
+        {
+          "lastName": "Harrow",
+          "otherNames": "Alix E."
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "name": "Unknown"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/12296.The_Scarlet_Letter",
+      "title": "The Scarlet Letter",
+      "authors": [
+        {
+          "lastName": "Hawthorne",
+          "otherNames": "Nathaniel"
+        },
+        {
+          "lastName": "James",
+          "otherNames": "Henry"
+        },
+        {
+          "lastName": "Baym",
+          "otherNames": "Nina"
+        }
+      ]
+    },
+    "period": {
+      "name": "1642",
+      "start": 1642,
+      "end": 1642,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Massachusetts"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/53487148-a-thousand-ships",
+      "title": "A Thousand Ships",
+      "authors": [
+        {
+          "lastName": "Haynes",
+          "otherNames": "Natalie"
+        }
+      ]
+    },
+    "period": {
+      "name": "Greek mythology",
+      "start": -2000,
+      "end": -1000,
+      "lengthInYears": 1000
+    },
+    "place": {
+      "coords": [],
+      "name": "Greece"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/168668.Catch_22",
+      "title": "Catch-22",
+      "authors": [
+        {
+          "lastName": "Heller",
+          "otherNames": "Joseph"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Italy"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/25346.Out_of_the_Dust",
+      "title": "Out of the Dust",
+      "authors": [
+        {
+          "lastName": "Hesse",
+          "otherNames": "Karen"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Oklahoma"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/40726583-girl-in-the-blue-coat",
+      "title": "Girl in the Blue Coat",
+      "authors": [
+        {
+          "lastName": "Hesse",
+          "otherNames": "Monica"
+        }
+      ]
+    },
+    "period": {
+      "name": "World War II",
+      "start": 1939,
+      "end": 1945,
+      "lengthInYears": 6
+    },
+    "place": {
+      "coords": [],
+      "name": "Netherlands"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/23316548-the-book-of-negroes",
+      "title": "The Book of Negroes",
+      "authors": [
+        {
+          "lastName": "Hill",
+          "otherNames": "Lawrence"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Canada"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/10950924-the-dovekeepers",
+      "title": "The Dovekeepers",
+      "authors": [
+        {
+          "lastName": "Hoffman",
+          "otherNames": "Alice"
+        }
+      ]
+    },
+    "period": {
+      "name": "70",
+      "start": 70,
+      "end": 70,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Israel"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/128029.A_Thousand_Splendid_Suns",
+      "title": "A Thousand Splendid Suns",
+      "authors": [
+        {
+          "lastName": "Hosseini",
+          "otherNames": "Khaled"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Afghanistan"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/16115612-and-the-mountains-echoed",
+      "title": "And the Mountains Echoed",
+      "authors": [
+        {
+          "lastName": "Hosseini",
+          "otherNames": "Khaled"
+        }
+      ]
+    },
+    "period": {
+      "name": "1952",
+      "start": 1952,
+      "end": 1952,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "California"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/77203.The_Kite_Runner",
+      "title": "The Kite Runner",
+      "authors": [
+        {
+          "lastName": "Hosseini",
+          "otherNames": "Khaled"
+        }
+      ]
+    },
+    "period": {
+      "name": "1970s",
+      "start": 1970,
+      "end": 1980,
+      "lengthInYears": 10
+    },
+    "place": {
+      "coords": [],
+      "name": "Afghanistan"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/24280.Les_Mis_rables",
+      "title": "Les Misérables",
+      "authors": [
+        {
+          "lastName": "Hugo",
+          "otherNames": "Victor"
+        },
+        {
+          "lastName": "MacAfee",
+          "otherNames": "Norman"
+        },
+        {
+          "lastName": "Wilbour",
+          "otherNames": "Charles E."
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "France"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/30267929-we-were-the-lucky-ones",
+      "title": "We Were the Lucky Ones",
+      "authors": [
+        {
+          "lastName": "Hunter",
+          "otherNames": "Georgia"
+        }
+      ]
+    },
+    "period": {
+      "name": "World War II",
+      "start": 1939,
+      "end": 1945,
+      "lengthInYears": 6
+    },
+    "place": {
+      "coords": [],
+      "name": "Brazil"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/37415.Their_Eyes_Were_Watching_God",
+      "title": "Their Eyes Were Watching God",
+      "authors": [
+        {
+          "lastName": "Hurston",
+          "otherNames": "Zora Neale"
+        }
+      ]
+    },
+    "period": {
+      "name": "1928",
+      "start": 1928,
+      "end": 1928,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Florida"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/1279686.Genghis",
+      "title": "Genghis: Birth of an Empire",
+      "authors": [
+        {
+          "lastName": "Iggulden",
+          "otherNames": "Conn"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Mongolia"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/30223025-dread-nation",
+      "title": "Dread Nation",
+      "authors": [
+        {
+          "lastName": "Ireland",
+          "otherNames": "Justina"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Maryland"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/28921.The_Remains_of_the_Day",
+      "title": "The Remains of the Day",
+      "authors": [
+        {
+          "lastName": "Ishiguro",
+          "otherNames": "Kazuo"
+        }
+      ]
+    },
+    "period": {
+      "name": "1956",
+      "start": 1956,
+      "end": 1956,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/31145052-the-librarian-of-auschwitz",
+      "title": "The Librarian of Auschwitz",
+      "authors": [
+        {
+          "lastName": "Iturbe",
+          "otherNames": "Antonio"
+        },
+        {
+          "lastName": "Thwaites",
+          "otherNames": "Lilit Žekulin"
+        }
+      ]
+    },
+    "period": {
+      "name": "World War II",
+      "start": 1939,
+      "end": 1945,
+      "lengthInYears": 6
+    },
+    "place": {
+      "coords": [],
+      "name": "Poland"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/33597976-the-snow-child",
+      "title": "The Snow Child",
+      "authors": [
+        {
+          "lastName": "Ivey",
+          "otherNames": "Eowyn"
+        }
+      ]
+    },
+    "period": {
+      "name": "1920",
+      "start": 1920,
+      "end": 1920,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Alaska"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/43557477-the-jane-austen-society",
+      "title": "The Jane Austen Society",
+      "authors": [
+        {
+          "lastName": "Jenner",
+          "otherNames": "Natalie"
+        }
+      ]
+    },
+    "period": {
+      "name": "1932",
+      "start": 1932,
+      "end": 1932,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/39816076-the-lost-girls-of-paris",
+      "title": "The Lost Girls of Paris",
+      "authors": [
+        {
+          "lastName": "Jenoff",
+          "otherNames": "Pam"
+        }
+      ]
+    },
+    "period": {
+      "name": "World War II",
+      "start": 1939,
+      "end": 1945,
+      "lengthInYears": 6
+    },
+    "place": {
+      "coords": [],
+      "name": "France"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/29239940-the-orphan-s-tale",
+      "title": "The Orphan\u0027s Tale",
+      "authors": [
+        {
+          "lastName": "Jenoff",
+          "otherNames": "Pam"
+        }
+      ]
+    },
+    "period": {
+      "name": "World War II",
+      "start": 1939,
+      "end": 1945,
+      "lengthInYears": 6
+    },
+    "place": {
+      "coords": [],
+      "name": "Europe"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/25817493-news-of-the-world",
+      "title": "News of the World",
+      "authors": [
+        {
+          "lastName": "Jiles",
+          "otherNames": "Paulette"
+        }
+      ]
+    },
+    "period": {
+      "name": "1870",
+      "start": 1870,
+      "end": 1870,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Texas"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/50607466-the-henna-artist",
+      "title": "The Henna Artist",
+      "authors": [
+        {
+          "lastName": "Joshi",
+          "otherNames": "Alka"
+        }
+      ]
+    },
+    "period": {
+      "name": "1950s",
+      "start": 1950,
+      "end": 1960,
+      "lengthInYears": 10
+    },
+    "place": {
+      "coords": [],
+      "name": "India"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/4981.Slaughterhouse_Five",
+      "title": "Slaughterhouse-Five",
+      "authors": [
+        {
+          "lastName": "Jr.",
+          "otherNames": "Kurt Vonnegut"
+        }
+      ]
+    },
+    "period": {
+      "name": "1945",
+      "start": 1945,
+      "end": 1945,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Belgium"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/42201995-the-stationery-shop",
+      "title": "The Stationery Shop",
+      "authors": [
+        {
+          "lastName": "Kamali",
+          "otherNames": "Marjan"
+        }
+      ]
+    },
+    "period": {
+      "name": "1953",
+      "start": 1953,
+      "end": 1953,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "California"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/3392089-the-winter-sea",
+      "title": "The Winter Sea",
+      "authors": [
+        {
+          "lastName": "Kearsley",
+          "otherNames": "Susanna"
+        }
+      ]
+    },
+    "period": {
+      "name": "1708",
+      "start": 1708,
+      "end": 1708,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Scotland"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/25893693-lilac-girls",
+      "title": "Lilac Girls",
+      "authors": [
+        {
+          "lastName": "Kelly",
+          "otherNames": "Martha Hall"
+        }
+      ]
+    },
+    "period": {
+      "name": "World War II",
+      "start": 1939,
+      "end": 1945,
+      "lengthInYears": 6
+    },
+    "place": {
+      "coords": [],
+      "name": "Germany"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/17333319-burial-rites",
+      "title": "Burial Rites",
+      "authors": [
+        {
+          "lastName": "Kent",
+          "otherNames": "Hannah"
+        }
+      ]
+    },
+    "period": {
+      "name": "1829",
+      "start": 1829,
+      "end": 1829,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Iceland"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/52698452-the-book-of-longings",
+      "title": "The Book of Longings",
+      "authors": [
+        {
+          "lastName": "Kidd",
+          "otherNames": "Sue Monk"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Israel"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/18079776-the-invention-of-wings",
+      "title": "The Invention of Wings",
+      "authors": [
+        {
+          "lastName": "Kidd",
+          "otherNames": "Sue Monk"
+        }
+      ]
+    },
+    "period": {
+      "name": "1803",
+      "start": 1803,
+      "end": 1803,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "United States of America"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/37435.The_Secret_Life_of_Bees",
+      "title": "The Secret Life of Bees",
+      "authors": [
+        {
+          "lastName": "Kidd",
+          "otherNames": "Sue Monk"
+        }
+      ]
+    },
+    "period": {
+      "name": "1964",
+      "start": 1964,
+      "end": 1964,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "South Carolina"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/18467802-euphoria",
+      "title": "Euphoria",
+      "authors": [
+        {
+          "lastName": "King",
+          "otherNames": "Lily"
+        }
+      ]
+    },
+    "period": {
+      "name": "1933",
+      "start": 1933,
+      "end": 1933,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Guinea"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/10644930-11-22-63",
+      "title": "11/22/63",
+      "authors": [
+        {
+          "lastName": "King",
+          "otherNames": "Stephen"
+        }
+      ]
+    },
+    "period": {
+      "name": "2011",
+      "start": 2011,
+      "end": 2011,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Maine"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/7244.The_Poisonwood_Bible",
+      "title": "The Poisonwood Bible",
+      "authors": [
+        {
+          "lastName": "Kingsolver",
+          "otherNames": "Barbara"
+        }
+      ]
+    },
+    "period": {
+      "name": "1959",
+      "start": 1959,
+      "end": 1959,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "United States of America"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/15818107-orphan-train",
+      "title": "Orphan Train",
+      "authors": [
+        {
+          "lastName": "Kline",
+          "otherNames": "Christina Baker"
+        }
+      ]
+    },
+    "period": {
+      "name": "2011",
+      "start": 2011,
+      "end": 2011,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Maine"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/49397137-the-exiles",
+      "title": "The Exiles",
+      "authors": [
+        {
+          "lastName": "Kline",
+          "otherNames": "Christina Baker"
+        }
+      ]
+    },
+    "period": {
+      "name": "19th Century",
+      "start": 1800,
+      "end": 1899,
+      "lengthInYears": 99
+    },
+    "place": {
+      "coords": [],
+      "name": "Australia"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/30236962-the-historian",
+      "title": "The Historian",
+      "authors": [
+        {
+          "lastName": "Kostova",
+          "otherNames": "Elizabeth"
+        }
+      ]
+    },
+    "period": {
+      "name": "1974",
+      "start": 1974,
+      "end": 1974,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/25813942-this-tender-land",
+      "title": "This Tender Land",
+      "authors": [
+        {
+          "lastName": "Krueger",
+          "otherNames": "William Kent"
+        }
+      ]
+    },
+    "period": {
+      "name": "1932",
+      "start": 1932,
+      "end": 1932,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Minnesota"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/57945316-babel-or-the-necessity-of-violence",
+      "title": "Babel, Or the Necessity of Violence: An Arcane History of the Oxford Translators\u0027 Revolution",
+      "authors": [
+        {
+          "lastName": "Kuang",
+          "otherNames": "R.F."
+        }
+      ]
+    },
+    "period": {
+      "name": "1828",
+      "start": 1828,
+      "end": 1828,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/35068705-the-poppy-war",
+      "title": "The Poppy War",
+      "authors": [
+        {
+          "lastName": "Kuang",
+          "otherNames": "R.F."
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "China"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/9565548-grave-mercy",
+      "title": "Grave Mercy",
+      "authors": [
+        {
+          "lastName": "LaFevers",
+          "otherNames": "Robin"
+        }
+      ]
+    },
+    "period": {
+      "name": "1485",
+      "start": 1485,
+      "end": 1485,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "France"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/24817626-go-set-a-watchman",
+      "title": "Go Set a Watchman",
+      "authors": [
+        {
+          "lastName": "Lee",
+          "otherNames": "Harper"
+        }
+      ]
+    },
+    "period": {
+      "name": "1950s",
+      "start": 1950,
+      "end": 1960,
+      "lengthInYears": 10
+    },
+    "place": {
+      "coords": [],
+      "name": "United States of America"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird",
+      "title": "To Kill a Mockingbird",
+      "authors": [
+        {
+          "lastName": "Lee",
+          "otherNames": "Harper"
+        }
+      ]
+    },
+    "period": {
+      "name": "1933",
+      "start": 1933,
+      "end": 1933,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Alabama"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/29283884-the-gentleman-s-guide-to-vice-and-virtue",
+      "title": "The Gentleman\u0027s Guide to Vice and Virtue",
+      "authors": [
+        {
+          "lastName": "Lee",
+          "otherNames": "Mackenzi"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/37880094-the-lady-s-guide-to-petticoats-and-piracy",
+      "title": "The Lady\u0027s Guide to Petticoats and Piracy",
+      "authors": [
+        {
+          "lastName": "Lee",
+          "otherNames": "Mackenzi"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/34051011-pachinko",
+      "title": "Pachinko",
+      "authors": [
+        {
+          "lastName": "Lee",
+          "otherNames": "Min Jin"
+        }
+      ]
+    },
+    "period": {
+      "name": "1900s",
+      "start": 1900,
+      "end": 1910,
+      "lengthInYears": 10
+    },
+    "place": {
+      "coords": [],
+      "name": "Japan"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/33224061-the-downstairs-girl",
+      "title": "The Downstairs Girl",
+      "authors": [
+        {
+          "lastName": "Lee",
+          "otherNames": "Stacey"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Georgia"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/35224992-last-night-at-the-telegraph-club",
+      "title": "Last Night at the Telegraph Club",
+      "authors": [
+        {
+          "lastName": "Lo",
+          "otherNames": "Malinda"
+        }
+      ]
+    },
+    "period": {
+      "name": "1954",
+      "start": 1954,
+      "end": 1954,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "California"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/47281.Number_the_Stars",
+      "title": "Number the Stars",
+      "authors": [
+        {
+          "lastName": "Lowry",
+          "otherNames": "Lois"
+        }
+      ]
+    },
+    "period": {
+      "name": "1943",
+      "start": 1943,
+      "end": 1943,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Denmark"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/8537327-inside-out-back-again",
+      "title": "Inside Out \u0026 Back Again",
+      "authors": [
+        {
+          "lastName": "Lại",
+          "otherNames": "Thanhhà"
+        }
+      ]
+    },
+    "period": {
+      "name": "1975",
+      "start": 1975,
+      "end": 1975,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Alabama"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/40727470-stalking-jack-the-ripper",
+      "title": "Stalking Jack the Ripper",
+      "authors": [
+        {
+          "lastName": "Maniscalco",
+          "otherNames": "Kerri"
+        }
+      ]
+    },
+    "period": {
+      "name": "1888",
+      "start": 1888,
+      "end": 1888,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "New York"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/13507212-bring-up-the-bodies",
+      "title": "Bring Up the Bodies",
+      "authors": [
+        {
+          "lastName": "Mantel",
+          "otherNames": "Hilary"
+        }
+      ]
+    },
+    "period": {
+      "name": "1536",
+      "start": 1536,
+      "end": 1536,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/54860229-the-mirror-the-light",
+      "title": "The Mirror \u0026 the Light",
+      "authors": [
+        {
+          "lastName": "Mantel",
+          "otherNames": "Hilary"
+        }
+      ]
+    },
+    "period": {
+      "name": "1536",
+      "start": 1536,
+      "end": 1536,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/6101138-wolf-hall",
+      "title": "Wolf Hall",
+      "authors": [
+        {
+          "lastName": "Mantel",
+          "otherNames": "Hilary"
+        }
+      ]
+    },
+    "period": {
+      "name": "1500",
+      "start": 1500,
+      "end": 1500,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/3412.The_Thorn_Birds",
+      "title": "The Thorn Birds",
+      "authors": [
+        {
+          "lastName": "McCullough",
+          "otherNames": "Colleen"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Australia"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/6867.Atonement",
+      "title": "Atonement",
+      "authors": [
+        {
+          "lastName": "McEwan",
+          "otherNames": "Ian"
+        }
+      ]
+    },
+    "period": {
+      "name": "20th Century",
+      "start": 1900,
+      "end": 1999,
+      "lengthInYears": 99
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/23995231-circling-the-sun",
+      "title": "Circling the Sun",
+      "authors": [
+        {
+          "lastName": "McLain",
+          "otherNames": "Paula"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Kenya"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/8683812-the-paris-wife",
+      "title": "The Paris Wife",
+      "authors": [
+        {
+          "lastName": "McLain",
+          "otherNames": "Paula"
+        }
+      ]
+    },
+    "period": {
+      "name": "1920",
+      "start": 1920,
+      "end": 1920,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Spain"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/256008.Lonesome_Dove",
+      "title": "Lonesome Dove",
+      "authors": [
+        {
+          "lastName": "McMurtry",
+          "otherNames": "Larry"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Texas"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/17250.The_Crucible",
+      "title": "The Crucible: A Play in Four Acts",
+      "authors": [
+        {
+          "lastName": "Miller",
+          "otherNames": "Arthur"
+        },
+        {
+          "lastName": "Bigsby",
+          "otherNames": "Christopher W.E."
+        }
+      ]
+    },
+    "period": {
+      "name": "1953",
+      "start": 1953,
+      "end": 1953,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Massachusetts"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/35959740-circe",
+      "title": "Circe",
+      "authors": [
+        {
+          "lastName": "Miller",
+          "otherNames": "Madeline"
+        }
+      ]
+    },
+    "period": {
+      "name": "Greek mythology",
+      "start": -2000,
+      "end": -1000,
+      "lengthInYears": 1000
+    },
+    "place": {
+      "coords": [],
+      "name": "Greece"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/13623848-the-song-of-achilles",
+      "title": "The Song of Achilles",
+      "authors": [
+        {
+          "lastName": "Miller",
+          "otherNames": "Madeline"
+        }
+      ]
+    },
+    "period": {
+      "name": "Greek mythology",
+      "start": -2000,
+      "end": -1000,
+      "lengthInYears": 1000
+    },
+    "place": {
+      "coords": [],
+      "name": "Greece"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/7141642-the-thousand-autumns-of-jacob-de-zoet",
+      "title": "The Thousand Autumns of Jacob de Zoet",
+      "authors": [
+        {
+          "lastName": "Mitchell",
+          "otherNames": "David"
+        }
+      ]
+    },
+    "period": {
+      "name": "1799",
+      "start": 1799,
+      "end": 1799,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Japan"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/18405.Gone_with_the_Wind",
+      "title": "Gone with the Wind",
+      "authors": [
+        {
+          "lastName": "Mitchell",
+          "otherNames": "Margaret"
+        }
+      ]
+    },
+    "period": {
+      "name": "American Civil War",
+      "start": 1861,
+      "end": 1865,
+      "lengthInYears": 4
+    },
+    "place": {
+      "coords": [],
+      "name": "United States of America"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/8127.Anne_of_Green_Gables",
+      "title": "Anne of Green Gables",
+      "authors": [
+        {
+          "lastName": "Montgomery",
+          "otherNames": "L.M."
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Canada"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/6340471-cleopatra-s-daughter",
+      "title": "Cleopatra\u0027s Daughter",
+      "authors": [
+        {
+          "lastName": "Moran",
+          "otherNames": "Michelle"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Egypt"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/8689913-madame-tussaud",
+      "title": "Madame Tussaud: A Novel of the French Revolution",
+      "authors": [
+        {
+          "lastName": "Moran",
+          "otherNames": "Michelle"
+        }
+      ]
+    },
+    "period": {
+      "name": "1788",
+      "start": 1788,
+      "end": 1788,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "France"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/481446.Nefertiti",
+      "title": "Nefertiti",
+      "authors": [
+        {
+          "lastName": "Moran",
+          "otherNames": "Michelle"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Egypt"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/2897258-the-heretic-queen",
+      "title": "The Heretic Queen",
+      "authors": [
+        {
+          "lastName": "Moran",
+          "otherNames": "Michelle"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Egypt"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/2897258-the-heretic-queen",
+      "title": "The Heretic Queen",
+      "authors": [
+        {
+          "lastName": "Moran",
+          "otherNames": "Michelle"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Egypt"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/36510722-gods-of-jade-and-shadow",
+      "title": "Gods of Jade and Shadow",
+      "authors": [
+        {
+          "lastName": "Moreno-Garcia",
+          "otherNames": "Silvia"
+        }
+      ]
+    },
+    "period": {
+      "name": "1927",
+      "start": 1927,
+      "end": 1927,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Mexico"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/53152636-mexican-gothic",
+      "title": "Mexican Gothic",
+      "authors": [
+        {
+          "lastName": "Moreno-Garcia",
+          "otherNames": "Silvia"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Mexico"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/9361589-the-night-circus",
+      "title": "The Night Circus",
+      "authors": [
+        {
+          "lastName": "Morgenstern",
+          "otherNames": "Erin"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/45033931-cilka-s-journey",
+      "title": "Cilka\u0027s Journey",
+      "authors": [
+        {
+          "lastName": "Morris",
+          "otherNames": "Heather"
+        }
+      ]
+    },
+    "period": {
+      "name": "World War II",
+      "start": 1939,
+      "end": 1945,
+      "lengthInYears": 6
+    },
+    "place": {
+      "coords": [],
+      "name": "Europe"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/38359036-the-tattooist-of-auschwitz",
+      "title": "The Tattooist of Auschwitz",
+      "authors": [
+        {
+          "lastName": "Morris",
+          "otherNames": "Heather"
+        }
+      ]
+    },
+    "period": {
+      "name": "World War II",
+      "start": 1939,
+      "end": 1945,
+      "lengthInYears": 6
+    },
+    "place": {
+      "coords": [],
+      "name": "Poland"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/6149.Beloved",
+      "title": "Beloved",
+      "authors": [
+        {
+          "lastName": "Morrison",
+          "otherNames": "Toni"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Kentucky"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/38530939-the-clockmaker-s-daughter",
+      "title": "The Clockmaker\u0027s Daughter",
+      "authors": [
+        {
+          "lastName": "Morton",
+          "otherNames": "Kate"
+        }
+      ]
+    },
+    "period": {
+      "name": "1862",
+      "start": 1862,
+      "end": 1862,
+      "lengthInYears": 0
+    },
+    "place": {
+      "name": "Unknown"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/3407877-the-forgotten-garden",
+      "title": "The Forgotten Garden",
+      "authors": [
+        {
+          "lastName": "Morton",
+          "otherNames": "Kate"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Australia"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/1278752.The_House_at_Riverton",
+      "title": "The House at Riverton",
+      "authors": [
+        {
+          "lastName": "Morton",
+          "otherNames": "Kate"
+        }
+      ]
+    },
+    "period": {
+      "name": "1924",
+      "start": 1924,
+      "end": 1924,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "United Kingdom"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/13508607-the-secret-keeper",
+      "title": "The Secret Keeper",
+      "authors": [
+        {
+          "lastName": "Morton",
+          "otherNames": "Kate"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/18693627-the-girl-you-left-behind",
+      "title": "The Girl You Left Behind",
+      "authors": [
+        {
+          "lastName": "Moyes",
+          "otherNames": "Jojo"
+        }
+      ]
+    },
+    "period": {
+      "name": "1916",
+      "start": 1916,
+      "end": 1916,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "France"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/43925876-the-giver-of-stars",
+      "title": "The Giver of Stars",
+      "authors": [
+        {
+          "lastName": "Moyes",
+          "otherNames": "Jojo"
+        }
+      ]
+    },
+    "period": {
+      "name": "1937",
+      "start": 1937,
+      "end": 1937,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "United States of America"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/9712.Love_in_the_Time_of_Cholera",
+      "title": "Love in the Time of Cholera",
+      "authors": [
+        {
+          "lastName": "Márquez",
+          "otherNames": "Gabriel García"
+        },
+        {
+          "lastName": "Grossman",
+          "otherNames": "Edith"
+        },
+        {
+          "lastName": "Risvik",
+          "otherNames": "Kjell"
+        }
+      ]
+    },
+    "period": {
+      "name": "1931",
+      "start": 1931,
+      "end": 1931,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Colombia"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/23168277-the-sympathizer",
+      "title": "The Sympathizer",
+      "authors": [
+        {
+          "lastName": "Nguyen",
+          "otherNames": "Viet Thanh"
+        }
+      ]
+    },
+    "period": {
+      "name": "1975",
+      "start": 1975,
+      "end": 1975,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "United States of America"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/53597791-master-and-commander",
+      "title": "Master and Commander",
+      "authors": [
+        {
+          "lastName": "O\u0027Brian",
+          "otherNames": "Patrick"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "name": "Unknown"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/133518.The_Things_They_Carried",
+      "title": "The Things They Carried",
+      "authors": [
+        {
+          "lastName": "O\u0027Brien",
+          "otherNames": "Tim"
+        }
+      ]
+    },
+    "period": {
+      "name": "1990",
+      "start": 1990,
+      "end": 1990,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "New York"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/41044096-island-of-the-blue-dolphins",
+      "title": "Island of the Blue Dolphins",
+      "authors": [
+        {
+          "lastName": "O\u0027Dell",
+          "otherNames": "Scott"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "California"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/43890641-hamnet",
+      "title": "Hamnet",
+      "authors": [
+        {
+          "lastName": "O\u0027Farrell",
+          "otherNames": "Maggie"
+        }
+      ]
+    },
+    "period": {
+      "name": "1580s",
+      "start": 1580,
+      "end": 1590,
+      "lengthInYears": 10
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/60353768-the-marriage-portrait",
+      "title": "The Marriage Portrait",
+      "authors": [
+        {
+          "lastName": "O\u0027Farrell",
+          "otherNames": "Maggie"
+        }
+      ]
+    },
+    "period": {
+      "name": "1550s",
+      "start": 1550,
+      "end": 1560,
+      "lengthInYears": 10
+    },
+    "place": {
+      "coords": [],
+      "name": "Italy"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/11713.The_English_Patient",
+      "title": "The English Patient",
+      "authors": [
+        {
+          "lastName": "Ondaatje",
+          "otherNames": "Michael"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Egypt"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/136116.The_Scarlet_Pimpernel",
+      "title": "The Scarlet Pimpernel",
+      "authors": [
+        {
+          "lastName": "Orczy",
+          "otherNames": "Emmuska"
+        },
+        {
+          "lastName": "Page",
+          "otherNames": "Michael"
+        }
+      ]
+    },
+    "period": {
+      "name": "1792",
+      "start": 1792,
+      "end": 1792,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/36809135-where-the-crawdads-sing",
+      "title": "Where the Crawdads Sing",
+      "authors": [
+        {
+          "lastName": "Owens",
+          "otherNames": "Delia"
+        }
+      ]
+    },
+    "period": {
+      "name": "1952",
+      "start": 1952,
+      "end": 1952,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "North Carolina"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/48727813-she-who-became-the-sun",
+      "title": "She Who Became the Sun",
+      "authors": [
+        {
+          "lastName": "Parker-Chan",
+          "otherNames": "Shelley"
+        }
+      ]
+    },
+    "period": {
+      "name": "1345",
+      "start": 1345,
+      "end": 1345,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "China"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/44318414-the-dutch-house",
+      "title": "The Dutch House",
+      "authors": [
+        {
+          "lastName": "Patchett",
+          "otherNames": "Ann"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Pennsylvania"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/77449.Here_Be_Dragons",
+      "title": "Here Be Dragons",
+      "authors": [
+        {
+          "lastName": "Penman",
+          "otherNames": "Sharon Kay"
+        }
+      ]
+    },
+    "period": {
+      "name": "1183",
+      "start": 1183,
+      "end": 1183,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/119829.The_Sunne_in_Splendour",
+      "title": "The Sunne in Splendour",
+      "authors": [
+        {
+          "lastName": "Penman",
+          "otherNames": "Sharon Kay"
+        }
+      ]
+    },
+    "period": {
+      "name": "15th Century",
+      "start": 1400,
+      "end": 1499,
+      "lengthInYears": 99
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/53288434-the-lost-apothecary",
+      "title": "The Lost Apothecary",
+      "authors": [
+        {
+          "lastName": "Penner",
+          "otherNames": "Sarah"
+        }
+      ]
+    },
+    "period": {
+      "name": "1791",
+      "start": 1791,
+      "end": 1791,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/32075861-the-essex-serpent",
+      "title": "The Essex Serpent",
+      "authors": [
+        {
+          "lastName": "Perry",
+          "otherNames": "Sarah"
+        }
+      ]
+    },
+    "period": {
+      "name": "19th Century",
+      "start": 1800,
+      "end": 1899,
+      "lengthInYears": 99
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/15753740-the-storyteller",
+      "title": "The Storyteller",
+      "authors": [
+        {
+          "lastName": "Picoult",
+          "otherNames": "Jodi"
+        }
+      ]
+    },
+    "period": {
+      "name": "World War II",
+      "start": 1939,
+      "end": 1945,
+      "lengthInYears": 6
+    },
+    "place": {
+      "coords": [],
+      "name": "New Hampshire"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/40700317-the-secrets-we-kept",
+      "title": "The Secrets We Kept",
+      "authors": [
+        {
+          "lastName": "Prescott",
+          "otherNames": "Lara"
+        },
+        {
+          "lastName": "Uiterweer",
+          "otherNames": "Ellis Post"
+        },
+        {
+          "lastName": "Uiterweer",
+          "otherNames": "Anna Post"
+        }
+      ]
+    },
+    "period": {
+      "name": "20th Century",
+      "start": 1900,
+      "end": 1999,
+      "lengthInYears": 99
+    },
+    "place": {
+      "coords": [],
+      "name": "Russia"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/1305.Gates_of_Fire",
+      "title": "Gates of Fire",
+      "authors": [
+        {
+          "lastName": "Pressfield",
+          "otherNames": "Steven"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Greece"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/9496240-the-hangman-s-daughter",
+      "title": "The Hangman\u0027s Daughter",
+      "authors": [
+        {
+          "lastName": "Pötzsch",
+          "otherNames": "Oliver"
+        },
+        {
+          "lastName": "Chadeayne",
+          "otherNames": "Lee"
+        },
+        {
+          "lastName": "Marić",
+          "otherNames": "Sabine"
+        }
+      ]
+    },
+    "period": {
+      "name": "1659",
+      "start": 1659,
+      "end": 1659,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Germany"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/110391.The_Duke_and_I",
+      "title": "The Duke and I",
+      "authors": [
+        {
+          "lastName": "Quinn",
+          "otherNames": "Julia"
+        }
+      ]
+    },
+    "period": {
+      "name": "1813",
+      "start": 1813,
+      "end": 1813,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/861326.The_Viscount_Who_Loved_Me",
+      "title": "The Viscount Who Loved Me",
+      "authors": [
+        {
+          "lastName": "Quinn",
+          "otherNames": "Julia"
+        }
+      ]
+    },
+    "period": {
+      "name": "1814",
+      "start": 1814,
+      "end": 1814,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/32051912-the-alice-network",
+      "title": "The Alice Network",
+      "authors": [
+        {
+          "lastName": "Quinn",
+          "otherNames": "Kate"
+        }
+      ]
+    },
+    "period": {
+      "name": "World War II",
+      "start": 1939,
+      "end": 1945,
+      "lengthInYears": 6
+    },
+    "place": {
+      "coords": [],
+      "name": "France"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/58490567-the-diamond-eye",
+      "title": "The Diamond Eye",
+      "authors": [
+        {
+          "lastName": "Quinn",
+          "otherNames": "Kate"
+        }
+      ]
+    },
+    "period": {
+      "name": "World War II",
+      "start": 1939,
+      "end": 1945,
+      "lengthInYears": 6
+    },
+    "place": {
+      "coords": [],
+      "name": "Russia"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/40245700-the-huntress",
+      "title": "The Huntress",
+      "authors": [
+        {
+          "lastName": "Quinn",
+          "otherNames": "Kate"
+        }
+      ]
+    },
+    "period": {
+      "name": "World War II",
+      "start": 1939,
+      "end": 1945,
+      "lengthInYears": 6
+    },
+    "place": {
+      "coords": [],
+      "name": "Europe"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/53914938-the-rose-code",
+      "title": "The Rose Code",
+      "authors": [
+        {
+          "lastName": "Quinn",
+          "otherNames": "Kate"
+        }
+      ]
+    },
+    "period": {
+      "name": "1940",
+      "start": 1940,
+      "end": 1940,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/28186322-a-curious-beginning",
+      "title": "A Curious Beginning",
+      "authors": [
+        {
+          "lastName": "Raybourn",
+          "otherNames": "Deanna"
+        }
+      ]
+    },
+    "period": {
+      "name": "1887",
+      "start": 1887,
+      "end": 1887,
+      "lengthInYears": 0
+    },
+    "place": {
+      "name": "Unknown"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/40597810-daisy-jones-the-six",
+      "title": "Daisy Jones \u0026 The Six",
+      "authors": [
+        {
+          "lastName": "Reid",
+          "otherNames": "Taylor Jenkins"
+        }
+      ]
+    },
+    "period": {
+      "name": "1970s",
+      "start": 1970,
+      "end": 1980,
+      "lengthInYears": 10
+    },
+    "place": {
+      "coords": [],
+      "name": "California"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/55404546-malibu-rising",
+      "title": "Malibu Rising",
+      "authors": [
+        {
+          "lastName": "Reid",
+          "otherNames": "Taylor Jenkins"
+        }
+      ]
+    },
+    "period": {
+      "name": "1983",
+      "start": 1983,
+      "end": 1983,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "California"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/32620332-the-seven-husbands-of-evelyn-hugo",
+      "title": "The Seven Husbands of Evelyn Hugo",
+      "authors": [
+        {
+          "lastName": "Reid",
+          "otherNames": "Taylor Jenkins"
+        }
+      ]
+    },
+    "period": {
+      "name": "1950s",
+      "start": 1950,
+      "end": 1960,
+      "lengthInYears": 10
+    },
+    "place": {
+      "coords": [],
+      "name": "California"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/355697.All_Quiet_on_the_Western_Front",
+      "title": "All Quiet on the Western Front",
+      "authors": [
+        {
+          "lastName": "Remarque",
+          "otherNames": "Erich Maria"
+        },
+        {
+          "lastName": "Wheen",
+          "otherNames": "Arthur Wesley"
+        }
+      ]
+    },
+    "period": {
+      "name": "1914",
+      "start": 1914,
+      "end": 1914,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Germany"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/40914165-the-book-woman-of-troublesome-creek",
+      "title": "The Book Woman of Troublesome Creek",
+      "authors": [
+        {
+          "lastName": "Richardson",
+          "otherNames": "Kim Michele"
+        }
+      ]
+    },
+    "period": {
+      "name": "1936",
+      "start": 1936,
+      "end": 1936,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Kentucky"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/40899464-the-things-we-cannot-say",
+      "title": "The Things We Cannot Say",
+      "authors": [
+        {
+          "lastName": "Rimmer",
+          "otherNames": "Kelly"
+        }
+      ]
+    },
+    "period": {
+      "name": "1942",
+      "start": 1942,
+      "end": 1942,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Poland"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/556602.Sarah_s_Key",
+      "title": "Sarah\u0027s Key",
+      "authors": [
+        {
+          "lastName": "Rosnay",
+          "otherNames": "Tatiana de"
+        }
+      ]
+    },
+    "period": {
+      "name": "1942",
+      "start": 1942,
+      "end": 1942,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "France"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/1853145.Sarum",
+      "title": "Sarum: The Novel of England",
+      "authors": [
+        {
+          "lastName": "Rutherfurd",
+          "otherNames": "Edward"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "United Kingdom"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/89763.Esperanza_Rising",
+      "title": "Esperanza Rising",
+      "authors": [
+        {
+          "lastName": "Ryan",
+          "otherNames": "Pam Muñoz"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "California"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/138685.Dissolution",
+      "title": "Dissolution",
+      "authors": [
+        {
+          "lastName": "Sansom",
+          "otherNames": "C.J."
+        }
+      ]
+    },
+    "period": {
+      "name": "1573",
+      "start": 1573,
+      "end": 1573,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "United Kingdom"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/29906980-lincoln-in-the-bardo",
+      "title": "Lincoln in the Bardo",
+      "authors": [
+        {
+          "lastName": "Saunders",
+          "otherNames": "George"
+        }
+      ]
+    },
+    "period": {
+      "name": "1862",
+      "start": 1862,
+      "end": 1862,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "United States of America"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/101299.The_Reader",
+      "title": "The Reader",
+      "authors": [
+        {
+          "lastName": "Schlink",
+          "otherNames": "Bernhard"
+        },
+        {
+          "lastName": "Janeway",
+          "otherNames": "Carol Brown"
+        }
+      ]
+    },
+    "period": {
+      "name": "World War II",
+      "start": 1939,
+      "end": 1945,
+      "lengthInYears": 6
+    },
+    "place": {
+      "coords": [],
+      "name": "Germany"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/50623864-the-invisible-life-of-addie-larue",
+      "title": "The Invisible Life of Addie LaRue",
+      "authors": [
+        {
+          "lastName": "Schwab",
+          "otherNames": "V.E."
+        }
+      ]
+    },
+    "period": {
+      "name": "1714",
+      "start": 1714,
+      "end": 1714,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "France"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/5960325-shanghai-girls",
+      "title": "Shanghai Girls",
+      "authors": [
+        {
+          "lastName": "See",
+          "otherNames": "Lisa"
+        }
+      ]
+    },
+    "period": {
+      "name": "1937",
+      "start": 1937,
+      "end": 1937,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "China"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/40873273-snow-flower-and-the-secret-fan",
+      "title": "Snow Flower and the Secret Fan",
+      "authors": [
+        {
+          "lastName": "See",
+          "otherNames": "Lisa"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "China"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/40538657-the-island-of-sea-women",
+      "title": "The Island of Sea Women",
+      "authors": [
+        {
+          "lastName": "See",
+          "otherNames": "Lisa"
+        }
+      ]
+    },
+    "period": {
+      "name": "1930s",
+      "start": 1930,
+      "end": 1940,
+      "lengthInYears": 10
+    },
+    "place": {
+      "name": "Unknown"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/25150798-the-tea-girl-of-hummingbird-lane",
+      "title": "The Tea Girl of Hummingbird Lane",
+      "authors": [
+        {
+          "lastName": "See",
+          "otherNames": "Lisa"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "China"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/9673436-the-invention-of-hugo-cabret",
+      "title": "The Invention of Hugo Cabret",
+      "authors": [
+        {
+          "lastName": "Selznick",
+          "otherNames": "Brian"
+        }
+      ]
+    },
+    "period": {
+      "name": "1931",
+      "start": 1931,
+      "end": 1931,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "France"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/7824322-between-shades-of-gray",
+      "title": "Between Shades of Gray",
+      "authors": [
+        {
+          "lastName": "Sepetys",
+          "otherNames": "Ruta"
+        }
+      ]
+    },
+    "period": {
+      "name": "1941",
+      "start": 1941,
+      "end": 1941,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Lithuania"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/56970272-i-must-betray-you",
+      "title": "I Must Betray You",
+      "authors": [
+        {
+          "lastName": "Sepetys",
+          "otherNames": "Ruta"
+        }
+      ]
+    },
+    "period": {
+      "name": "1989",
+      "start": 1989,
+      "end": 1989,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Romania"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/11178225-out-of-the-easy",
+      "title": "Out of the Easy",
+      "authors": [
+        {
+          "lastName": "Sepetys",
+          "otherNames": "Ruta"
+        }
+      ]
+    },
+    "period": {
+      "name": "1950",
+      "start": 1950,
+      "end": 1950,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "United States of America"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/43220998-the-fountains-of-silence",
+      "title": "The Fountains of Silence",
+      "authors": [
+        {
+          "lastName": "Sepetys",
+          "otherNames": "Ruta"
+        }
+      ]
+    },
+    "period": {
+      "name": "1957",
+      "start": 1957,
+      "end": 1957,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Texas"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/25614492-salt-to-the-sea",
+      "title": "Salt to the Sea",
+      "authors": [
+        {
+          "lastName": "Sepetys",
+          "otherNames": "Ruta"
+        },
+        {
+          "lastName": "Marie",
+          "otherNames": "Jorjeana"
+        },
+        {
+          "lastName": "Damron",
+          "otherNames": "Will"
+        }
+      ]
+    },
+    "period": {
+      "name": "1945",
+      "start": 1945,
+      "end": 1945,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Europe"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/33609.Katherine",
+      "title": "Katherine",
+      "authors": [
+        {
+          "lastName": "Seton",
+          "otherNames": "Anya"
+        },
+        {
+          "lastName": "Gregory",
+          "otherNames": "Philippa"
+        }
+      ]
+    },
+    "period": {
+      "name": "14th Century",
+      "start": 1300,
+      "end": 1399,
+      "lengthInYears": 99
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/40130093-once-upon-a-river",
+      "title": "Once Upon a River",
+      "authors": [
+        {
+          "lastName": "Setterfield",
+          "otherNames": "Diane"
+        }
+      ]
+    },
+    "period": {
+      "name": "1887",
+      "start": 1887,
+      "end": 1887,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/40440.The_Thirteenth_Tale",
+      "title": "The Thirteenth Tale",
+      "authors": [
+        {
+          "lastName": "Setterfield",
+          "otherNames": "Diane"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "United Kingdom"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/682804.The_Killer_Angels",
+      "title": "The Killer Angels",
+      "authors": [
+        {
+          "lastName": "Shaara",
+          "otherNames": "Michael"
+        }
+      ]
+    },
+    "period": {
+      "name": "American Civil War",
+      "start": 1861,
+      "end": 1865,
+      "lengthInYears": 4
+    },
+    "place": {
+      "coords": [],
+      "name": "Pennsylvania"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/39832183-the-guernsey-literary-and-potato-peel-pie-society",
+      "title": "The Guernsey Literary and Potato Peel Pie Society",
+      "authors": [
+        {
+          "lastName": "Shaffer",
+          "otherNames": "Mary Ann"
+        },
+        {
+          "lastName": "Barrows",
+          "otherNames": "Annie"
+        }
+      ]
+    },
+    "period": {
+      "name": "1946",
+      "start": 1946,
+      "end": 1946,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "United Kingdom"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/30653967-the-women-in-the-castle",
+      "title": "The Women in the Castle",
+      "authors": [
+        {
+          "lastName": "Shattuck",
+          "otherNames": "Jessica"
+        }
+      ]
+    },
+    "period": {
+      "name": "World War II",
+      "start": 1939,
+      "end": 1945,
+      "lengthInYears": 6
+    },
+    "place": {
+      "coords": [],
+      "name": "Europe"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/83144.The_Bronze_Horseman",
+      "title": "The Bronze Horseman",
+      "authors": [
+        {
+          "lastName": "Simons",
+          "otherNames": "Paullina"
+        }
+      ]
+    },
+    "period": {
+      "name": "1941",
+      "start": 1941,
+      "end": 1941,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Russia"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/25776122-the-summer-before-the-war",
+      "title": "The Summer Before the War",
+      "authors": [
+        {
+          "lastName": "Simonson",
+          "otherNames": "Helen"
+        }
+      ]
+    },
+    "period": {
+      "name": "1914",
+      "start": 1914,
+      "end": 1914,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/14891.A_Tree_Grows_in_Brooklyn",
+      "title": "A Tree Grows in Brooklyn",
+      "authors": [
+        {
+          "lastName": "Smith",
+          "otherNames": "Betty"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "United States of America"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/703292.The_Witch_of_Blackbird_Pond",
+      "title": "The Witch of Blackbird Pond",
+      "authors": [
+        {
+          "lastName": "Speare",
+          "otherNames": "Elizabeth George"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Connecticut"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/13158800-the-light-between-oceans",
+      "title": "The Light Between Oceans",
+      "authors": [
+        {
+          "lastName": "Stedman",
+          "otherNames": "M.L."
+        }
+      ]
+    },
+    "period": {
+      "name": "1926",
+      "start": 1926,
+      "end": 1926,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Australia"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/4406.East_of_Eden",
+      "title": "East of Eden",
+      "authors": [
+        {
+          "lastName": "Steinbeck",
+          "otherNames": "John"
+        }
+      ]
+    },
+    "period": {
+      "name": "20th Century",
+      "start": 1900,
+      "end": 1999,
+      "lengthInYears": 99
+    },
+    "place": {
+      "coords": [],
+      "name": "California"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/890.Of_Mice_and_Men",
+      "title": "Of Mice and Men",
+      "authors": [
+        {
+          "lastName": "Steinbeck",
+          "otherNames": "John"
+        }
+      ]
+    },
+    "period": {
+      "name": "1930s",
+      "start": 1930,
+      "end": 1940,
+      "lengthInYears": 10
+    },
+    "place": {
+      "coords": [],
+      "name": "California"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/18114322-the-grapes-of-wrath",
+      "title": "The Grapes of Wrath",
+      "authors": [
+        {
+          "lastName": "Steinbeck",
+          "otherNames": "John"
+        }
+      ]
+    },
+    "period": {
+      "name": "1930s",
+      "start": 1930,
+      "end": 1940,
+      "lengthInYears": 10
+    },
+    "place": {
+      "coords": [],
+      "name": "California"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/23719378-girl-waits-with-gun",
+      "title": "Girl Waits with Gun",
+      "authors": [
+        {
+          "lastName": "Stewart",
+          "otherNames": "Amy"
+        }
+      ]
+    },
+    "period": {
+      "name": "1914",
+      "start": 1914,
+      "end": 1914,
+      "lengthInYears": 0
+    },
+    "place": {
+      "name": "Unknown"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/4667024-the-help",
+      "title": "The Help",
+      "authors": [
+        {
+          "lastName": "Stockett",
+          "otherNames": "Kathryn"
+        }
+      ]
+    },
+    "period": {
+      "name": "1962",
+      "start": 1962,
+      "end": 1962,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Mississippi"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/46787.Uncle_Tom_s_Cabin",
+      "title": "Uncle Tom\u0027s Cabin",
+      "authors": [
+        {
+          "lastName": "Stowe",
+          "otherNames": "Harriet Beecher"
+        }
+      ]
+    },
+    "period": {
+      "name": "19th Century",
+      "start": 1800,
+      "end": 1899,
+      "lengthInYears": 99
+    },
+    "place": {
+      "coords": [],
+      "name": "Louisiana"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/32487617-beneath-a-scarlet-sky",
+      "title": "Beneath a Scarlet Sky",
+      "authors": [
+        {
+          "lastName": "Sullivan",
+          "otherNames": "Mark T."
+        }
+      ]
+    },
+    "period": {
+      "name": "World War II",
+      "start": 1939,
+      "end": 1945,
+      "lengthInYears": 6
+    },
+    "place": {
+      "coords": [],
+      "name": "Italy"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/343.Perfume",
+      "title": "Perfume: The Story of a Murderer",
+      "authors": [
+        {
+          "lastName": "Süskind",
+          "otherNames": "Patrick"
+        },
+        {
+          "lastName": "Woods",
+          "otherNames": "John E."
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "France"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/7763.The_Joy_Luck_Club",
+      "title": "The Joy Luck Club",
+      "authors": [
+        {
+          "lastName": "Tan",
+          "otherNames": "Amy"
+        }
+      ]
+    },
+    "period": {
+      "name": "1949",
+      "start": 1949,
+      "end": 1949,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "China"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/310459.Roll_of_Thunder_Hear_My_Cry",
+      "title": "Roll of Thunder, Hear My Cry",
+      "authors": [
+        {
+          "lastName": "Taylor",
+          "otherNames": "Mildred D."
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Mississippi"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/15823480-anna-karenina",
+      "title": "Anna Karenina",
+      "authors": [
+        {
+          "lastName": "Tolstoy",
+          "otherNames": "Leo"
+        },
+        {
+          "lastName": "Maude",
+          "otherNames": "Aylmer"
+        },
+        {
+          "lastName": "Maude",
+          "otherNames": "Louise"
+        }
+      ]
+    },
+    "period": {
+      "name": "19th Century",
+      "start": 1800,
+      "end": 1899,
+      "lengthInYears": 99
+    },
+    "place": {
+      "coords": [],
+      "name": "Russia"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/656.War_and_Peace",
+      "title": "War and Peace",
+      "authors": [
+        {
+          "lastName": "Tolstoy",
+          "otherNames": "Leo"
+        },
+        {
+          "lastName": "Maude",
+          "otherNames": "Aylmer"
+        },
+        {
+          "lastName": "Maude",
+          "otherNames": "Louise"
+        }
+      ]
+    },
+    "period": {
+      "name": "1805",
+      "start": 1805,
+      "end": 1805,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Czech Republic"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/34066798-a-gentleman-in-moscow",
+      "title": "A Gentleman in Moscow: A Novel",
+      "authors": [
+        {
+          "lastName": "Towles",
+          "otherNames": "Amor"
+        }
+      ]
+    },
+    "period": {
+      "name": "1922",
+      "start": 1922,
+      "end": 1922,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "New York"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/10054335-rules-of-civility",
+      "title": "Rules of Civility",
+      "authors": [
+        {
+          "lastName": "Towles",
+          "otherNames": "Amor"
+        }
+      ]
+    },
+    "period": {
+      "name": "1938",
+      "start": 1938,
+      "end": 1938,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "United States of America"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/57109107-the-lincoln-highway",
+      "title": "The Lincoln Highway",
+      "authors": [
+        {
+          "lastName": "Towles",
+          "otherNames": "Amor"
+        }
+      ]
+    },
+    "period": {
+      "name": "1954",
+      "start": 1954,
+      "end": 1954,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Nebraska"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/2641307-these-is-my-words",
+      "title": "These Is My Words: The Diary of Sarah Agnes Prine, 1881-1901",
+      "authors": [
+        {
+          "lastName": "Turner",
+          "otherNames": "Nancy E."
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Arizona"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn",
+      "title": "The Adventures of Huckleberry Finn",
+      "authors": [
+        {
+          "lastName": "Twain",
+          "otherNames": "Mark"
+        },
+        {
+          "lastName": "Cardwell",
+          "otherNames": "Guy"
+        },
+        {
+          "lastName": "Kemble",
+          "otherNames": "E.W."
+        }
+      ]
+    },
+    "period": {
+      "name": "1840",
+      "start": 1840,
+      "end": 1840,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Missouri"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/4954833-brooklyn",
+      "title": "Brooklyn",
+      "authors": [
+        {
+          "lastName": "Tóibín",
+          "otherNames": "Colm"
+        }
+      ]
+    },
+    "period": {
+      "name": "1950s",
+      "start": 1950,
+      "end": 1960,
+      "lengthInYears": 10
+    },
+    "place": {
+      "coords": [],
+      "name": "Ireland"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/52892857-the-color-purple",
+      "title": "The Color Purple",
+      "authors": [
+        {
+          "lastName": "Walker",
+          "otherNames": "Alice"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Georgia"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/8913370-fingersmith",
+      "title": "Fingersmith",
+      "authors": [
+        {
+          "lastName": "Waters",
+          "otherNames": "Sarah"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "name": "Unknown"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/20821087-the-paying-guests",
+      "title": "The Paying Guests",
+      "authors": [
+        {
+          "lastName": "Waters",
+          "otherNames": "Sarah"
+        }
+      ]
+    },
+    "period": {
+      "name": "1922",
+      "start": 1922,
+      "end": 1922,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/25104465-tipping-the-velvet",
+      "title": "Tipping the Velvet",
+      "authors": [
+        {
+          "lastName": "Waters",
+          "otherNames": "Sarah"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "United Kingdom"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/15819028-the-golem-and-the-jinni",
+      "title": "The Golem and the Jinni",
+      "authors": [
+        {
+          "lastName": "Wecker",
+          "otherNames": "Helene"
+        }
+      ]
+    },
+    "period": {
+      "name": "1899",
+      "start": 1899,
+      "end": 1899,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "United States of America"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/11925514-code-name-verity",
+      "title": "Code Name Verity",
+      "authors": [
+        {
+          "lastName": "Wein",
+          "otherNames": "Elizabeth"
+        }
+      ]
+    },
+    "period": {
+      "name": "1941",
+      "start": 1941,
+      "end": 1941,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/17262236-rose-under-fire",
+      "title": "Rose Under Fire",
+      "authors": [
+        {
+          "lastName": "Wein",
+          "otherNames": "Elizabeth"
+        }
+      ]
+    },
+    "period": {
+      "name": "World War II",
+      "start": 1939,
+      "end": 1945,
+      "lengthInYears": 6
+    },
+    "place": {
+      "coords": [],
+      "name": "Europe"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/111218.Innocent_Traitor",
+      "title": "Innocent Traitor",
+      "authors": [
+        {
+          "lastName": "Weir",
+          "otherNames": "Alison"
+        }
+      ]
+    },
+    "period": {
+      "name": "16th Century",
+      "start": 1500,
+      "end": 1599,
+      "lengthInYears": 99
+    },
+    "place": {
+      "coords": [],
+      "name": "United Kingdom"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/27190613-and-i-darken",
+      "title": "And I Darken",
+      "authors": [
+        {
+          "lastName": "White",
+          "otherNames": "Kiersten"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "name": "Unknown"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/42270835-the-nickel-boys",
+      "title": "The Nickel Boys",
+      "authors": [
+        {
+          "lastName": "Whitehead",
+          "otherNames": "Colson"
+        }
+      ]
+    },
+    "period": {
+      "name": "1960s",
+      "start": 1960,
+      "end": 1970,
+      "lengthInYears": 10
+    },
+    "place": {
+      "coords": [],
+      "name": "Florida"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/30555488-the-underground-railroad",
+      "title": "The Underground Railroad",
+      "authors": [
+        {
+          "lastName": "Whitehead",
+          "otherNames": "Colson"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Georgia"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/8337.Little_House_in_the_Big_Woods",
+      "title": "Little House in the Big Woods",
+      "authors": [
+        {
+          "lastName": "Wilder",
+          "otherNames": "Laura Ingalls"
+        },
+        {
+          "lastName": "Williams",
+          "otherNames": "Garth"
+        }
+      ]
+    },
+    "period": {
+      "name": "1871",
+      "start": 1871,
+      "end": 1871,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Wisconsin"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/77767.Little_House_on_the_Prairie",
+      "title": "Little House on the Prairie",
+      "authors": [
+        {
+          "lastName": "Wilder",
+          "otherNames": "Laura Ingalls"
+        },
+        {
+          "lastName": "Williams",
+          "otherNames": "Garth"
+        }
+      ]
+    },
+    "period": {},
+    "place": {
+      "coords": [],
+      "name": "Wisconsin"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/49354511-the-dictionary-of-lost-words",
+      "title": "The Dictionary of Lost Words",
+      "authors": [
+        {
+          "lastName": "Williams",
+          "otherNames": "Pip"
+        }
+      ]
+    },
+    "period": {
+      "name": "1901",
+      "start": 1901,
+      "end": 1901,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/32148570-before-we-were-yours",
+      "title": "Before We Were Yours",
+      "authors": [
+        {
+          "lastName": "Wingate",
+          "otherNames": "Lisa"
+        }
+      ]
+    },
+    "period": {
+      "name": "1939",
+      "start": 1939,
+      "end": 1939,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "South Carolina"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/53025903-the-book-of-lost-friends",
+      "title": "The Book of Lost Friends",
+      "authors": [
+        {
+          "lastName": "Wingate",
+          "otherNames": "Lisa"
+        }
+      ]
+    },
+    "period": {
+      "name": "1875",
+      "start": 1875,
+      "end": 1875,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Louisiana"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/462033.Maisie_Dobbs",
+      "title": "Maisie Dobbs",
+      "authors": [
+        {
+          "lastName": "Winspear",
+          "otherNames": "Jacqueline"
+        }
+      ]
+    },
+    "period": {
+      "name": "1929",
+      "start": 1929,
+      "end": 1929,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "England"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/1232.The_Shadow_of_the_Wind",
+      "title": "The Shadow of the Wind",
+      "authors": [
+        {
+          "lastName": "Zafón",
+          "otherNames": "Carlos Ruiz"
+        },
+        {
+          "lastName": "Graves",
+          "otherNames": "Lucia"
+        }
+      ]
+    },
+    "period": {
+      "name": "1945",
+      "start": 1945,
+      "end": 1945,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Spain"
+    }
+  },
+  {
+    "book": {
+      "id": "https://www.goodreads.com/book/show/19063.The_Book_Thief",
+      "title": "The Book Thief",
+      "authors": [
+        {
+          "lastName": "Zusak",
+          "otherNames": "Markus"
+        }
+      ]
+    },
+    "period": {
+      "name": "1939",
+      "start": 1939,
+      "end": 1939,
+      "lengthInYears": 0
+    },
+    "place": {
+      "coords": [],
+      "name": "Germany"
+    }
+  }
+]

@@ -1,6 +1,5 @@
 .gradle
 build/
-output/*.json
 src/main/resources/example.json
 src/main/resources/app.properties
 

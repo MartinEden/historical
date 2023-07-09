@@ -12,8 +12,8 @@ import kotlin.io.path.absolutePathString
 // TODO: Output reasoning
 class JsonStore : Store {
     private val books = mutableListOf<CategorizedBook>()
-    private val nowAsString = LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH.mm.ss"))
-    private val outputFile = File(Paths.get(Settings.outputPath,"$nowAsString.json").absolutePathString())
+    //private val nowAsString = LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH.mm.ss"))
+    private val outputFile = File(Paths.get(Settings.outputPath,"output.json").absolutePathString())
     private val gson = GsonBuilder()
         .setPrettyPrinting()
         .create()
