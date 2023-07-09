@@ -455,8 +455,8 @@ The Once and Future Witches by Harrow, Alix E.
 1893 (1893)
 Massachusetts
 The Ten Thousand Doors of January by Harrow, Alix E.
-Unknown
-Unknown
+Early 20th century (1900 - 1949)
+USA
 The Scarlet Letter by Hawthorne, Nathaniel; James, Henry; Baym, Nina
 1642 (1642)
 Massachusetts
@@ -464,7 +464,7 @@ A Thousand Ships by Haynes, Natalie
 Greek mythology (2000BC - 1000BC)
 Greece
 Catch-22 by Heller, Joseph
-Unknown
+World War II (1939 - 1945)
 Italy
 Out of the Dust by Hesse, Karen
 Unknown
@@ -725,7 +725,7 @@ The Marriage Portrait by O'Farrell, Maggie
 1550s (1550 - 1560)
 Italy
 The English Patient by Ondaatje, Michael
-Unknown
+World War II (1939 - 1945)
 Egypt
 The Scarlet Pimpernel by Orczy, Emmuska; Page, Michael
 1792 (1792)
@@ -831,7 +831,7 @@ Snow Flower and the Secret Fan by See, Lisa
 China
 The Island of Sea Women by See, Lisa
 1930s (1930 - 1940)
-Unknown
+South Korea
 The Tea Girl of Hummingbird Lane by See, Lisa
 Unknown
 China
@@ -999,4 +999,4 @@ The Book Thief by Zusak, Markus
 Germany
 
 Number of books: 333
-Missing pieces of data: 51
+Missing pieces of data: 46

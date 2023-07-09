@@ -3459,9 +3459,15 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "Early 20th century",
+      "start": 1900,
+      "end": 1949,
+      "lengthInYears": 0
+    },
     "place": {
-      "name": "Unknown"
+      "coords": [],
+      "name": "USA"
     }
   },
   {
@@ -3527,7 +3533,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "World War II",
+      "start": 1939,
+      "end": 1945,
+      "lengthInYears": 6
+    },
     "place": {
       "coords": [],
       "name": "Italy"
@@ -5338,7 +5349,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "World War II",
+      "start": 1939,
+      "end": 1945,
+      "lengthInYears": 6
+    },
     "place": {
       "coords": [],
       "name": "Egypt"
@@ -6118,7 +6134,8 @@
       "lengthInYears": 10
     },
     "place": {
-      "name": "Unknown"
+      "coords": [],
+      "name": "South Korea"
     }
   },
   {

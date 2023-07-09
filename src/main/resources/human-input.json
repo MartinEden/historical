@@ -119,5 +119,17 @@
 			"start": 1537,
 			"end": 1554
 		}
+	},
+	{
+		"id": "https://www.goodreads.com/book/show/43521657-the-ten-thousand-doors-of-january",
+		"period": {
+			"name": "Early 20th century",
+			"start": 1900,
+			"end": 1949
+		},
+		"place": {
+			"name": "USA",
+			"coords": []
+		}
 	}
 ]

@@ -18,12 +18,16 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
             )
         )
         yield(
-            object : SynopsisRegexRule(Regex("nazi-invaded")) {
-                override fun handleMatch(match: MatchResult, book: BookMetadata) = Categorization(
+            SnippetRule(
+                matchingSnippets = setOf(
+                    "World War II",
+                    "Nazi",
+                ),
+                categorization = Categorization(
                     Period.Range("World War II", 1939, 1945) withConfidence 0.25f,
                     Place.Area("Europe", emptyList()) withConfidence 0.25f
                 )
-            }
+            )
         )
         yield(
             TagRule(

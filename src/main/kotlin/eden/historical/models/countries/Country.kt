@@ -1,5 +1,6 @@
 package eden.historical.models.countries
 
+// TODO: "Korea" curently resolves to "South Koreas", but should we instead have a GeoJSON for the old Republic of Korea?
 data class Country(val names: List<String>, val iso3: String?, val border: List<Border>) {
     val defaultName by lazy { names.first() }
 
