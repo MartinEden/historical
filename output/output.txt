@@ -197,10 +197,10 @@ The Burning Land by Cornwell, Bernard
 9th Century (800 - 899)
 England
 The Last Kingdom by Cornwell, Bernard
-Unknown
+the 9th and 10th centuries (800 - 999)
 England
 The Pale Horseman by Cornwell, Bernard
-Unknown
+the 9th and 10th centuries (800 - 999)
 England
 The Winter King by Cornwell, Bernard
 Arthurian mythology (500 - 1000)
@@ -999,4 +999,4 @@ The Book Thief by Zusak, Markus
 Germany
 
 Number of books: 333
-Missing pieces of data: 74
+Missing pieces of data: 72

@@ -1526,7 +1526,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "the 9th and 10th centuries",
+      "start": 800,
+      "end": 999,
+      "lengthInYears": 199
+    },
     "place": {
       "coords": [],
       "name": "England"
@@ -1543,7 +1548,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "the 9th and 10th centuries",
+      "start": 800,
+      "end": 999,
+      "lengthInYears": 199
+    },
     "place": {
       "coords": [],
       "name": "England"
