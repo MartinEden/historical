@@ -2791,7 +2791,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "Roman Empire",
+      "start": -27,
+      "end": 476,
+      "lengthInYears": 502
+    },
     "place": {
       "coords": [],
       "name": "Italy"

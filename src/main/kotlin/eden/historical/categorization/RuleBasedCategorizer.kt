@@ -97,6 +97,14 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
                 )
             )
         )
+        yield(
+            PlaceRule(
+                "Roman Empire",
+                Categorization(
+                    period = Period.Range("Roman Empire", -27, 476)
+                )
+            )
+        )
         yieldAll(CenturyRule.all)
         yieldAll(LocationRule.from(countries))
         yield(LocationRule(setOf("Yorkshire"), Place.Area("Yorkshire", emptyList())))

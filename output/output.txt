@@ -365,7 +365,7 @@ Ross Poldark by Graham, Winston
 1783 (1783)
 England
 I, Claudius by Graves, Robert
-Unknown
+Roman Empire (27BC - 476)
 Italy
 The Boleyn Inheritance by Gregory, Philippa
 1539 (1539)
@@ -999,4 +999,4 @@ The Book Thief by Zusak, Markus
 Germany
 
 Number of books: 333
-Missing pieces of data: 61
+Missing pieces of data: 60

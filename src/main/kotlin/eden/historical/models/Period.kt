@@ -16,7 +16,16 @@ sealed class Period {
             get() = start.yearToString()
         private val endAsYear
             get() = end.yearToString()
-        val lengthInYears = end - start
+        val lengthInYears: Int
+
+        init {
+            var length = end - start
+            // There is no zero AD, so adjust length accordingly
+            if (start < 0 && end > 0) {
+                length -= 1
+            }
+            lengthInYears = length
+        }
 
         override fun toString(): String {
             return if (start != end) {
