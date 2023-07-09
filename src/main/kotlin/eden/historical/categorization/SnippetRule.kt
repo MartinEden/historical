@@ -7,6 +7,9 @@ data class SnippetRule(
     val categorization: Categorization
 ) : SynopsisRegexRule(synopsisRegex(matchingSnippets)) {
 
+    constructor(snippet: String, categorization: Categorization)
+            : this(setOf(snippet), categorization)
+
     override fun handleMatch(match: MatchResult, book: BookMetadata) = categorization
 
     companion object {

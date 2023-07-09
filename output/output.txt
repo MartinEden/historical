@@ -467,19 +467,19 @@ Catch-22 by Heller, Joseph
 World War II (1939 - 1945)
 Italy
 Out of the Dust by Hesse, Karen
-Unknown
+Great Depresion (1929 - 1939)
 Oklahoma
 Girl in the Blue Coat by Hesse, Monica
 World War II (1939 - 1945)
 Netherlands
 The Book of Negroes by Hill, Lawrence
-Unknown
+18th century (1700 - 1799)
 England
 The Dovekeepers by Hoffman, Alice
 70 (70)
 Israel
 A Thousand Splendid Suns by Hosseini, Khaled
-Unknown
+20th Century (1900 - 1999)
 Afghanistan
 And the Mountains Echoed by Hosseini, Khaled
 1952 (1952)
@@ -809,7 +809,7 @@ Sarum: The Novel of England by Rutherfurd, Edward
 Unknown
 United Kingdom
 Esperanza Rising by Ryan, Pam Muñoz
-Unknown
+Great Depresion (1929 - 1939)
 California
 Dissolution by Sansom, C.J.
 1573 (1573)
@@ -893,7 +893,7 @@ Of Mice and Men by Steinbeck, John
 1930s (1930 - 1940)
 California
 The Grapes of Wrath by Steinbeck, John
-1930s (1930 - 1940)
+Great Depresion (1929 - 1939)
 California
 Girl Waits with Gun by Stewart, Amy
 1914 (1914)
@@ -999,4 +999,4 @@ The Book Thief by Zusak, Markus
 Germany
 
 Number of books: 333
-Missing pieces of data: 46
+Missing pieces of data: 42
