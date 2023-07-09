@@ -17,6 +17,7 @@ object AnyYearRule : SynopsisRegexRule(Regex("""\W(\d{4})\W""")) {
     }
 }
 
+// TODO: Currently we treat centuries (e.g. 1900s as if they were just the first decade
 object DecadeRule : SynopsisRegexRule(Regex("""(?<phrasing>in the (?:early|late)?)?\s*(?<decade>\d{4})s""")) {
     override fun handleMatch(match: MatchResult, book: BookMetadata): Categorization? {
         val decade = match.groups["decade"]!!.value.toInt()
