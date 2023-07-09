@@ -1016,7 +1016,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "Late 20th century",
+      "start": 1980,
+      "end": 2000,
+      "lengthInYears": 0
+    },
     "place": {
       "coords": [],
       "name": "England"
@@ -1033,7 +1038,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "19th century",
+      "start": 1800,
+      "end": 1899,
+      "lengthInYears": 0
+    },
     "place": {
       "coords": [],
       "name": "China"
@@ -1138,7 +1148,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "World War II",
+      "start": 1939,
+      "end": 1945,
+      "lengthInYears": 6
+    },
     "place": {
       "coords": [],
       "name": "Czech Republic"
@@ -1401,7 +1416,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "1860s",
+      "start": 1860,
+      "end": 1869,
+      "lengthInYears": 0
+    },
     "place": {
       "coords": [],
       "name": "Virginia"
@@ -1462,7 +1482,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "885",
+      "start": 885,
+      "end": 885,
+      "lengthInYears": 0
+    },
     "place": {
       "coords": [],
       "name": "England"
@@ -1561,7 +1586,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "878",
+      "start": 878,
+      "end": 878,
+      "lengthInYears": 0
+    },
     "place": {
       "coords": [],
       "name": "England"

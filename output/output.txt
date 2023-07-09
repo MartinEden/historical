@@ -128,10 +128,10 @@ Year of Wonders by Brooks, Geraldine
 1666 (1666)
 England
 The Da Vinci Code by Brown, Dan
-Unknown
+Late 20th century (1980 - 2000)
 England
 The Good Earth by Buck, Pearl S.
-Unknown
+19th century (1800 - 1899)
 China
 The Miniaturist by Burton, Jessie
 1686 (1686)
@@ -146,7 +146,7 @@ The Luminaries by Catton, Eleanor
 1866 (1866)
 New Zealand
 The Amazing Adventures of Kavalier & Clay by Chabon, Michael
-Unknown
+World War II (1939 - 1945)
 Czech Republic
 The Paris Library by Charles, Janet Skeslien
 World War II (1939 - 1945)
@@ -182,7 +182,7 @@ The Girls by Cline, Emma; Holmsten, My
 1960s (1960 - 1970)
 California
 The Water Dancer by Coates, Ta-Nehisi
-Unknown
+1860s (1860 - 1869)
 Virginia
 Agincourt by Cornwell, Bernard
 1415 (1415)
@@ -191,7 +191,7 @@ Death of Kings by Cornwell, Bernard
 9th Century (800 - 899)
 England
 Sword Song by Cornwell, Bernard
-Unknown
+885 (885)
 England
 The Burning Land by Cornwell, Bernard
 9th Century (800 - 899)
@@ -206,7 +206,7 @@ The Winter King by Cornwell, Bernard
 Arthurian mythology (500 - 1000)
 United Kingdom
 Lords of the North by Cornwell, Bernard; Корнуел, Бърнард
-Unknown
+878 (878)
 England
 Pope Joan by Cross, Donna Woolfolk
 Unknown
@@ -999,4 +999,4 @@ The Book Thief by Zusak, Markus
 Germany
 
 Number of books: 333
-Missing pieces of data: 80
+Missing pieces of data: 74

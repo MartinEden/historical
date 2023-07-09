@@ -3,7 +3,7 @@ package eden.historical.categorization
 import eden.historical.models.BookMetadata
 import eden.historical.models.Period
 
-object TheYearIsRule : SynopsisRegexRule(Regex("""(?:the\s+year\s+is|it\s+is)\s+(\d{4})""")) {
+object TheYearIsRule : SynopsisRegexRule(Regex("""(?:the\s+year\s+is|it\s+is)\s+(\d{2,4})""")) {
     override fun handleMatch(match: MatchResult, book: BookMetadata): Categorization? {
         val year = match.groups[1]!!.value.toInt()
         return Categorization(Period.Range(year.toString(), year, year) withConfidence 0.75f)

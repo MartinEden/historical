@@ -55,5 +55,29 @@
 			"start": 1879,
 			"end": 1950
 		}
+	},
+	{
+		"id": "https://www.goodreads.com/book/show/968.The_Da_Vinci_Code",
+		"period": {
+			"name": "Late 20th century",
+			"start": 1980,
+			"end": 2000
+		}
+	},
+	{
+		"id": "https://www.goodreads.com/book/show/1078.The_Good_Earth",
+		"period": {
+			"name": "19th century",
+			"start": 1800,
+			"end": 1899
+		}
+	},
+	{
+		"id": "https://www.goodreads.com/book/show/43982054-the-water-dancer",
+		"period": {
+			"name": "1860s",
+			"start": 1860,
+			"end": 1869
+		}
 	}
 ]
