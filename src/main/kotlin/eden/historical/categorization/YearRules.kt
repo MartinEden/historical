@@ -17,9 +17,11 @@ object AnyYearRule : SynopsisRegexRule(Regex("""\W(\d{4})\W""")) {
     }
 }
 
-object DecadeRule : SynopsisRegexRule(Regex("""in the (?:early|late)?\s*(\d{4})s""")) {
+object DecadeRule : SynopsisRegexRule(Regex("""(?<phrasing>in the (?:early|late)?)?\s*(?<decade>\d{4})s""")) {
     override fun handleMatch(match: MatchResult, book: BookMetadata): Categorization? {
-        val decade = match.groups[1]!!.value.toInt()
-        return Categorization(Period.Range("${decade}s", decade, decade + 10) withConfidence 0.7f)
+        val decade = match.groups["decade"]!!.value.toInt()
+        val phrasingPresent = match.groups["phrasing"] != null
+        val confidence = if (phrasingPresent) 0.7f else 0.35f
+        return Categorization(Period.Range("${decade}s", decade, decade + 10) withConfidence confidence)
     }
 }

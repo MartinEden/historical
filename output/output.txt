@@ -92,7 +92,7 @@ The Boy in the Striped Pajamas by Boyne, John
 1943 (1943)
 Germany
 The Heart's Invisible Furies by Boyne, John
-Unknown
+1940s (1940 - 1950)
 Ireland
 The War That Saved My Life by Bradley, Kimberly Brubaker
 World War II (1939 - 1945)
@@ -161,7 +161,7 @@ The Lady and the Unicorn by Chevalier, Tracy
 1490 (1490)
 Belgium
 The Night Tiger by Choo, Yangsze
-Unknown
+1930s (1930 - 1940)
 Malaysia
 Clockwork Angel by Clare, Cassandra
 1878 (1878)
@@ -179,7 +179,7 @@ Next Year in Havana by Cleeton, Chanel
 1958 (1958)
 Cuba
 The Girls by Cline, Emma; Holmsten, My
-Unknown
+1960s (1960 - 1970)
 California
 The Water Dancer by Coates, Ta-Nehisi
 Unknown
@@ -344,10 +344,10 @@ Written in My Own Heart's Blood by Gabaldon, Diana
 1778 (1778)
 North Carolina
 Lessons in Chemistry by Garmus, Bonnie
-Unknown
+1960s (1960 - 1970)
 United States of America
 City of Girls by Gilbert, Elizabeth
-1940 (1940)
+1940s (1940 - 1950)
 United States of America
 The Signature of All Things by Gilbert, Elizabeth
 1800 (1800)
@@ -440,7 +440,7 @@ Winter Garden by Hannah, Kristin
 World War II (1939 - 1945)
 United States of America
 The Mercies by Hargrave, Kiran Millwood
-1617 (1617)
+1600s (1600 - 1610)
 Scotland
 The Book of Lost Names by Harmel, Kristin
 1942 (1942)
@@ -485,7 +485,7 @@ And the Mountains Echoed by Hosseini, Khaled
 1952 (1952)
 California
 The Kite Runner by Hosseini, Khaled
-Unknown
+1970s (1970 - 1980)
 Afghanistan
 Les Misérables by Hugo, Victor; MacAfee, Norman; Wilbour, Charles E.
 Unknown
@@ -524,7 +524,7 @@ News of the World by Jiles, Paulette
 1870 (1870)
 Texas
 The Henna Artist by Joshi, Alka
-Unknown
+1950s (1950 - 1960)
 India
 Slaughterhouse-Five by Jr., Kurt Vonnegut
 1945 (1945)
@@ -581,7 +581,7 @@ Grave Mercy by LaFevers, Robin
 1485 (1485)
 France
 Go Set a Watchman by Lee, Harper
-Unknown
+1950s (1950 - 1960)
 United States of America
 To Kill a Mockingbird by Lee, Harper
 1933 (1933)
@@ -722,7 +722,7 @@ Hamnet by O'Farrell, Maggie
 1580s (1580 - 1590)
 England
 The Marriage Portrait by O'Farrell, Maggie
-Unknown
+1550s (1550 - 1560)
 Italy
 The English Patient by Ondaatje, Michael
 Unknown
@@ -785,7 +785,7 @@ A Curious Beginning by Raybourn, Deanna
 1887 (1887)
 Unknown
 Daisy Jones & The Six by Reid, Taylor Jenkins
-Unknown
+1970s (1970 - 1980)
 California
 Malibu Rising by Reid, Taylor Jenkins
 1983 (1983)
@@ -830,7 +830,7 @@ Snow Flower and the Secret Fan by See, Lisa
 Unknown
 China
 The Island of Sea Women by See, Lisa
-Unknown
+1930s (1930 - 1940)
 Unknown
 The Tea Girl of Hummingbird Lane by See, Lisa
 Unknown
@@ -890,10 +890,10 @@ East of Eden by Steinbeck, John
 20th Century (1900 - 1999)
 California
 Of Mice and Men by Steinbeck, John
-1937 (1937)
+1930s (1930 - 1940)
 California
 The Grapes of Wrath by Steinbeck, John
-1939 (1939)
+1930s (1930 - 1940)
 California
 Girl Waits with Gun by Stewart, Amy
 1914 (1914)
@@ -968,7 +968,7 @@ And I Darken by White, Kiersten
 Unknown
 Unknown
 The Nickel Boys by Whitehead, Colson
-Unknown
+1960s (1960 - 1970)
 Florida
 The Underground Railroad by Whitehead, Colson
 Unknown
@@ -999,4 +999,4 @@ The Book Thief by Zusak, Markus
 Germany
 
 Number of books: 333
-Missing pieces of data: 101
+Missing pieces of data: 90
