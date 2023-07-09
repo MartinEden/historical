@@ -111,5 +111,13 @@
 			"start": 1100,
 			"end": 1199
 		}
+	},
+	{
+		"id": "https://www.goodreads.com/book/show/22840421-my-lady-jane",
+		"period": {
+			"name": "Lifetime of Lady Jane Grey",
+			"start": 1537,
+			"end": 1554
+		}
 	}
 ]

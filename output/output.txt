@@ -425,7 +425,7 @@ Roots: The Saga of an American Family by Haley, Alex
 1767 (1767)
 Gambia
 My Lady Jane by Hand, Cynthia; Ashton, Brodi; Meadows, Jodi
-Unknown
+Lifetime of Lady Jane Grey (1537 - 1554)
 England
 The Four Winds by Hannah, Kristin
 1934 (1934)
@@ -999,4 +999,4 @@ The Book Thief by Zusak, Markus
 Germany
 
 Number of books: 333
-Missing pieces of data: 52
+Missing pieces of data: 51

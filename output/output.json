@@ -3239,7 +3239,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "Lifetime of Lady Jane Grey",
+      "start": 1537,
+      "end": 1554,
+      "lengthInYears": 0
+    },
     "place": {
       "coords": [],
       "name": "England"
