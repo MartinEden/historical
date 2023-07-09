@@ -55,6 +55,15 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
         )
         yield(
             TagRule(
+                "Arthurian",
+                Categorization(
+                    period = Period.Range("Arthurian mythology", 500, 1000) withConfidence 0.1f,
+                    place = countries.single { it.iso3 == "GBR" }.asPlace() withConfidence 0.5f
+                )
+            )
+        )
+        yield(
+            TagRule(
                 "American Revolutionary War",
                 Categorization(
                     period = Period.Range("American Revolutionary War", 1775, 1783),

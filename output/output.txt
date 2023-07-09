@@ -98,8 +98,8 @@ The War That Saved My Life by Bradley, Kimberly Brubaker
 World War II (1939 - 1945)
 England
 The Mists of Avalon by Bradley, Marion Zimmer
-Unknown
-Unknown
+Arthurian mythology (500 - 1000)
+United Kingdom
 A Great and Terrible Beauty by Bray, Libba
 1895 (1895)
 England
@@ -203,8 +203,8 @@ The Pale Horseman by Cornwell, Bernard
 Unknown
 England
 The Winter King by Cornwell, Bernard
-Unknown
-Unknown
+Arthurian mythology (500 - 1000)
+United Kingdom
 Lords of the North by Cornwell, Bernard; Корнуел, Бърнард
 Unknown
 England
@@ -999,4 +999,4 @@ The Book Thief by Zusak, Markus
 Germany
 
 Number of books: 333
-Missing pieces of data: 90
+Missing pieces of data: 86
