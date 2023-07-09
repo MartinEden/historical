@@ -1527,7 +1527,7 @@
       ]
     },
     "period": {
-      "name": "the 9th and 10th centuries",
+      "name": "9th and 10th centuries",
       "start": 800,
       "end": 999,
       "lengthInYears": 199
@@ -1549,7 +1549,7 @@
       ]
     },
     "period": {
-      "name": "the 9th and 10th centuries",
+      "name": "9th and 10th centuries",
       "start": 800,
       "end": 999,
       "lengthInYears": 199
@@ -2880,10 +2880,10 @@
       ]
     },
     "period": {
-      "name": "Medieval",
-      "start": 500,
-      "end": 1500,
-      "lengthInYears": 1000
+      "name": "15th Century",
+      "start": 1400,
+      "end": 1499,
+      "lengthInYears": 99
     },
     "place": {
       "coords": [],
@@ -3187,7 +3187,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "18th Century",
+      "start": 1700,
+      "end": 1799,
+      "lengthInYears": 99
+    },
     "place": {
       "coords": [],
       "name": "Alabama"
@@ -4303,7 +4308,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "20th Century",
+      "start": 1900,
+      "end": 1999,
+      "lengthInYears": 99
+    },
     "place": {
       "coords": [],
       "name": "China"
@@ -4713,10 +4723,10 @@
       ]
     },
     "period": {
-      "name": "1953",
-      "start": 1953,
-      "end": 1953,
-      "lengthInYears": 0
+      "name": "17th Century",
+      "start": 1600,
+      "end": 1699,
+      "lengthInYears": 99
     },
     "place": {
       "coords": [],
@@ -5067,7 +5077,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "20th Century",
+      "start": 1900,
+      "end": 1999,
+      "lengthInYears": 99
+    },
     "place": {
       "coords": [],
       "name": "England"
@@ -6069,7 +6084,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "19th Century",
+      "start": 1800,
+      "end": 1899,
+      "lengthInYears": 99
+    },
     "place": {
       "coords": [],
       "name": "China"
@@ -6656,7 +6676,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "18th Century",
+      "start": 1700,
+      "end": 1799,
+      "lengthInYears": 99
+    },
     "place": {
       "coords": [],
       "name": "France"
@@ -6907,7 +6932,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "20th Century",
+      "start": 1900,
+      "end": 1999,
+      "lengthInYears": 99
+    },
     "place": {
       "coords": [],
       "name": "Georgia"

@@ -197,10 +197,10 @@ The Burning Land by Cornwell, Bernard
 9th Century (800 - 899)
 England
 The Last Kingdom by Cornwell, Bernard
-the 9th and 10th centuries (800 - 999)
+9th and 10th centuries (800 - 999)
 England
 The Pale Horseman by Cornwell, Bernard
-the 9th and 10th centuries (800 - 999)
+9th and 10th centuries (800 - 999)
 England
 The Winter King by Cornwell, Bernard
 Arthurian mythology (500 - 1000)
@@ -377,7 +377,7 @@ The King's Curse by Gregory, Philippa
 16th Century (1500 - 1599)
 England
 The Kingmaker's Daughter by Gregory, Philippa
-Medieval (500 - 1500)
+15th Century (1400 - 1499)
 England
 The Lady of the Rivers by Gregory, Philippa
 Medieval (500 - 1500)
@@ -419,7 +419,7 @@ Water for Elephants by Gruen, Sara
 1932 (1932)
 Illinois
 Homegoing by Gyasi, Yaa
-Unknown
+18th Century (1700 - 1799)
 Alabama
 Roots: The Saga of an American Family by Haley, Alex
 1767 (1767)
@@ -575,7 +575,7 @@ Babel, Or the Necessity of Violence: An Arcane History of the Oxford Translators
 1828 (1828)
 England
 The Poppy War by Kuang, R.F.
-Unknown
+20th Century (1900 - 1999)
 China
 Grave Mercy by LaFevers, Robin
 1485 (1485)
@@ -635,7 +635,7 @@ Lonesome Dove by McMurtry, Larry
 Unknown
 Texas
 The Crucible: A Play in Four Acts by Miller, Arthur; Bigsby, Christopher W.E.
-1953 (1953)
+17th Century (1600 - 1699)
 Massachusetts
 Circe by Miller, Madeline
 Greek mythology (2000BC - 1000BC)
@@ -689,7 +689,7 @@ The Clockmaker's Daughter by Morton, Kate
 1862 (1862)
 Unknown
 The Forgotten Garden by Morton, Kate
-Unknown
+20th Century (1900 - 1999)
 England
 The House at Riverton by Morton, Kate
 1924 (1924)
@@ -827,7 +827,7 @@ Shanghai Girls by See, Lisa
 1937 (1937)
 California
 Snow Flower and the Secret Fan by See, Lisa
-Unknown
+19th Century (1800 - 1899)
 China
 The Island of Sea Women by See, Lisa
 1930s (1930 - 1940)
@@ -908,7 +908,7 @@ Beneath a Scarlet Sky by Sullivan, Mark T.
 World War II (1939 - 1945)
 Italy
 Perfume: The Story of a Murderer by Süskind, Patrick; Woods, John E.
-Unknown
+18th Century (1700 - 1799)
 France
 The Joy Luck Club by Tan, Amy
 1949 (1949)
@@ -941,7 +941,7 @@ Brooklyn by Tóibín, Colm
 1950s (1950 - 1960)
 New York
 The Color Purple by Walker, Alice
-Unknown
+20th Century (1900 - 1999)
 Georgia
 Fingersmith by Waters, Sarah
 Unknown
@@ -999,4 +999,4 @@ The Book Thief by Zusak, Markus
 Germany
 
 Number of books: 333
-Missing pieces of data: 58
+Missing pieces of data: 52
