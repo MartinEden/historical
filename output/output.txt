@@ -209,7 +209,7 @@ Lords of the North by Cornwell, Bernard; Корнуел, Бърнард
 878 (878)
 England
 Pope Joan by Cross, Donna Woolfolk
-Unknown
+9th Century (800 - 899)
 Italy
 Bud, Not Buddy by Curtis, Christopher Paul
 1936 (1936)
@@ -999,4 +999,4 @@ The Book Thief by Zusak, Markus
 Germany
 
 Number of books: 333
-Missing pieces of data: 72
+Missing pieces of data: 71

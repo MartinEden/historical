@@ -1618,7 +1618,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "9th Century",
+      "start": 800,
+      "end": 899,
+      "lengthInYears": 99
+    },
     "place": {
       "coords": [],
       "name": "Italy"
