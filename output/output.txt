@@ -299,7 +299,7 @@ Winter of the World by Follett, Ken
 World War II (1939 - 1945)
 England
 World Without End by Follett, Ken
-Unknown
+Medieval (500 - 1500)
 England
 Edge of Eternity by Follett, Ken; Lee, John
 20th Century (1900 - 1999)
@@ -377,10 +377,10 @@ The King's Curse by Gregory, Philippa
 16th Century (1500 - 1599)
 England
 The Kingmaker's Daughter by Gregory, Philippa
-Unknown
+Medieval (500 - 1500)
 England
 The Lady of the Rivers by Gregory, Philippa
-Unknown
+Medieval (500 - 1500)
 England
 The Other Boleyn Girl by Gregory, Philippa
 1521 (1521)
@@ -999,4 +999,4 @@ The Book Thief by Zusak, Markus
 Germany
 
 Number of books: 333
-Missing pieces of data: 64
+Missing pieces of data: 61

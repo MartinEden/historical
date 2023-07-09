@@ -2299,7 +2299,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "Medieval",
+      "start": 500,
+      "end": 1500,
+      "lengthInYears": 1000
+    },
     "place": {
       "coords": [],
       "name": "England"
@@ -2869,7 +2874,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "Medieval",
+      "start": 500,
+      "end": 1500,
+      "lengthInYears": 1000
+    },
     "place": {
       "coords": [],
       "name": "England"
@@ -2886,7 +2896,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "Medieval",
+      "start": 500,
+      "end": 1500,
+      "lengthInYears": 1000
+    },
     "place": {
       "coords": [],
       "name": "England"
