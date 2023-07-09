@@ -8,7 +8,7 @@ class GoodreadsUrlFinder(private val fetcher: Fetcher) {
     val urls: Sequence<String> = sequence {
         var pageNumber = 1
         while (!fetcher.exhausted) {
-            val indexPage = fetcher.get("$baseUrl?page=$pageNumber", emptyMap())
+            val indexPage = fetcher.get("$baseUrl?page=$pageNumber", emptyMap())!!
             val bookAnchors = indexPage.select(".mainContent a.bookTitle")
             for (anchor in bookAnchors) {
                 if (fetcher.exhausted) {

@@ -7,7 +7,7 @@ import java.time.Instant
 class ThrottlingFetcher(private val nestedFetcher: Fetcher) : Fetcher {
     private var lastFetch = Instant.MIN
 
-    override fun get(url: String, cookies: Map<String, String>): Document {
+    override fun get(url: String, cookies: Map<String, String>): Document? {
         throttle()
         return nestedFetcher.get(url, cookies)
     }

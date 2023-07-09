@@ -6,6 +6,7 @@ import eden.historical.models.Author
 import eden.historical.models.Book
 import eden.historical.models.BookMetadata
 import eden.historical.sources.Json.Companion.getJsonData
+import org.jsoup.nodes.Document
 
 const val goodreadsUrl = "https://www.goodreads.com"
 
@@ -15,11 +16,16 @@ class GoodreadsSource(private val fetcher: Fetcher) : BookSource {
     private val urlFinder = GoodreadsUrlFinder(fetcher)
     private val gson = Gson()
 
-    override val books: Sequence<BookMetadata> = urlFinder.urls.map { getBookFromUrl(it) }
+    override val books: Sequence<BookMetadata> = urlFinder.urls.mapNotNull { getBookFromUrl(it) }
 
-    private fun getBookFromUrl(url: String): BookMetadata {
+    private fun getBookFromUrl(url: String): BookMetadata? {
         val doc = fetcher.get(url, emptyMap())
+        return if (doc != null) {
+            processDocument(url, doc)
+        } else null
+    }
 
+    private fun processDocument(url: String, doc: Document): BookMetadata {
         val title = doc.trimmedText(".BookPageTitleSection__title h1")
         val authors = doc.select(".BookPageMetadataSection__contributor a.ContributorLink")
             .map { it.trimmedText(".ContributorLink__name") }
