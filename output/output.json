@@ -1905,7 +1905,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "American Revolutionary War",
+      "start": 1775,
+      "end": 1783,
+      "lengthInYears": 8
+    },
     "place": {
       "coords": [],
       "name": "Pennsylvania"
@@ -2048,7 +2053,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "19th century",
+      "start": 1800,
+      "end": 1899,
+      "lengthInYears": 0
+    },
     "place": {
       "coords": [],
       "name": "England"
@@ -2116,7 +2126,8 @@
       "lengthInYears": 99
     },
     "place": {
-      "name": "Unknown"
+      "coords": [],
+      "name": "United States of America"
     }
   },
   {
@@ -2134,7 +2145,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "20th century",
+      "start": 1900,
+      "end": 1999,
+      "lengthInYears": 0
+    },
     "place": {
       "coords": [],
       "name": "Italy"

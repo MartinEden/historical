@@ -248,7 +248,7 @@ America's First Daughter by Dray, Stephanie; Kamoie, Laura
 18th Century (1700 - 1799)
 Virginia
 My Dear Hamilton: A Novel of Eliza Schuyler Hamilton by Dray, Stephanie; Kamoie, Laura
-Unknown
+American Revolutionary War (1775 - 1783)
 Pennsylvania
 The Count of Monte Cristo by Dumas, Alexandre; Buss, Robin
 1815 (1815)
@@ -266,7 +266,7 @@ The Name of the Rose by Eco, Umberto; Weaver, William
 1327 (1327)
 Italy
 Washington Black by Edugyan, Esi
-Unknown
+19th century (1800 - 1899)
 England
 Middlesex by Eugenides, Jeffrey
 1967 (1967)
@@ -276,9 +276,9 @@ The Crimson Petal and the White by Faber, Michel
 England
 One Thousand White Women: The Journals of May Dodd by Fergus, Jim
 19th Century (1800 - 1899)
-Unknown
+United States of America
 My Brilliant Friend by Ferrante, Elena; Goldstein, Ann
-Unknown
+20th century (1900 - 1999)
 Italy
 The Great Gatsby by Fitzgerald, F. Scott
 1920s (1920 - 1930)
@@ -999,4 +999,4 @@ The Book Thief by Zusak, Markus
 Germany
 
 Number of books: 333
-Missing pieces of data: 68
+Missing pieces of data: 64

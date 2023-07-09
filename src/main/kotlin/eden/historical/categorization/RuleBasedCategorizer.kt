@@ -72,10 +72,13 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
         )
         yield(
             TagRule(
-                "American Revolutionary War",
+                setOf(
+                    "American Revolutionary War",
+                    "American Revolution"
+                ),
                 Categorization(
-                    period = Period.Range("American Revolutionary War", 1775, 1783),
-                    place =  countries.single { it.iso3 == "USA" }.asPlace()
+                    period = Period.Range("American Revolutionary War", 1775, 1783) withConfidence 0.9f,
+                    place = countries.single { it.iso3 == "USA" }.asPlace() withConfidence 0.75f
                 )
             )
         )

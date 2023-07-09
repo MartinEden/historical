@@ -79,5 +79,21 @@
 			"start": 1860,
 			"end": 1869
 		}
+	},
+	{
+		"id": "https://www.goodreads.com/book/show/38140077-washington-black",
+		"period": {
+			"name": "19th century",
+			"start": 1800,
+			"end": 1899
+		}
+	},
+	{
+		"id": "https://www.goodreads.com/book/show/35036409-my-brilliant-friend",
+		"period": {
+			"name": "20th century",
+			"start": 1900,
+			"end": 1999
+		}
 	}
 ]
