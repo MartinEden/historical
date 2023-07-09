@@ -33,9 +33,8 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
             TagRule(
                 "Regency",
                 Categorization(
-                    period = Period.Range("Regency", 1795, 1837),
-                    // TODO: Needs low confidence
-                    place = countries.single { it.defaultName == "England" }.asPlace()
+                    period = Period.Range("Regency", 1795, 1837) withConfidence 1f,
+                    place = countries.single { it.defaultName == "England" }.asPlace() withConfidence 0.1f
                 )
             )
         )
