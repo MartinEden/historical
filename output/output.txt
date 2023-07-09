@@ -66,7 +66,7 @@ Regency (1795 - 1837)
 England
 The Silence of the Girls by Barker, Pat
 Greek mythology (2000BC - 1000BC)
-Mediterranean
+Greece
 The Other Einstein by Benedict, Marie
 1875 – 1948 (1875 - 1948)
 Europe
@@ -78,7 +78,7 @@ City of Thieves by Benioff, David
 Europe
 The Aviator's Wife by Benjamin, Melanie
 1927 (1927)
-Unknown
+Mexico
 The Vanishing Half by Bennett, Brit
 1956 (1956)
 California
@@ -165,7 +165,7 @@ Unknown
 Malaysia
 Clockwork Angel by Clare, Cassandra
 1878 (1878)
-Unknown
+New York
 Clockwork Prince by Clare, Cassandra
 1878 (1878)
 Unknown
@@ -312,7 +312,7 @@ World War II (1939 - 1945)
 Europe
 Z: A Novel of Zelda Fitzgerald by Fowler, Therese Anne
 1918 (1918)
-Unknown
+Alabama
 Mistress of the Art of Death by Franklin, Ariana
 1171 (1171)
 England
@@ -375,7 +375,7 @@ Tudor (1485 - 1603)
 United Kingdom
 The King's Curse by Gregory, Philippa
 16th Century (1500 - 1599)
-Unknown
+England
 The Kingmaker's Daughter by Gregory, Philippa
 Unknown
 England
@@ -390,19 +390,19 @@ The Other Boleyn Girl by Gregory, Philippa
 England
 The Other Queen by Gregory, Philippa
 1568 (1568)
-Unknown
+Scotland
 The Queen's Fool by Gregory, Philippa
 Tudor (1485 - 1603)
 France
 The Red Queen by Gregory, Philippa
 15th Century (1400 - 1499)
-Unknown
+England
 The Virgin's Lover by Gregory, Philippa
 16th Century (1500 - 1599)
 United Kingdom
 The White Princess by Gregory, Philippa
 Tudor (1485 - 1603)
-Unknown
+England
 The White Queen by Gregory, Philippa
 1464 (1464)
 England
@@ -426,7 +426,7 @@ Roots: The Saga of an American Family by Haley, Alex
 Gambia
 My Lady Jane by Hand, Cynthia; Ashton, Brodi; Meadows, Jodi
 Unknown
-Unknown
+England
 The Four Winds by Hannah, Kristin
 1934 (1934)
 California
@@ -441,7 +441,7 @@ World War II (1939 - 1945)
 Europe
 The Mercies by Hargrave, Kiran Millwood
 1617 (1617)
-Unknown
+Scotland
 The Book of Lost Names by Harmel, Kristin
 1942 (1942)
 Europe
@@ -513,7 +513,7 @@ The Snow Child by Ivey, Eowyn
 Alaska
 The Jane Austen Society by Jenner, Natalie
 1932 (1932)
-Unknown
+England
 The Lost Girls of Paris by Jenoff, Pam
 World War II (1939 - 1945)
 Europe
@@ -543,7 +543,7 @@ Burial Rites by Kent, Hannah
 Iceland
 The Book of Longings by Kidd, Sue Monk
 Unknown
-Unknown
+Israel
 The Invention of Wings by Kidd, Sue Monk
 1803 (1803)
 United States of America
@@ -552,7 +552,7 @@ The Secret Life of Bees by Kidd, Sue Monk
 South Carolina
 Euphoria by King, Lily
 1933 (1933)
-Unknown
+Guinea
 11/22/63 by King, Stephen
 2011 (2011)
 Maine
@@ -576,7 +576,7 @@ Babel, Or the Necessity of Violence: An Arcane History of the Oxford Translators
 England
 The Poppy War by Kuang, R.F.
 Unknown
-Unknown
+China
 Grave Mercy by LaFevers, Robin
 1485 (1485)
 France
@@ -609,7 +609,7 @@ Inside Out & Back Again by Lại, Thanhhà
 Alabama
 Stalking Jack the Ripper by Maniscalco, Kerri
 1888 (1888)
-Unknown
+New York
 Bring Up the Bodies by Mantel, Hilary
 1536 (1536)
 England
@@ -654,13 +654,13 @@ Unknown
 Canada
 Cleopatra's Daughter by Moran, Michelle
 Unknown
-Unknown
+Egypt
 Madame Tussaud: A Novel of the French Revolution by Moran, Michelle
 1788 (1788)
 France
 Nefertiti by Moran, Michelle
 Unknown
-Unknown
+Egypt
 The Heretic Queen by Moran, Michelle
 Unknown
 Egypt
@@ -696,7 +696,7 @@ The House at Riverton by Morton, Kate
 United Kingdom
 The Secret Keeper by Morton, Kate
 Unknown
-Unknown
+England
 The Girl You Left Behind by Moyes, Jojo
 1916 (1916)
 France
@@ -714,7 +714,7 @@ Unknown
 Unknown
 The Things They Carried by O'Brien, Tim
 1990 (1990)
-Unknown
+New York
 Island of the Blue Dolphins by O'Dell, Scott
 Unknown
 California
@@ -756,7 +756,7 @@ World War II (1939 - 1945)
 Europe
 The Secrets We Kept by Prescott, Lara; Uiterweer, Ellis Post; Uiterweer, Anna Post
 20th Century (1900 - 1999)
-Unknown
+Russia
 Gates of Fire by Pressfield, Steven
 Unknown
 Greece
@@ -876,7 +876,7 @@ The Bronze Horseman by Simons, Paullina
 Europe
 The Summer Before the War by Simonson, Helen
 1914 (1914)
-Unknown
+England
 A Tree Grows in Brooklyn by Smith, Betty
 Unknown
 United States of America
@@ -924,7 +924,7 @@ War and Peace by Tolstoy, Leo; Maude, Aylmer; Maude, Louise
 Czech Republic
 A Gentleman in Moscow: A Novel by Towles, Amor
 1922 (1922)
-Unknown
+New York
 Rules of Civility by Towles, Amor
 1938 (1938)
 United States of America
@@ -999,4 +999,4 @@ The Book Thief by Zusak, Markus
 Europe
 
 Number of books: 333
-Missing pieces of data: 122
+Missing pieces of data: 101

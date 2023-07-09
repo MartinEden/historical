@@ -66,7 +66,7 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
         yieldAll(LocationRule.from(countries))
         yield(SourceYearRule)
         yield(HandwrittenCategorizationRule())
-    }
+    }.toList()
 
     private val defaultCategorization = Categorization(
         Period.Unknown withConfidence 0f,
