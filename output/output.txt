@@ -407,10 +407,10 @@ The White Queen by Gregory, Philippa
 1464 (1464)
 England
 The Kitchen House by Grissom, Kathleen
-Unknown
+19th century (1800 - 1899)
 Virginia
 Matrix by Groff, Lauren
-Unknown
+12th century (1100 - 1199)
 England
 At the Water's Edge by Gruen, Sara
 1945 (1945)
@@ -999,4 +999,4 @@ The Book Thief by Zusak, Markus
 Germany
 
 Number of books: 333
-Missing pieces of data: 60
+Missing pieces of data: 58

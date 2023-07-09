@@ -3099,7 +3099,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "19th century",
+      "start": 1800,
+      "end": 1899,
+      "lengthInYears": 0
+    },
     "place": {
       "coords": [],
       "name": "Virginia"
@@ -3116,7 +3121,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "12th century",
+      "start": 1100,
+      "end": 1199,
+      "lengthInYears": 0
+    },
     "place": {
       "coords": [],
       "name": "England"
