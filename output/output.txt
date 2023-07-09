@@ -114,7 +114,7 @@ Jane Eyre by Brontë, Charlotte; Mason, Michael
 England
 Wuthering Heights by Brontë, Emily; Dunn, Richard J.; Brontë, Charlotte
 19th Century (1800 - 1899)
-Unknown
+Yorkshire
 Caleb's Crossing by Brooks, Geraldine
 1660 (1660)
 Massachusetts
@@ -168,7 +168,7 @@ Clockwork Angel by Clare, Cassandra
 New York
 Clockwork Prince by Clare, Cassandra
 1878 (1878)
-Unknown
+Yorkshire
 Jonathan Strange & Mr Norrell by Clarke, Susanna
 1806 (1806)
 United Kingdom
@@ -999,4 +999,4 @@ The Book Thief by Zusak, Markus
 Germany
 
 Number of books: 333
-Missing pieces of data: 86
+Missing pieces of data: 84

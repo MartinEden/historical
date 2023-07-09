@@ -73,6 +73,7 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
         )
         yieldAll(CenturyRule.all)
         yieldAll(LocationRule.from(countries))
+        yield(LocationRule(setOf("Yorkshire"), Place.Area("Yorkshire", emptyList())))
         yield(SourceYearRule)
         yield(HandwrittenCategorizationRule())
     }.toList()
