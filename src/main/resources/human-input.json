@@ -47,5 +47,13 @@
 			"coords": [],
 			"name": "Europe"
 		}
+	},
+	{
+		"id": "https://www.goodreads.com/book/show/55333938-the-personal-librarian",
+		"period": {
+			"name": "1879 - 1950",
+			"start": 1879,
+			"end": 1950
+		}
 	}
 ]

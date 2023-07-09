@@ -29,10 +29,10 @@ The Bear and the Nightingale by Arden, Katherine
 14th Century (1300 - 1399)
 Russia
 Life After Life by Atkinson, Kate
-1910 (1910)
+World War II (1939 - 1945)
 Europe
 Transcription by Atkinson, Kate
-1940 (1940)
+World War II (1939 - 1945)
 Europe
 Alias Grace by Atwood, Margaret
 1843 (1843)
@@ -50,7 +50,7 @@ Sense and Sensibility by Austen, Jane; Ballaster, Ros; Остин, Джейн
 19th Century (1800 - 1899)
 England
 Persuasion by Austen, Jane; Lynch, Deidre Shauna; Kinsley, James
-1816 (1816)
+19th Century (1800 - 1899)
 England
 Pride and Prejudice by Austen, Jane; Quindlen, Anna
 1813 (1813)
@@ -71,7 +71,7 @@ The Other Einstein by Benedict, Marie
 1875 – 1948 (1875 - 1948)
 Europe
 The Personal Librarian by Benedict, Marie; Murray, Victoria Christopher
-Unknown
+1879 - 1950 (1879 - 1950)
 United States of America
 City of Thieves by Benioff, David
 1942 (1942)
@@ -113,10 +113,10 @@ Jane Eyre by Brontë, Charlotte; Mason, Michael
 19th Century (1800 - 1899)
 England
 Wuthering Heights by Brontë, Emily; Dunn, Richard J.; Brontë, Charlotte
-1847 (1847)
+19th Century (1800 - 1899)
 Unknown
 Caleb's Crossing by Brooks, Geraldine
-1665 (1665)
+1660 (1660)
 Massachusetts
 March by Brooks, Geraldine
 2006 (2006)
@@ -149,13 +149,13 @@ The Amazing Adventures of Kavalier & Clay by Chabon, Michael
 Unknown
 Czech Republic
 The Paris Library by Charles, Janet Skeslien
-1939 (1939)
+World War II (1939 - 1945)
 Europe
 Girl with a Pearl Earring by Chevalier, Tracy
 1664 (1664)
 Netherlands
 Remarkable Creatures by Chevalier, Tracy
-1810 (1810)
+1820 (1820)
 England
 The Lady and the Unicorn by Chevalier, Tracy
 1490 (1490)
@@ -275,7 +275,7 @@ The Crimson Petal and the White by Faber, Michel
 1874 (1874)
 England
 One Thousand White Women: The Journals of May Dodd by Fergus, Jim
-1875 (1875)
+19th Century (1800 - 1899)
 Unknown
 My Brilliant Friend by Ferrante, Elena; Goldstein, Ann
 Unknown
@@ -287,7 +287,7 @@ A Column of Fire by Follett, Ken
 1558 (1558)
 Belgium
 Fall of Giants by Follett, Ken
-1911 (1911)
+1917 (1917)
 Germany
 The Evening and the Morning by Follett, Ken
 997 (997)
@@ -308,7 +308,7 @@ Johnny Tremain by Forbes, Esther; Ward, Lynd
 1775 (1775)
 Massachusetts
 Hotel on the Corner of Bitter and Sweet by Ford, Jamie
-1986 (1986)
+World War II (1939 - 1945)
 Europe
 Z: A Novel of Zelda Fitzgerald by Fowler, Therese Anne
 1918 (1918)
@@ -320,10 +320,10 @@ Cold Mountain by Frazier, Charles
 Unknown
 Virginia
 A Breath of Snow and Ashes by Gabaldon, Diana
-1772 (1772)
+1773 (1773)
 North Carolina
 An Echo in the Bone by Gabaldon, Diana
-1778 (1778)
+1777 (1777)
 Scotland
 Dragonfly in Amber by Gabaldon, Diana
 1744 (1744)
@@ -332,7 +332,7 @@ Drums of Autumn by Gabaldon, Diana
 1969 (1969)
 United Kingdom
 Outlander by Gabaldon, Diana
-1945 (1945)
+1743 (1743)
 Scotland
 The Fiery Cross by Gabaldon, Diana
 1771 (1771)
@@ -392,7 +392,7 @@ The Other Queen by Gregory, Philippa
 1568 (1568)
 Unknown
 The Queen's Fool by Gregory, Philippa
-1553 (1553)
+Tudor (1485 - 1603)
 France
 The Red Queen by Gregory, Philippa
 15th Century (1400 - 1499)
@@ -413,7 +413,7 @@ Matrix by Groff, Lauren
 Unknown
 England
 At the Water's Edge by Gruen, Sara
-1942 (1942)
+1945 (1945)
 Europe
 Water for Elephants by Gruen, Sara
 1932 (1932)
@@ -470,7 +470,7 @@ Out of the Dust by Hesse, Karen
 Unknown
 Oklahoma
 Girl in the Blue Coat by Hesse, Monica
-1943 (1943)
+World War II (1939 - 1945)
 Europe
 The Book of Negroes by Hill, Lawrence
 Unknown
@@ -491,7 +491,7 @@ Les Misérables by Hugo, Victor; MacAfee, Norman; Wilbour, Charles E.
 Unknown
 France
 We Were the Lucky Ones by Hunter, Georgia
-1939 (1939)
+World War II (1939 - 1945)
 Europe
 Their Eyes Were Watching God by Hurston, Zora Neale
 1928 (1928)
@@ -515,7 +515,7 @@ The Jane Austen Society by Jenner, Natalie
 1932 (1932)
 Unknown
 The Lost Girls of Paris by Jenoff, Pam
-1946 (1946)
+World War II (1939 - 1945)
 Europe
 The Orphan's Tale by Jenoff, Pam
 World War II (1939 - 1945)
@@ -536,7 +536,7 @@ The Winter Sea by Kearsley, Susanna
 1708 (1708)
 Scotland
 Lilac Girls by Kelly, Martha Hall
-1939 (1939)
+World War II (1939 - 1945)
 Europe
 Burial Rites by Kent, Hannah
 1829 (1829)
@@ -554,7 +554,7 @@ Euphoria by King, Lily
 1933 (1933)
 Unknown
 11/22/63 by King, Stephen
-1963 (1963)
+2011 (2011)
 Maine
 The Poisonwood Bible by Kingsolver, Barbara
 1959 (1959)
@@ -563,7 +563,7 @@ Orphan Train by Kline, Christina Baker
 2011 (2011)
 Maine
 The Exiles by Kline, Christina Baker
-1840s (1840 - 1850)
+19th Century (1800 - 1899)
 Australia
 The Historian by Kostova, Elizabeth
 1974 (1974)
@@ -584,7 +584,7 @@ Go Set a Watchman by Lee, Harper
 Unknown
 United States of America
 To Kill a Mockingbird by Lee, Harper
-1960 (1960)
+1933 (1933)
 Alabama
 The Gentleman's Guide to Vice and Virtue by Lee, Mackenzi
 Unknown
@@ -623,7 +623,7 @@ The Thorn Birds by McCullough, Colleen
 Unknown
 Australia
 Atonement by McEwan, Ian
-1935 (1935)
+20th Century (1900 - 1999)
 England
 Circling the Sun by McLain, Paula
 Unknown
@@ -680,7 +680,7 @@ Cilka's Journey by Morris, Heather
 World War II (1939 - 1945)
 Europe
 The Tattooist of Auschwitz by Morris, Heather
-1942 (1942)
+World War II (1939 - 1945)
 Europe
 Beloved by Morrison, Toni
 Unknown
@@ -719,7 +719,7 @@ Island of the Blue Dolphins by O'Dell, Scott
 Unknown
 California
 Hamnet by O'Farrell, Maggie
-1596 (1596)
+1580s (1580 - 1590)
 England
 The Marriage Portrait by O'Farrell, Maggie
 Unknown
@@ -731,7 +731,7 @@ The Scarlet Pimpernel by Orczy, Emmuska; Page, Michael
 1792 (1792)
 England
 Where the Crawdads Sing by Owens, Delia
-1969 (1969)
+1952 (1952)
 North Carolina
 She Who Became the Sun by Parker-Chan, Shelley
 1345 (1345)
@@ -770,16 +770,16 @@ The Viscount Who Loved Me by Quinn, Julia
 1814 (1814)
 England
 The Alice Network by Quinn, Kate
-1947 (1947)
+World War II (1939 - 1945)
 Europe
 The Diamond Eye by Quinn, Kate
-1937 (1937)
+World War II (1939 - 1945)
 Europe
 The Huntress by Quinn, Kate
 World War II (1939 - 1945)
 Europe
 The Rose Code by Quinn, Kate
-1947 (1947)
+1940 (1940)
 Europe
 A Curious Beginning by Raybourn, Deanna
 1887 (1887)
@@ -854,7 +854,7 @@ Salt to the Sea by Sepetys, Ruta; Marie, Jorjeana; Damron, Will
 1945 (1945)
 Europe
 Katherine by Seton, Anya; Gregory, Philippa
-1954 (1954)
+14th Century (1300 - 1399)
 England
 Once Upon a River by Setterfield, Diane
 1887 (1887)
@@ -869,7 +869,7 @@ The Guernsey Literary and Potato Peel Pie Society by Shaffer, Mary Ann; Barrows,
 1946 (1946)
 Europe
 The Women in the Castle by Shattuck, Jessica
-1944 (1944)
+World War II (1939 - 1945)
 Europe
 The Bronze Horseman by Simons, Paullina
 1941 (1941)
@@ -887,7 +887,7 @@ The Light Between Oceans by Stedman, M.L.
 1926 (1926)
 Australia
 East of Eden by Steinbeck, John
-1952 (1952)
+20th Century (1900 - 1999)
 California
 Of Mice and Men by Steinbeck, John
 1937 (1937)
@@ -920,13 +920,13 @@ Anna Karenina by Tolstoy, Leo; Maude, Aylmer; Maude, Louise
 19th Century (1800 - 1899)
 Russia
 War and Peace by Tolstoy, Leo; Maude, Aylmer; Maude, Louise
-1812 (1812)
+1805 (1805)
 Czech Republic
 A Gentleman in Moscow: A Novel by Towles, Amor
 1922 (1922)
 Unknown
 Rules of Civility by Towles, Amor
-1937 (1937)
+1938 (1938)
 United States of America
 The Lincoln Highway by Towles, Amor
 1954 (1954)
@@ -956,7 +956,7 @@ The Golem and the Jinni by Wecker, Helene
 1899 (1899)
 United States of America
 Code Name Verity by Wein, Elizabeth
-1943 (1943)
+1941 (1941)
 Europe
 Rose Under Fire by Wein, Elizabeth
 World War II (1939 - 1945)
@@ -999,4 +999,4 @@ The Book Thief by Zusak, Markus
 Europe
 
 Number of books: 333
-Missing pieces of data: 123
+Missing pieces of data: 122

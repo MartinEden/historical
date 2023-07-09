@@ -18,8 +18,10 @@ class CenturyRule(century: Int) : Rule {
     private val regex = Regex("""the $ordinalAsWord century""")
 
     override fun apply(book: BookMetadata): Categorization? {
-        return if (book.tags.any { it == "$ordinalAsNumber Century" } || regex.containsMatchIn(book.synopsis)) {
+        return if (book.tags.any { it == "$ordinalAsNumber Century" }) {
             Categorization(period = period)
+        } else if (regex.containsMatchIn(book.synopsis)) {
+            Categorization(period = period withConfidence 0.5f)
         } else null
     }
 
