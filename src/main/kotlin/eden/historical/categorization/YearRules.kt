@@ -13,7 +13,13 @@ object TheYearIsRule : SynopsisRegexRule(Regex("""(?:the\s+year\s+is|it\s+is)\s+
 object AnyYearRule : SynopsisRegexRule(Regex("""\W(\d{4})\W""")) {
     override fun handleMatch(match: MatchResult, book: BookMetadata): Categorization? {
         val year = match.groups[1]!!.value.toInt()
-        return Categorization(Period.Range(year.toString(), year, year) withConfidence 0.25f)
+        val winnerRegex = Regex("""winner of [^.]*$year [^.]*prize""")
+        return if (winnerRegex in book.synopsis) {
+            println("Skipping year because it is describing the year the book won a prize")
+            null
+        } else {
+            return Categorization(Period.Range(year.toString(), year, year) withConfidence 0.25f)
+        }
     }
 }
 

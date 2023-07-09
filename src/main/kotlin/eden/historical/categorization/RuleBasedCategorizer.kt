@@ -71,6 +71,15 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
                 )
             )
         )
+        yield(
+            TagRule(
+                "Civil War",
+                Categorization(
+                    period = Period.Range("American Civil War", 1861, 1865) withConfidence 0.9f,
+                    place =  countries.single { it.iso3 == "USA" }.asPlace() withConfidence 0.25f
+                )
+            )
+        )
         yieldAll(CenturyRule.all)
         yieldAll(LocationRule.from(countries))
         yield(LocationRule(setOf("Yorkshire"), Place.Area("Yorkshire", emptyList())))

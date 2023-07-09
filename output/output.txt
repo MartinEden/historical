@@ -119,8 +119,8 @@ Caleb's Crossing by Brooks, Geraldine
 1660 (1660)
 Massachusetts
 March by Brooks, Geraldine
-2006 (2006)
-Unknown
+American Civil War (1861 - 1865)
+United States of America
 People of the Book by Brooks, Geraldine
 1996 (1996)
 Bosnia and Herzegovina
@@ -317,7 +317,7 @@ Mistress of the Art of Death by Franklin, Ariana
 1171 (1171)
 England
 Cold Mountain by Frazier, Charles
-Unknown
+American Civil War (1861 - 1865)
 Virginia
 A Breath of Snow and Ashes by Gabaldon, Diana
 1773 (1773)
@@ -647,7 +647,7 @@ The Thousand Autumns of Jacob de Zoet by Mitchell, David
 1799 (1799)
 Japan
 Gone with the Wind by Mitchell, Margaret
-Unknown
+American Civil War (1861 - 1865)
 United States of America
 Anne of Green Gables by Montgomery, L.M.
 Unknown
@@ -863,7 +863,7 @@ The Thirteenth Tale by Setterfield, Diane
 Unknown
 United Kingdom
 The Killer Angels by Shaara, Michael
-Unknown
+American Civil War (1861 - 1865)
 Pennsylvania
 The Guernsey Literary and Potato Peel Pie Society by Shaffer, Mary Ann; Barrows, Annie
 1946 (1946)
@@ -999,4 +999,4 @@ The Book Thief by Zusak, Markus
 Germany
 
 Number of books: 333
-Missing pieces of data: 84
+Missing pieces of data: 80
