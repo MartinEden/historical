@@ -64,7 +64,14 @@ class GoodreadsSource(private val fetcher: Fetcher) : BookSource {
         val years = mutableSetOf<Int>()
 
         for (place in rawPlaces) {
-            place.value("name")?.let { places.add(it) }
+            place.value("name")?.let { rawPlace ->
+                // Sometimes goodreads data is messy and instead of being name: Licolnshire, countryName: England
+                // we instead get name: Licolnshire, England, countryName: null
+                // So split on any commas to get all the parts separately
+                for (part in rawPlace.split(',').map { it.trim() }) {
+                    places.add(part)
+                }
+            }
             place.value("countryName")?.let { places.add(it) }
             place.int("year")?.let { years.add(it) }
         }

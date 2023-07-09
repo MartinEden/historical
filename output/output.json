@@ -70,7 +70,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Massachusetts"
+      "name": "England"
     }
   },
   {
@@ -210,7 +210,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United States of America"
+      "name": "Pennsylvania"
     }
   },
   {
@@ -276,7 +276,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Europe"
+      "name": "England"
     }
   },
   {
@@ -480,7 +480,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United Kingdom"
+      "name": "England"
     }
   },
   {
@@ -594,7 +594,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United States of America"
+      "name": "New York"
     }
   },
   {
@@ -682,7 +682,7 @@
     },
     "place": {
       "coords": [],
-      "name": "France"
+      "name": "New York"
     }
   },
   {
@@ -704,7 +704,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Germany"
+      "name": "Minnesota"
     }
   },
   {
@@ -836,7 +836,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United States of America"
+      "name": "New York"
     }
   },
   {
@@ -1090,7 +1090,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Maryland"
+      "name": "California"
     }
   },
   {
@@ -1112,7 +1112,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United States of America"
+      "name": "New York"
     }
   },
   {
@@ -1156,7 +1156,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Czech Republic"
+      "name": "New York"
     }
   },
   {
@@ -1288,7 +1288,7 @@
     },
     "place": {
       "coords": [],
-      "name": "New York"
+      "name": "England"
     }
   },
   {
@@ -1310,7 +1310,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Yorkshire"
+      "name": "England"
     }
   },
   {
@@ -1670,7 +1670,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United States of America"
+      "name": "Alabama"
     }
   },
   {
@@ -1691,7 +1691,8 @@
       "lengthInYears": 0
     },
     "place": {
-      "name": "Unknown"
+      "coords": [],
+      "name": "England"
     }
   },
   {
@@ -1799,7 +1800,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United States of America"
+      "name": "New York"
     }
   },
   {
@@ -1816,7 +1817,7 @@
     "period": {},
     "place": {
       "coords": [],
-      "name": "France"
+      "name": "New York"
     }
   },
   {
@@ -1907,7 +1908,7 @@
     "period": {},
     "place": {
       "coords": [],
-      "name": "United States of America"
+      "name": "Pennsylvania"
     }
   },
   {
@@ -2007,7 +2008,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United Kingdom"
+      "name": "England"
     }
   },
   {
@@ -2158,7 +2159,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United States of America"
+      "name": "New York"
     }
   },
   {
@@ -2180,7 +2181,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Belgium"
+      "name": "England"
     }
   },
   {
@@ -2202,7 +2203,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Germany"
+      "name": "England"
     }
   },
   {
@@ -2268,7 +2269,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Germany"
+      "name": "England"
     }
   },
   {
@@ -2285,7 +2286,7 @@
     "period": {},
     "place": {
       "coords": [],
-      "name": "United Kingdom"
+      "name": "England"
     }
   },
   {
@@ -2311,7 +2312,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Germany"
+      "name": "England"
     }
   },
   {
@@ -2359,7 +2360,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United States of America"
+      "name": "Idaho"
     }
   },
   {
@@ -2513,7 +2514,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United Kingdom"
+      "name": "England"
     }
   },
   {
@@ -2601,7 +2602,7 @@
     },
     "place": {
       "coords": [],
-      "name": "North Carolina"
+      "name": "Scotland"
     }
   },
   {
@@ -2623,7 +2624,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United States of America"
+      "name": "California"
     }
   },
   {
@@ -2645,7 +2646,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United States of America"
+      "name": "New York"
     }
   },
   {
@@ -2667,7 +2668,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United States of America"
+      "name": "Pennsylvania"
     }
   },
   {
@@ -2689,7 +2690,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United States of America"
+      "name": "New York"
     }
   },
   {
@@ -2816,7 +2817,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United Kingdom"
+      "name": "England"
     }
   },
   {
@@ -2938,7 +2939,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Scotland"
+      "name": "England"
     }
   },
   {
@@ -2960,7 +2961,7 @@
     },
     "place": {
       "coords": [],
-      "name": "France"
+      "name": "England"
     }
   },
   {
@@ -3126,7 +3127,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United States of America"
+      "name": "Illinois"
     }
   },
   {
@@ -3278,7 +3279,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United States of America"
+      "name": "Alaska"
     }
   },
   {
@@ -3529,7 +3530,7 @@
     "period": {},
     "place": {
       "coords": [],
-      "name": "Canada"
+      "name": "England"
     }
   },
   {
@@ -3612,7 +3613,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Afghanistan"
+      "name": "California"
     }
   },
   {
@@ -3829,7 +3830,7 @@
     },
     "place": {
       "coords": [],
-      "name": "France"
+      "name": "England"
     }
   },
   {
@@ -4044,7 +4045,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United States of America"
+      "name": "South Carolina"
     }
   },
   {
@@ -4132,7 +4133,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United States of America"
+      "name": "Georgia"
     }
   },
   {
@@ -4303,7 +4304,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United States of America"
+      "name": "Alabama"
     }
   },
   {
@@ -4486,7 +4487,7 @@
     },
     "place": {
       "coords": [],
-      "name": "New York"
+      "name": "England"
     }
   },
   {
@@ -4630,7 +4631,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Spain"
+      "name": "Illinois"
     }
   },
   {
@@ -4761,7 +4762,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United States of America"
+      "name": "Georgia"
     }
   },
   {
@@ -4890,7 +4891,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Mexico"
+      "name": "Texas"
     }
   },
   {
@@ -5023,7 +5024,7 @@
     "period": {},
     "place": {
       "coords": [],
-      "name": "Australia"
+      "name": "England"
     }
   },
   {
@@ -5084,7 +5085,7 @@
     },
     "place": {
       "coords": [],
-      "name": "France"
+      "name": "England"
     }
   },
   {
@@ -5106,7 +5107,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United States of America"
+      "name": "Kentucky"
     }
   },
   {
@@ -5158,7 +5159,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United States of America"
+      "name": "California"
     }
   },
   {
@@ -5614,7 +5615,7 @@
     },
     "place": {
       "coords": [],
-      "name": "France"
+      "name": "England"
     }
   },
   {
@@ -5701,7 +5702,8 @@
       "lengthInYears": 0
     },
     "place": {
-      "name": "Unknown"
+      "coords": [],
+      "name": "England"
     }
   },
   {
@@ -5937,7 +5939,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United States of America"
+      "name": "Washington"
     }
   },
   {
@@ -5985,7 +5987,7 @@
     },
     "place": {
       "coords": [],
-      "name": "France"
+      "name": "England"
     }
   },
   {
@@ -6007,7 +6009,7 @@
     },
     "place": {
       "coords": [],
-      "name": "China"
+      "name": "California"
     }
   },
   {
@@ -6150,7 +6152,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United States of America"
+      "name": "Louisiana"
     }
   },
   {
@@ -6398,7 +6400,7 @@
     "period": {},
     "place": {
       "coords": [],
-      "name": "United States of America"
+      "name": "New York"
     }
   },
   {
@@ -6633,7 +6635,7 @@
     },
     "place": {
       "coords": [],
-      "name": "China"
+      "name": "California"
     }
   },
   {
@@ -6754,7 +6756,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United States of America"
+      "name": "New York"
     }
   },
   {
@@ -6845,7 +6847,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Ireland"
+      "name": "New York"
     }
   },
   {
@@ -6878,7 +6880,8 @@
     },
     "period": {},
     "place": {
-      "name": "Unknown"
+      "coords": [],
+      "name": "England"
     }
   },
   {
@@ -6917,7 +6920,7 @@
     "period": {},
     "place": {
       "coords": [],
-      "name": "United Kingdom"
+      "name": "England"
     }
   },
   {
@@ -6939,7 +6942,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United States of America"
+      "name": "New York"
     }
   },
   {
@@ -7005,7 +7008,7 @@
     },
     "place": {
       "coords": [],
-      "name": "United Kingdom"
+      "name": "England"
     }
   },
   {
@@ -7151,7 +7154,7 @@
     },
     "place": {
       "coords": [],
-      "name": "South Carolina"
+      "name": "Tennessee"
     }
   },
   {

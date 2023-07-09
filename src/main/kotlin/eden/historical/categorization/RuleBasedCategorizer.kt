@@ -111,6 +111,7 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
             .firstOrNull() ?: Period.Unknown
 
         // TODO: distinguish places by specificity
+        // TODO: merge places when there are multiple conflicting places of equal weight. e.g. multiple states -> USA
         val place = candidates
             .mapNotNull { it.place }
             .highestConfidenceInfo()
