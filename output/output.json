@@ -3555,7 +3555,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "Great Depresion",
+      "start": 1929,
+      "end": 1939,
+      "lengthInYears": 10
+    },
     "place": {
       "coords": [],
       "name": "Oklahoma"
@@ -3594,7 +3599,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "18th century",
+      "start": 1700,
+      "end": 1799,
+      "lengthInYears": 0
+    },
     "place": {
       "coords": [],
       "name": "England"
@@ -3633,7 +3643,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "20th Century",
+      "start": 1900,
+      "end": 1999,
+      "lengthInYears": 99
+    },
     "place": {
       "coords": [],
       "name": "Afghanistan"
@@ -5974,7 +5989,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "Great Depresion",
+      "start": 1929,
+      "end": 1939,
+      "lengthInYears": 10
+    },
     "place": {
       "coords": [],
       "name": "California"
@@ -6586,9 +6606,9 @@
       ]
     },
     "period": {
-      "name": "1930s",
-      "start": 1930,
-      "end": 1940,
+      "name": "Great Depresion",
+      "start": 1929,
+      "end": 1939,
       "lengthInYears": 10
     },
     "place": {

@@ -30,6 +30,15 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
             )
         )
         yield(
+            SnippetRule("Taliban", Categorization(period = Century(20).period withConfidence 0.25f))
+        )
+        yield(
+            SnippetRule(
+                "Great Depression",
+                Categorization(period = Period.Range("Great Depresion", 1929, 1939))
+            )
+        )
+        yield(
             TagRule(
                 "Scotland",
                 Categorization(place = Place.Area("Scotland", emptyList()))
@@ -97,7 +106,7 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
                 "Civil War",
                 Categorization(
                     period = Period.Range("American Civil War", 1861, 1865) withConfidence 0.9f,
-                    place =  countries.single { it.iso3 == "USA" }.asPlace() withConfidence 0.25f
+                    place = countries.single { it.iso3 == "USA" }.asPlace() withConfidence 0.25f
                 )
             )
         )
