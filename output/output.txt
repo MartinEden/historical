@@ -626,7 +626,7 @@ Atonement by McEwan, Ian
 20th Century (1900 - 1999)
 England
 Circling the Sun by McLain, Paula
-Unknown
+1920s (1920 - 1929)
 Kenya
 The Paris Wife by McLain, Paula
 1920 (1920)
@@ -999,4 +999,4 @@ The Book Thief by Zusak, Markus
 Germany
 
 Number of books: 333
-Missing pieces of data: 34
+Missing pieces of data: 33

@@ -171,6 +171,14 @@
 			"start": 1900,
 			"end": 1949
 		}
+	},
+	{
+		"id": "https://www.goodreads.com/book/show/23995231-circling-the-sun",
+		"period": {
+			"name": "1920s",
+			"start": 1920,
+			"end": 1929
+		}
 	}
 
 ]
