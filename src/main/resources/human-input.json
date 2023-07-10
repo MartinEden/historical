@@ -179,6 +179,14 @@
 			"start": 1920,
 			"end": 1929
 		}
+	},
+	{
+		"id": "https://www.goodreads.com/book/show/8127.Anne_of_Green_Gables",
+		"period": {
+			"name": "19th century",
+			"start": 1800,
+			"end": 1899
+		}
 	}
 
 ]
