@@ -5,7 +5,7 @@ import eden.historical.models.Century
 import eden.historical.models.Period
 
 class CenturyRule(private val century: Century) : Rule {
-    private val regex = Regex("""(${century.ordinalAsWord}|${century.ordinalAsNumber})( |-)century""")
+    private val regex = Regex("""([^a-zA-Z0-9]|^)(${century.ordinalAsWord}|${century.ordinalAsNumber})( |-)century""")
     private val nextCenturyRegex = makeNextCenturyRegex()
 
     override fun apply(book: BookMetadata): Categorization? {
