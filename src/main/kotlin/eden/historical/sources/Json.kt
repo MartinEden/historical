@@ -4,7 +4,7 @@ import com.google.gson.Gson
 import org.jsoup.nodes.Element
 
 @JvmInline
-value class Json(private val value: Map<*,*>) {
+value class Json(private val value: Map<*, *>) {
     operator fun get(key: String): Json = getSomething(key).asDynamicJson()
     fun value(key: String): String? = getSomething(key)?.toString()
     fun int(key: String): Int? = (getSomething(key) as Double?)?.toInt()
@@ -19,12 +19,19 @@ value class Json(private val value: Map<*,*>) {
     private fun getSomething(key: String): Any? = value[key]
 
     fun getLookupWithKeyMatching(regex: Regex): Json {
-        for (key in keys) {
-            if (regex.containsMatchIn(key)) {
-                return this[key]
+        return getLookupsWithKeyMatching(regex).firstOrNull()
+            ?: throw Exception("Couldn't find key matching $regex in $this")
+    }
+
+    fun getLookupsWithKeyMatching(regex: Regex): Sequence<Json> {
+        val lookup = this
+        return sequence {
+            for (key in keys) {
+                if (regex.containsMatchIn(key)) {
+                    yield(lookup[key])
+                }
             }
         }
-        throw Exception("Couldn't find key matching $regex in $this")
     }
 
     private val keys: Iterable<String> get() = value.keys.map { it.toString() }

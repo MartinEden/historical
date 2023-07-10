@@ -6,7 +6,10 @@ import eden.historical.models.Author
 import eden.historical.models.Book
 import eden.historical.models.BookMetadata
 import eden.historical.sources.Json.Companion.getJsonData
+import org.jsoup.Jsoup
+import org.jsoup.Jsoup.clean
 import org.jsoup.nodes.Document
+import org.jsoup.safety.Safelist
 
 const val goodreadsUrl = "https://www.goodreads.com"
 
@@ -34,8 +37,10 @@ class GoodreadsSource(private val fetcher: Fetcher) : BookSource {
 
         val jsonData: Json = doc.select("script#__NEXT_DATA__").first()?.getJsonData(gson)
             ?: throw Exception("Unable to find JSON metadata at $url")
+        val apolloState = jsonData["props"]["pageProps"]["apolloState"]
+
         val placesAndYears = try {
-            fromPlaceData(jsonData)
+            fromPlaceData(apolloState)
         } catch (e: Exception) {
             throw Exception("Error parsing place data for $title", e)
         }
@@ -43,14 +48,15 @@ class GoodreadsSource(private val fetcher: Fetcher) : BookSource {
         return BookMetadata(
             Book(url, title, authors),
             synopsis = synopsis.lowercase().replace('’', '\''),
-            tags = getTags(jsonData),
+            reviews = getReviews(apolloState).toList(),
+            tags = getTags(apolloState),
             places = placesAndYears.places,
             years = placesAndYears.years
         )
     }
 
     private fun getTags(jsonData: Json): Set<String> {
-        val bookData = jsonData["props"]["pageProps"]["apolloState"].getLookupWithKeyMatching(Regex("^Book:"))
+        val bookData = jsonData.getLookupWithKeyMatching(Regex("^Book:"))
         return bookData
             .list("bookGenres")
             .map { it["genre"].value("name")!! }
@@ -58,7 +64,7 @@ class GoodreadsSource(private val fetcher: Fetcher) : BookSource {
     }
 
     private fun fromPlaceData(jsonData: Json): PlacesAndYears {
-        val workData = jsonData["props"]["pageProps"]["apolloState"].getLookupWithKeyMatching(Regex("^Work:"))
+        val workData = jsonData.getLookupWithKeyMatching(Regex("^Work:"))
         val rawPlaces = workData["details"].list("places")
         val places = mutableSetOf<String>()
         val years = mutableSetOf<Int>()
@@ -76,5 +82,14 @@ class GoodreadsSource(private val fetcher: Fetcher) : BookSource {
             place.int("year")?.let { years.add(it) }
         }
         return PlacesAndYears(places, years)
+    }
+
+    private fun getReviews(jsonData: Json): Sequence<String> {
+        val reviewLookups = jsonData.getLookupsWithKeyMatching(Regex("^Review:"))
+        return reviewLookups.mapNotNull { lookup ->
+            lookup.value("text")?.let {
+                Jsoup.clean(it, Safelist.none())
+            }
+        }
     }
 }

@@ -12,12 +12,19 @@ data class Categorization(
         period?.let { InfoWithConfidence(period) },
         place?.let { InfoWithConfidence(place) }
     )
+
+    fun weightedBy(confidenceMultiplier: Float) = Categorization(
+        period = this.period?.weightedBy(confidenceMultiplier),
+        place = this.place?.weightedBy(confidenceMultiplier)
+    )
 }
 
 data class InfoWithConfidence<T>(
     val info: T,
     val confidence: Float = 1f
-)
+) {
+    fun weightedBy(confidenceMultiplier: Float) = copy(confidence = confidence * confidenceMultiplier)
+}
 
 infix fun <T> T.withConfidence(confidence: Float) = InfoWithConfidence(this, confidence)
 

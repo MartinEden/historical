@@ -11,22 +11,13 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
         yield(AnyYearRule)
         yield(DecadeRule)
         yield(
-            TagRule(
-                "World War II",
+            TextRule(
+                setOf(
+                    SearchTerm("World War II", 1f),
+                    SearchTerm("Nazi", 0.25f)
+                ),
                 Categorization(
                     Period.Range("World War II", 1939, 1945) withConfidence 1f,
-                    Place.Area("Europe", emptyList()) withConfidence 0.25f
-                )
-            )
-        )
-        yield(
-            SnippetRule(
-                matchingSnippets = setOf(
-                    "World War II",
-                    "Nazi",
-                ),
-                categorization = Categorization(
-                    Period.Range("World War II", 1939, 1945) withConfidence 0.25f,
                     Place.Area("Europe", emptyList()) withConfidence 0.25f
                 )
             )
