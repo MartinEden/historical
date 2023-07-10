@@ -4777,7 +4777,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "19th Century",
+      "start": 1800,
+      "end": 1899,
+      "lengthInYears": 99
+    },
     "place": {
       "coords": [],
       "name": "Texas"
@@ -6950,7 +6955,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "19th Century",
+      "start": 1800,
+      "end": 1899,
+      "lengthInYears": 99
+    },
     "place": {
       "coords": [],
       "name": "Arizona"

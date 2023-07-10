@@ -632,7 +632,7 @@ The Paris Wife by McLain, Paula
 1920 (1920)
 Illinois
 Lonesome Dove by McMurtry, Larry
-Unknown
+19th Century (1800 - 1899)
 Texas
 The Crucible: A Play in Four Acts by Miller, Arthur; Bigsby, Christopher W.E.
 17th Century (1600 - 1699)
@@ -932,7 +932,7 @@ The Lincoln Highway by Towles, Amor
 1954 (1954)
 Nebraska
 These Is My Words: The Diary of Sarah Agnes Prine, 1881-1901 by Turner, Nancy E.
-Unknown
+19th Century (1800 - 1899)
 Arizona
 The Adventures of Huckleberry Finn by Twain, Mark; Cardwell, Guy; Kemble, E.W.
 1840 (1840)
@@ -999,4 +999,4 @@ The Book Thief by Zusak, Markus
 Germany
 
 Number of books: 333
-Missing pieces of data: 33
+Missing pieces of data: 31
