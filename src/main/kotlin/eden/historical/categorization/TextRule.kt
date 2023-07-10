@@ -8,18 +8,29 @@ class TextRule(termSet: Set<SearchTerm>, private val categorization: Categorizat
     constructor(snippet: SearchTerm, categorization: Categorization)
             : this(setOf(snippet), categorization)
 
+    // TODO: Consider returning multiple categorizations, and later we can sort them out by confidence/specificity
     override fun apply(book: BookMetadata): Categorization? {
         for (term in terms) {
-            val termCategorization = categorization.weightedBy(term.confidenceMultiplier)
-            if (term.text in book.tags || term.text in book.places) {
-                return termCategorization
-            } else if (term.regex in book.synopsis) {
-                return termCategorization.weightedBy(0.25f)
-            } else if (book.reviews.any { term.regex in it }) {
-                return termCategorization.weightedBy(0.1f)
+            val support = getSupportForTerm(term, book)
+            if (support > 0) {
+                                                           // we trust some terms more than others
+                return categorization.weightedBy(support * term.confidenceMultiplier)
             }
         }
         return null
+    }
+
+    // We trust some data more than other
+    private fun getSupportForTerm(term: SearchTerm, book: BookMetadata): Float {
+        return if (term.text in book.tags || term.text in book.places) {
+            1f
+        } else if (term.regex in book.synopsis) {
+            0.25f
+        } else if (book.reviews.any { term.regex in it }) {
+            0.1f
+        } else {
+            0f
+        }
     }
 }
 
