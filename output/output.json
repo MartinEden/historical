@@ -5067,7 +5067,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "Mid 20th century",
+      "start": 1940,
+      "end": 1980,
+      "lengthInYears": 0
+    },
     "place": {
       "coords": [],
       "name": "Mexico"

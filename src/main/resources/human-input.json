@@ -187,6 +187,14 @@
 			"start": 1800,
 			"end": 1899
 		}
+	},
+	{
+		"id": "https://www.goodreads.com/book/show/53152636-mexican-gothic",
+		"period": {
+			"name": "Mid 20th century",
+			"start": 1940,
+			"end": 1980
+		}
 	}
 
 ]
