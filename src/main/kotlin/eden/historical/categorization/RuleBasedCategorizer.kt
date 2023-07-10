@@ -7,9 +7,16 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
     private val rules = sequence {
         val civilWarPeriod = Period.Range("American Civil War", 1861, 1865)
 
+        yield(SourceYearRule)
         yield(TheYearIsRule)
         yield(AnyYearRule)
         yield(DecadeRule)
+        yieldAll(CenturyRule.all)
+
+        yieldAll(LocationSourceDataRule.from(countries))
+        yield(LocationRegexRule(countries))
+        yield(LocationRegexRule(listOf(Country(listOf("Yorkshire"), null, emptyList()))))
+
         yield(
             TextRule(
                 setOf(
@@ -19,42 +26,42 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
                 ),
                 Categorization(
                     Period.Range("World War II", 1939, 1945) withConfidence 1f,
-                    Place.Area("Europe", emptyList()) withConfidence 0.25f
+                    Place.Area("Europe", emptyList()) withConfidence 0.5f
                 )
             )
         )
         yield(
-            SnippetRule(
+            TextRule(
                 "Taliban",
                 Categorization(period = Century(20).period withConfidence 0.25f)
             )
         )
         yield(
-            SnippetRule(
+            TextRule(
                 "Great Depression",
                 Categorization(period = Period.Range("Great Depresion", 1929, 1939))
             )
         )
         yield(
-            TagRule(
+            TextRule(
                 "Scotland",
                 Categorization(place = Place.Area("Scotland", emptyList()))
             )
         )
         yield(
-            TagRule(
+            TextRule(
                 "Tudor Period",
                 Categorization(period = Period.Range("Tudor", 1485, 1603))
             )
         )
         yield(
-            TagRule(
+            TextRule(
                 "Medieval",
                 Categorization(period = Period.Range("Medieval", 500, 1500) withConfidence 0.25f)
             )
         )
         yield(
-            TagRule(
+            TextRule(
                 "Regency",
                 Categorization(
                     period = Period.Range("Regency", 1795, 1837) withConfidence 1f,
@@ -63,13 +70,13 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
             )
         )
         yield(
-            TagRule(
+            TextRule(
                 "Prehistoric",
                 Categorization(period = Period.Range("Prehistoric", -20000, -5000))
             )
         )
         yield(
-            TagRule(
+            TextRule(
                 "Greek Mythology",
                 Categorization(
                     period = Period.Range("Greek mythology", -2000, -1000) withConfidence 0.1f,
@@ -78,7 +85,7 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
             )
         )
         yield(
-            TagRule(
+            TextRule(
                 "Arthurian",
                 Categorization(
                     period = Period.Range("Arthurian mythology", 500, 1000) withConfidence 0.25f,
@@ -87,10 +94,10 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
             )
         )
         yield(
-            TagRule(
+            TextRule(
                 setOf(
-                    "American Revolutionary War",
-                    "American Revolution"
+                    SearchTerm.Plain("American Revolutionary War", 1f),
+                    SearchTerm.Plain("American Revolution", 0.8f)
                 ),
                 Categorization(
                     period = Period.Range("American Revolutionary War", 1775, 1783) withConfidence 0.9f,
@@ -99,8 +106,11 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
             )
         )
         yield(
-            TagRule(
-                "Civil War",
+            TextRule(
+                setOf(
+                    SearchTerm.Plain("Civil War", 1f),
+                    SearchTerm.Plain("Gettysburg", 0.2f)
+                ),
                 Categorization(
                     period = civilWarPeriod withConfidence 0.9f,
                     place = countries.single { it.iso3 == "USA" }.asPlace() withConfidence 0.25f
@@ -108,39 +118,22 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
             )
         )
         yield(
-            PlaceRule(
+            TextRule(
                 "Roman Empire",
-                Categorization(
-                    period = Period.Range("Roman Empire", -27, 476)
-                )
+                Categorization(period = Period.Range("Roman Empire", -27, 476))
             )
         )
         yield(
-            SnippetRule(
-                "Roman Empire",
-                Categorization(
-                    period = Period.Range("Roman Empire", -27, 476) withConfidence 0.1f
-                )
+            TextRule(
+                setOf(
+                    SearchTerm.Plain("Jesus's life", 1f),
+                    SearchTerm.Plain("Life of Jesus", 1f),
+                ),
+                Categorization(period = Century(1).period withConfidence 0.2f)
             )
         )
         yield(
-            SnippetRule(
-                "Gettysburg",
-                Categorization(
-                    period = civilWarPeriod withConfidence 0.2f
-                )
-            )
-        )
-        yield(
-            SnippetRule(
-                setOf("Jesus's life", "Life of Jesus"),
-                Categorization(
-                    period = Century(1).period withConfidence 0.2f
-                )
-            )
-        )
-        yield(
-            TagRule(
+            TextRule(
                 "Westerns",
                 Categorization(
                     period = Century(19).period withConfidence 0.2f,
@@ -149,20 +142,20 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
             )
         )
         yield(
-            TagRule(
+            TextRule(
                 "Ancient History",
                 Categorization(
                     period = Period.Range("Ancient history", -5000, 476) withConfidence 0.25f
                 )
             )
         )
-        yieldAll(CenturyRule.all)
-        yieldAll(LocationRule.from(countries))
-        yield(LocationRule(setOf("Yorkshire"), Place.Area("Yorkshire", emptyList())))
-        yield(SourceYearRule)
         yield(HandwrittenCategorizationRule())
         yield(GenghisKhanRule)
     }.toList()
+
+    override fun begin() {
+        println("${rules.size} rules loaded")
+    }
 
     private val defaultCategorization = Categorization(
         Period.Unknown withConfidence 0f,

@@ -2,11 +2,11 @@ package eden.historical.categorization
 
 import eden.historical.models.BookMetadata
 
-class TextRule(termSet: Set<SearchTerm>, private val categorization: Categorization) : Rule {
-    private val terms = termSet.sortedByDescending { it.confidenceMultiplier }
+open class TextRule(terms: Set<SearchTerm>, private val categorization: Categorization) : Rule {
+    private val terms = terms.sortedByDescending { it.confidenceMultiplier }
 
-    constructor(snippet: SearchTerm, categorization: Categorization)
-            : this(setOf(snippet), categorization)
+    constructor(term: String, categorization: Categorization)
+            : this(setOf(SearchTerm.Plain(term, 1f)), categorization)
 
     // TODO: Consider returning multiple categorizations, and later we can sort them out by confidence/specificity
     override fun apply(book: BookMetadata): Categorization? {

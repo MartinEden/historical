@@ -222,7 +222,7 @@ Catherine, Called Birdy by Cushman, Karen
 England
 The Red Tent by Diamant, Anita
 20th Century (1900 - 1999)
-Unknown
+Israel
 A Tale of Two Cities by Dickens, Charles; Maxwell, Richard
 1789 (1789)
 England
@@ -287,7 +287,7 @@ A Column of Fire by Follett, Ken
 1558 (1558)
 England
 Fall of Giants by Follett, Ken
-1911 (1911)
+1917 (1917)
 England
 The Evening and the Morning by Follett, Ken
 997 (997)
@@ -320,7 +320,7 @@ Cold Mountain by Frazier, Charles
 American Civil War (1861 - 1865)
 Virginia
 A Breath of Snow and Ashes by Gabaldon, Diana
-1772 (1772)
+1773 (1773)
 North Carolina
 An Echo in the Bone by Gabaldon, Diana
 1777 (1777)
@@ -332,7 +332,7 @@ Drums of Autumn by Gabaldon, Diana
 1969 (1969)
 England
 Outlander by Gabaldon, Diana
-1945 (1945)
+1743 (1743)
 Scotland
 The Fiery Cross by Gabaldon, Diana
 1771 (1771)
@@ -375,7 +375,7 @@ Tudor (1485 - 1603)
 England
 The King's Curse by Gregory, Philippa
 16th Century (1500 - 1599)
-England
+New York
 The Kingmaker's Daughter by Gregory, Philippa
 15th Century (1400 - 1499)
 England
@@ -426,7 +426,7 @@ Roots: The Saga of an American Family by Haley, Alex
 Gambia
 My Lady Jane by Hand, Cynthia; Ashton, Brodi; Meadows, Jodi
 Lifetime of Lady Jane Grey (1537 - 1554)
-England
+New York
 The Four Winds by Hannah, Kristin
 1934 (1934)
 California
@@ -441,7 +441,7 @@ World War II (1939 - 1945)
 Alaska
 The Mercies by Hargrave, Kiran Millwood
 1600s (1600 - 1610)
-Scotland
+Norway
 The Book of Lost Names by Harmel, Kristin
 1942 (1942)
 Florida
@@ -500,7 +500,7 @@ Genghis: Birth of an Empire by Iggulden, Conn
 12th Century (1100 - 1199)
 Mongolia
 Dread Nation by Ireland, Justina
-American Civil War (1861 - 1865)
+1880 (1880)
 Maryland
 The Remains of the Day by Ishiguro, Kazuo
 1956 (1956)
@@ -683,7 +683,7 @@ The Tattooist of Auschwitz by Morris, Heather
 World War II (1939 - 1945)
 Poland
 Beloved by Morrison, Toni
-1870s (1870 - 1880)
+American Civil War (1861 - 1865)
 Kentucky
 The Clockmaker's Daughter by Morton, Kate
 1862 (1862)
@@ -711,7 +711,7 @@ The Sympathizer by Nguyen, Viet Thanh
 California
 Master and Commander by O'Brian, Patrick
 1800 (1800)
-Unknown
+Spain
 The Things They Carried by O'Brien, Tim
 1990 (1990)
 New York
@@ -806,7 +806,7 @@ Sarah's Key by Rosnay, Tatiana de
 1942 (1942)
 France
 Sarum: The Novel of England by Rutherfurd, Edward
-1980s (1980 - 1990)
+Prehistoric (20000BC - 5000BC)
 United Kingdom
 Esperanza Rising by Ryan, Pam Muñoz
 Great Depresion (1929 - 1939)
@@ -881,7 +881,7 @@ A Tree Grows in Brooklyn by Smith, Betty
 1950s (1950 - 1960)
 New York
 The Witch of Blackbird Pond by Speare, Elizabeth George
-1600s (1600 - 1610)
+American Revolutionary War (1775 - 1783)
 Connecticut
 The Light Between Oceans by Stedman, M.L.
 1926 (1926)
@@ -893,11 +893,11 @@ Of Mice and Men by Steinbeck, John
 1930s (1930 - 1940)
 California
 The Grapes of Wrath by Steinbeck, John
-Great Depresion (1929 - 1939)
+1930s (1930 - 1940)
 California
 Girl Waits with Gun by Stewart, Amy
 1914 (1914)
-Unknown
+New York
 The Help by Stockett, Kathryn
 1962 (1962)
 Mississippi
@@ -950,7 +950,7 @@ The Paying Guests by Waters, Sarah
 1922 (1922)
 England
 Tipping the Velvet by Waters, Sarah
-1890s (1890 - 1900)
+American Civil War (1861 - 1865)
 England
 The Golem and the Jinni by Wecker, Helene
 1899 (1899)
@@ -971,7 +971,7 @@ The Nickel Boys by Whitehead, Colson
 1960s (1960 - 1970)
 Florida
 The Underground Railroad by Whitehead, Colson
-1812 (1812)
+American Civil War (1861 - 1865)
 Georgia
 Little House in the Big Woods by Wilder, Laura Ingalls; Williams, Garth
 1871 (1871)
@@ -999,4 +999,4 @@ The Book Thief by Zusak, Markus
 Germany
 
 Number of books: 333
-Missing pieces of data: 4
+Missing pieces of data: 1

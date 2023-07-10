@@ -3,6 +3,10 @@ package eden.historical.categorization
 import eden.historical.models.BookMetadata
 
 abstract class RegexRule(private val regex: Regex) : Rule {
+//    init {
+//        println(regex.pattern)
+//    }
+
     override fun apply(book: BookMetadata): Categorization? {
         val match = regex.find(book.synopsis)
         if (match != null) {
