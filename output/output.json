@@ -183,7 +183,7 @@
     },
     "place": {
       "coords": [],
-      "name": "England"
+      "name": "Massachusetts"
     },
     "alternativeCategorizations": [
       {
@@ -212,25 +212,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "England"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Massachusetts"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -283,7 +265,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Chile"
+      "name": "Spain"
     },
     "alternativeCategorizations": [
       {
@@ -317,15 +299,6 @@
             "lengthInYears": 10
           },
           "confidence": 0.7
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Chile"
-          },
-          "confidence": 1.0
         }
       },
       {
@@ -527,24 +500,6 @@
           "info": {
             "coords": [],
             "name": "California"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Chile"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -808,15 +763,6 @@
           "info": {
             "coords": [],
             "name": "Pennsylvania"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -1458,15 +1404,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United Kingdom"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "England"
           },
           "confidence": 0.025
@@ -1579,15 +1516,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United Kingdom"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "England"
           },
           "confidence": 0.025
@@ -1618,7 +1546,7 @@
     },
     "place": {
       "coords": [],
-      "name": "England"
+      "name": "United Kingdom"
     },
     "alternativeCategorizations": [
       {
@@ -1652,15 +1580,6 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "England"
-          },
-          "confidence": 1.0
         }
       },
       {
@@ -1780,15 +1699,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United Kingdom"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "England"
           },
           "confidence": 0.025
@@ -1833,7 +1743,7 @@
     },
     "place": {
       "coords": [],
-      "name": "England"
+      "name": "Rhode Island"
     },
     "alternativeCategorizations": [
       {
@@ -1884,34 +1794,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "England"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Rhode Island"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United Kingdom"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -2207,15 +2090,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "New York"
           },
           "confidence": 0.25
@@ -2448,7 +2322,7 @@
     },
     "place": {
       "coords": [],
-      "name": "California"
+      "name": "Washington"
     },
     "alternativeCategorizations": [
       {
@@ -2488,34 +2362,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "California"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Louisiana"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Washington"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -2569,24 +2416,6 @@
           "info": {
             "coords": [],
             "name": "New York"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "France"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -2697,24 +2526,6 @@
             "coords": [],
             "name": "Germany"
           },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Germany"
-          },
           "confidence": 0.25
         }
       },
@@ -2798,15 +2609,6 @@
           "info": {
             "coords": [],
             "name": "Germany"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Poland"
           },
           "confidence": 1.0
         }
@@ -3089,7 +2891,7 @@
     },
     "place": {
       "coords": [],
-      "name": "England"
+      "name": "United Kingdom"
     },
     "alternativeCategorizations": [
       {
@@ -3140,25 +2942,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "England"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "United Kingdom"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "India"
           },
           "confidence": 1.0
         }
@@ -3245,15 +3029,6 @@
           "info": {
             "coords": [],
             "name": "New York"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -3373,15 +3148,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Philippines"
           },
           "confidence": 0.025
@@ -3430,7 +3196,7 @@
     },
     "place": {
       "coords": [],
-      "name": "England"
+      "name": "United Kingdom"
     },
     "alternativeCategorizations": [
       {
@@ -3451,15 +3217,6 @@
             "start": 1800,
             "end": 1899,
             "lengthInYears": 99
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "England"
           },
           "confidence": 1.0
         }
@@ -3656,15 +3413,6 @@
           "info": {
             "coords": [],
             "name": "Massachusetts"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -3963,15 +3711,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United Kingdom"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "England"
           },
           "confidence": 0.25
@@ -4020,7 +3759,7 @@
     },
     "place": {
       "coords": [],
-      "name": "England"
+      "name": "France"
     },
     "alternativeCategorizations": [
       {
@@ -4032,15 +3771,6 @@
             "lengthInYears": 0
           },
           "confidence": 0.025
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "England"
-          },
-          "confidence": 1.0
         }
       },
       {
@@ -4294,7 +4024,7 @@
     },
     "place": {
       "coords": [],
-      "name": "California"
+      "name": "Maryland"
     },
     "alternativeCategorizations": [
       {
@@ -4334,25 +4064,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "California"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Maryland"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -4457,15 +4169,6 @@
           "info": {
             "coords": [],
             "name": "New York"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -4624,24 +4327,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "Czech Republic"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "New York"
           },
           "confidence": 0.25
@@ -4686,7 +4371,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Montana"
+      "name": "France"
     },
     "alternativeCategorizations": [
       {
@@ -4715,25 +4400,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "Montana"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "France"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -5020,7 +4687,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Belgium"
+      "name": "France"
     },
     "alternativeCategorizations": [
       {
@@ -5043,15 +4710,6 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Belgium"
-          },
-          "confidence": 1.0
         }
       },
       {
@@ -5755,15 +5413,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "California"
           },
           "confidence": 0.25
@@ -5820,15 +5469,6 @@
           "info": {
             "coords": [],
             "name": "Virginia"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -5922,15 +5562,6 @@
           "info": {
             "coords": [],
             "name": "England"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "France"
           },
           "confidence": 1.0
         }
@@ -6457,7 +6088,7 @@
     },
     "place": {
       "coords": [],
-      "name": "England"
+      "name": "United Kingdom"
     },
     "alternativeCategorizations": [
       {
@@ -6480,15 +6111,6 @@
             "lengthInYears": 0
           },
           "confidence": 0.025
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "England"
-          },
-          "confidence": 1.0
         }
       },
       {
@@ -6665,15 +6287,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Michigan"
           },
           "confidence": 0.25
@@ -6711,7 +6324,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Alabama"
+      "name": "Michigan"
     },
     "alternativeCategorizations": [
       {
@@ -6762,25 +6375,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "Alabama"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Michigan"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -6967,7 +6562,7 @@
     },
     "place": {
       "coords": [],
-      "name": "England"
+      "name": "France"
     },
     "alternativeCategorizations": [
       {
@@ -7021,15 +6616,6 @@
             "start": 1800,
             "end": 1899,
             "lengthInYears": 99
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "England"
           },
           "confidence": 1.0
         }
@@ -7109,7 +6695,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Germany"
+      "name": "France"
     },
     "alternativeCategorizations": [
       {
@@ -7132,15 +6718,6 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Germany"
-          },
-          "confidence": 1.0
         }
       },
       {
@@ -7211,7 +6788,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Idaho"
+      "name": "Turkey"
     },
     "alternativeCategorizations": [
       {
@@ -7240,25 +6817,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "Idaho"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Turkey"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -7402,15 +6961,6 @@
             "coords": [],
             "name": "United States of America"
           },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
-          },
           "confidence": 0.025
         }
       }
@@ -7476,24 +7026,6 @@
           "info": {
             "coords": [],
             "name": "New York"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "France"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -7733,24 +7265,6 @@
             "coords": [],
             "name": "France"
           },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "France"
-          },
           "confidence": 0.25
         }
       },
@@ -7867,15 +7381,6 @@
           "info": {
             "coords": [],
             "name": "Pennsylvania"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -8236,15 +7741,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United Kingdom"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "England"
           },
           "confidence": 0.25
@@ -8401,7 +7897,7 @@
     },
     "place": {
       "coords": [],
-      "name": "England"
+      "name": "Barbados"
     },
     "alternativeCategorizations": [
       {
@@ -8435,15 +7931,6 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "England"
-          },
-          "confidence": 1.0
         }
       },
       {
@@ -8496,7 +7983,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Michigan"
+      "name": "Turkey"
     },
     "alternativeCategorizations": [
       {
@@ -8536,34 +8023,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "Michigan"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Germany"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Turkey"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -8988,15 +8448,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "New York"
           },
           "confidence": 0.25
@@ -9075,42 +8526,6 @@
           "info": {
             "coords": [],
             "name": "England"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Belgium"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Spain"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "France"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United Kingdom"
           },
           "confidence": 1.0
         }
@@ -9224,33 +8639,6 @@
           "info": {
             "coords": [],
             "name": "England"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Wales"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Germany"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United Kingdom"
           },
           "confidence": 1.0
         }
@@ -9531,7 +8919,7 @@
     },
     "place": {
       "coords": [],
-      "name": "England"
+      "name": "Germany"
     },
     "alternativeCategorizations": [
       {
@@ -9560,34 +8948,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "England"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Washington"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Germany"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -9707,15 +9068,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United Kingdom"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "England"
           },
           "confidence": 0.025
@@ -9757,7 +9109,7 @@
     },
     "place": {
       "coords": [],
-      "name": "England"
+      "name": "Germany"
     },
     "alternativeCategorizations": [
       {
@@ -9797,43 +9149,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "England"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "California"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Washington"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Germany"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -9939,15 +9255,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Massachusetts"
           },
           "confidence": 0.025
@@ -9992,7 +9299,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Idaho"
+      "name": "Washington"
     },
     "alternativeCategorizations": [
       {
@@ -10021,25 +9328,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "Idaho"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Washington"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -10207,15 +9496,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United Kingdom"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "England"
           },
           "confidence": 0.25
@@ -10253,7 +9533,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Virginia"
+      "name": "United States of America"
     },
     "alternativeCategorizations": [
       {
@@ -10276,24 +9556,6 @@
             "lengthInYears": 99
           },
           "confidence": 0.5
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Virginia"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "North Carolina"
-          },
-          "confidence": 1.0
         }
       },
       {
@@ -10353,7 +9615,7 @@
     },
     "place": {
       "coords": [],
-      "name": "North Carolina"
+      "name": "United States of America"
     },
     "alternativeCategorizations": [
       {
@@ -10426,15 +9688,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "North Carolina"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "United States of America"
           },
           "confidence": 1.0
@@ -10497,7 +9750,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Scotland"
+      "name": "North Carolina"
     },
     "alternativeCategorizations": [
       {
@@ -10526,52 +9779,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "Scotland"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Pennsylvania"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "North Carolina"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "New York"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United Kingdom"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -10633,7 +9841,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Scotland"
+      "name": "France"
     },
     "alternativeCategorizations": [
       {
@@ -10678,15 +9886,6 @@
             "lengthInYears": 99
           },
           "confidence": 0.5
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Scotland"
-          },
-          "confidence": 1.0
         }
       },
       {
@@ -10755,7 +9954,7 @@
     },
     "place": {
       "coords": [],
-      "name": "England"
+      "name": "Massachusetts"
     },
     "alternativeCategorizations": [
       {
@@ -10795,61 +9994,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "England"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Scotland"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "North Carolina"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "South Carolina"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Massachusetts"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United Kingdom"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -10971,15 +10116,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United Kingdom"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Scotland"
           },
           "confidence": 0.25
@@ -11093,15 +10229,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Scotland"
           },
           "confidence": 0.025
@@ -11155,7 +10282,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Scotland"
+      "name": "France"
     },
     "alternativeCategorizations": [
       {
@@ -11206,34 +10333,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "Scotland"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "France"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United Kingdom"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Jamaica"
           },
           "confidence": 1.0
         }
@@ -11295,7 +10395,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Scotland"
+      "name": "Pennsylvania"
     },
     "alternativeCategorizations": [
       {
@@ -11346,61 +10446,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "Scotland"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Georgia"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Pennsylvania"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "North Carolina"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United Kingdom"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Georgia"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -11518,15 +10564,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Sweden"
           },
           "confidence": 0.025
@@ -11583,15 +10620,6 @@
           "info": {
             "coords": [],
             "name": "New York"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -11693,15 +10721,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "New York"
           },
           "confidence": 0.25
@@ -11739,7 +10758,7 @@
     },
     "place": {
       "coords": [],
-      "name": "New York"
+      "name": "United States of America"
     },
     "alternativeCategorizations": [
       {
@@ -11762,15 +10781,6 @@
             "lengthInYears": 0
           },
           "confidence": 0.25
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "New York"
-          },
-          "confidence": 1.0
         }
       },
       {
@@ -12372,24 +11382,6 @@
             "coords": [],
             "name": "Wales"
           },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United Kingdom"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Wales"
-          },
           "confidence": 0.25
         }
       },
@@ -12604,7 +11596,7 @@
     },
     "place": {
       "coords": [],
-      "name": "England"
+      "name": "France"
     },
     "alternativeCategorizations": [
       {
@@ -12627,15 +11619,6 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "England"
-          },
-          "confidence": 1.0
         }
       },
       {
@@ -12773,15 +11756,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United Kingdom"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "England"
           },
           "confidence": 0.025
@@ -12849,15 +11823,6 @@
           "info": {
             "coords": [],
             "name": "England"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United Kingdom"
           },
           "confidence": 1.0
         }
@@ -13028,15 +11993,6 @@
           "info": {
             "coords": [],
             "name": "England"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "France"
           },
           "confidence": 1.0
         }
@@ -13471,15 +12427,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Ireland"
           },
           "confidence": 0.25
@@ -13730,7 +12677,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Illinois"
+      "name": "United States of America"
     },
     "alternativeCategorizations": [
       {
@@ -13764,24 +12711,6 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Illinois"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "New York"
-          },
-          "confidence": 1.0
         }
       },
       {
@@ -13834,7 +12763,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Alabama"
+      "name": "Ghana"
     },
     "alternativeCategorizations": [
       {
@@ -13885,34 +12814,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "Alabama"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "New York"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Ghana"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -13965,7 +12867,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Gambia"
+      "name": "United States of America"
     },
     "alternativeCategorizations": [
       {
@@ -13988,15 +12890,6 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Gambia"
-          },
-          "confidence": 1.0
         }
       },
       {
@@ -14159,7 +13052,7 @@
     },
     "place": {
       "coords": [],
-      "name": "California"
+      "name": "Texas"
     },
     "alternativeCategorizations": [
       {
@@ -14210,25 +13103,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "California"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Texas"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -14323,15 +13198,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Alaska"
           },
           "confidence": 0.25
@@ -14358,7 +13224,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Oregon"
+      "name": "France"
     },
     "alternativeCategorizations": [
       {
@@ -14409,34 +13275,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "Oregon"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Germany"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "France"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -14530,24 +13369,6 @@
           "info": {
             "coords": [],
             "name": "Alaska"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Washington"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -14704,7 +13525,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Florida"
+      "name": "France"
     },
     "alternativeCategorizations": [
       {
@@ -14766,34 +13587,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "Florida"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Germany"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "France"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -15087,15 +13881,6 @@
           },
           "confidence": 1.0
         }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
       }
     ]
   },
@@ -15229,15 +14014,6 @@
           "info": {
             "coords": [],
             "name": "Massachusetts"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -15443,7 +14219,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Oklahoma"
+      "name": "United States of America"
     },
     "alternativeCategorizations": [
       {
@@ -15477,15 +14253,6 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Oklahoma"
-          },
-          "confidence": 1.0
         }
       },
       {
@@ -15609,7 +14376,7 @@
     },
     "place": {
       "coords": [],
-      "name": "England"
+      "name": "United States of America"
     },
     "alternativeCategorizations": [
       {
@@ -15632,33 +14399,6 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "England"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Canada"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Sierra Leone"
-          },
-          "confidence": 1.0
         }
       },
       {
@@ -15919,7 +14659,7 @@
     },
     "place": {
       "coords": [],
-      "name": "California"
+      "name": "Afghanistan"
     },
     "alternativeCategorizations": [
       {
@@ -15959,43 +14699,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "California"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Afghanistan"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "France"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Greece"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -16041,7 +14745,7 @@
     },
     "place": {
       "coords": [],
-      "name": "California"
+      "name": "Afghanistan"
     },
     "alternativeCategorizations": [
       {
@@ -16070,25 +14774,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "California"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Afghanistan"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -16279,24 +14965,6 @@
             "coords": [],
             "name": "Poland"
           },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Russia"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Poland"
-          },
           "confidence": 0.25
         }
       },
@@ -16369,15 +15037,6 @@
           "info": {
             "coords": [],
             "name": "Florida"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -16534,24 +15193,6 @@
             "coords": [],
             "name": "Kentucky"
           },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Kentucky"
-          },
           "confidence": 0.25
         }
       },
@@ -16624,15 +15265,6 @@
           "info": {
             "coords": [],
             "name": "England"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United Kingdom"
           },
           "confidence": 1.0
         }
@@ -16798,15 +15430,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Alaska"
           },
           "confidence": 0.25
@@ -16945,33 +15568,6 @@
           "info": {
             "coords": [],
             "name": "England"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "New York"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "France"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -17168,15 +15764,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Texas"
           },
           "confidence": 0.25
@@ -17321,7 +15908,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Belgium"
+      "name": "Germany"
     },
     "alternativeCategorizations": [
       {
@@ -17361,25 +15948,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "Belgium"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Germany"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -17432,7 +16001,7 @@
     },
     "place": {
       "coords": [],
-      "name": "California"
+      "name": "Iran"
     },
     "alternativeCategorizations": [
       {
@@ -17461,25 +16030,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "California"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Iran"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -17587,7 +16138,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Germany"
+      "name": "United States of America"
     },
     "alternativeCategorizations": [
       {
@@ -17621,33 +16172,6 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Germany"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "France"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Poland"
-          },
-          "confidence": 1.0
         }
       },
       {
@@ -17897,15 +16421,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "South Carolina"
           },
           "confidence": 0.025
@@ -17950,7 +16465,7 @@
     },
     "place": {
       "coords": [],
-      "name": "South Carolina"
+      "name": "United States of America"
     },
     "alternativeCategorizations": [
       {
@@ -17995,15 +16510,6 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "South Carolina"
-          },
-          "confidence": 1.0
         }
       },
       {
@@ -18178,24 +16684,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "Texas"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Maine"
           },
           "confidence": 0.25
@@ -18274,24 +16762,6 @@
           "info": {
             "coords": [],
             "name": "Georgia"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Georgia"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -18421,15 +16891,6 @@
           "info": {
             "coords": [],
             "name": "Maine"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -18577,7 +17038,7 @@
     },
     "place": {
       "coords": [],
-      "name": "England"
+      "name": "Netherlands"
     },
     "alternativeCategorizations": [
       {
@@ -18617,34 +17078,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "England"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Hungary"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Netherlands"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Turkey"
           },
           "confidence": 1.0
         }
@@ -18720,15 +17154,6 @@
           "info": {
             "coords": [],
             "name": "Minnesota"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -19075,15 +17500,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Alabama"
           },
           "confidence": 0.25
@@ -19177,15 +17593,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Alabama"
           },
           "confidence": 0.25
@@ -19261,51 +17668,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "Spain"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "France"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United Kingdom"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Greece"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Italy"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "England"
           },
           "confidence": 0.25
@@ -19343,7 +17705,7 @@
     },
     "place": {
       "coords": [],
-      "name": "England"
+      "name": "Scotland"
     },
     "alternativeCategorizations": [
       {
@@ -19372,52 +17734,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "England"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Scotland"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Switzerland"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Germany"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Algeria"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Gibraltar"
           },
           "confidence": 1.0
         }
@@ -19605,24 +17922,6 @@
             "coords": [],
             "name": "Georgia"
           },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Georgia"
-          },
           "confidence": 0.025
         }
       },
@@ -19706,15 +18005,6 @@
           "info": {
             "coords": [],
             "name": "California"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -19872,15 +18162,6 @@
           "info": {
             "coords": [],
             "name": "Alabama"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -20375,24 +18656,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "Italy"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "New Zealand"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Vatican"
           },
           "confidence": 0.25
@@ -20478,24 +18741,6 @@
           "info": {
             "coords": [],
             "name": "England"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "France"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United Kingdom"
           },
           "confidence": 1.0
         }
@@ -20632,7 +18877,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Illinois"
+      "name": "France"
     },
     "alternativeCategorizations": [
       {
@@ -20672,34 +18917,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "Illinois"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Spain"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "France"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -20734,7 +18952,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Texas"
+      "name": "United States of America"
     },
     "alternativeCategorizations": [
       {
@@ -20757,15 +18975,6 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Texas"
-          },
-          "confidence": 1.0
         }
       },
       {
@@ -20877,15 +19086,6 @@
           "info": {
             "coords": [],
             "name": "Massachusetts"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -21167,24 +19367,6 @@
           "info": {
             "coords": [],
             "name": "Georgia"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Georgia"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -21712,7 +19894,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Texas"
+      "name": "Mexico"
     },
     "alternativeCategorizations": [
       {
@@ -21752,25 +19934,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "Texas"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Mexico"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -21907,33 +20071,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "Massachusetts"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United Kingdom"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Washington"
           },
           "confidence": 0.025
@@ -22033,7 +20170,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Poland"
+      "name": "Slovakia"
     },
     "alternativeCategorizations": [
       {
@@ -22056,15 +20193,6 @@
             "lengthInYears": 0
           },
           "confidence": 0.25
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Poland"
-          },
-          "confidence": 1.0
         }
       },
       {
@@ -22124,7 +20252,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Kentucky"
+      "name": "Ohio"
     },
     "alternativeCategorizations": [
       {
@@ -22153,25 +20281,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "Kentucky"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Ohio"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -22297,7 +20407,7 @@
     },
     "place": {
       "coords": [],
-      "name": "England"
+      "name": "Australia"
     },
     "alternativeCategorizations": [
       {
@@ -22331,15 +20441,6 @@
             "lengthInYears": 99
           },
           "confidence": 0.5
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "England"
-          },
-          "confidence": 1.0
         }
       },
       {
@@ -22587,15 +20688,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "France"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "New York"
           },
           "confidence": 0.25
@@ -22681,15 +20773,6 @@
           "info": {
             "coords": [],
             "name": "Kentucky"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -22873,24 +20956,6 @@
           "info": {
             "coords": [],
             "name": "California"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Vietnam"
           },
           "confidence": 1.0
         }
@@ -23109,15 +21174,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "India"
           },
           "confidence": 0.025
@@ -23174,15 +21230,6 @@
           "info": {
             "coords": [],
             "name": "England"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United Kingdom"
           },
           "confidence": 1.0
         }
@@ -23281,7 +21328,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Egypt"
+      "name": "Italy"
     },
     "alternativeCategorizations": [
       {
@@ -23304,15 +21351,6 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Egypt"
-          },
-          "confidence": 1.0
         }
       },
       {
@@ -23414,24 +21452,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "France"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United Kingdom"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "England"
           },
           "confidence": 0.025
@@ -23524,15 +21544,6 @@
           "info": {
             "coords": [],
             "name": "North Carolina"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -23680,24 +21691,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "New York"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Pennsylvania"
           },
           "confidence": 0.025
@@ -23742,7 +21735,7 @@
     },
     "place": {
       "coords": [],
-      "name": "England"
+      "name": "Wales"
     },
     "alternativeCategorizations": [
       {
@@ -23763,15 +21756,6 @@
             "start": 1200,
             "end": 1299,
             "lengthInYears": 99
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "England"
           },
           "confidence": 1.0
         }
@@ -24148,24 +22132,6 @@
           "info": {
             "coords": [],
             "name": "New Hampshire"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Poland"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -24665,7 +22631,7 @@
     },
     "place": {
       "coords": [],
-      "name": "England"
+      "name": "France"
     },
     "alternativeCategorizations": [
       {
@@ -24688,15 +22654,6 @@
             "lengthInYears": 0
           },
           "confidence": 0.25
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "England"
-          },
-          "confidence": 1.0
         }
       },
       {
@@ -24775,15 +22732,6 @@
           "info": {
             "coords": [],
             "name": "Russia"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Ukraine"
           },
           "confidence": 1.0
         }
@@ -25177,15 +23125,6 @@
           },
           "confidence": 1.0
         }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
       }
     ]
   },
@@ -25257,15 +23196,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "California"
           },
           "confidence": 0.025
@@ -25322,33 +23252,6 @@
           "info": {
             "coords": [],
             "name": "California"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "New York"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "France"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -25436,15 +23339,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "France"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Germany"
           },
           "confidence": 0.025
@@ -25471,7 +23365,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Kentucky"
+      "name": "United States of America"
     },
     "alternativeCategorizations": [
       {
@@ -25505,15 +23399,6 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Kentucky"
-          },
-          "confidence": 1.0
         }
       },
       {
@@ -25874,7 +23759,7 @@
     },
     "place": {
       "coords": [],
-      "name": "California"
+      "name": "Mexico"
     },
     "alternativeCategorizations": [
       {
@@ -25892,25 +23777,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "California"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Mexico"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -26089,15 +23956,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "China"
           },
           "confidence": 0.025
@@ -26217,7 +24075,7 @@
     },
     "place": {
       "coords": [],
-      "name": "England"
+      "name": "France"
     },
     "alternativeCategorizations": [
       {
@@ -26257,43 +24115,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "England"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "New York"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "France"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Italy"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -26346,7 +24168,7 @@
     },
     "place": {
       "coords": [],
-      "name": "California"
+      "name": "China"
     },
     "alternativeCategorizations": [
       {
@@ -26375,25 +24197,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "California"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "China"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -26670,15 +24474,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "California"
           },
           "confidence": 0.25
@@ -26810,15 +24605,6 @@
           "info": {
             "coords": [],
             "name": "Lithuania"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Russia"
           },
           "confidence": 1.0
         }
@@ -27024,15 +24810,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Wales"
           },
           "confidence": 0.025
@@ -27059,7 +24836,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Texas"
+      "name": "Spain"
     },
     "alternativeCategorizations": [
       {
@@ -27110,25 +24887,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "Texas"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Spain"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -27574,15 +25333,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Pennsylvania"
           },
           "confidence": 0.25
@@ -27737,15 +25487,6 @@
           "info": {
             "coords": [],
             "name": "United Kingdom"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Guernsey"
           },
           "confidence": 1.0
         }
@@ -28053,15 +25794,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "New York"
           },
           "confidence": 0.025
@@ -28088,7 +25820,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Connecticut"
+      "name": "United States of America"
     },
     "alternativeCategorizations": [
       {
@@ -28111,15 +25843,6 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Connecticut"
-          },
-          "confidence": 1.0
         }
       },
       {
@@ -28281,15 +26004,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "California"
           },
           "confidence": 0.25
@@ -28383,15 +26097,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "California"
           },
           "confidence": 0.25
@@ -28429,7 +26134,7 @@
     },
     "place": {
       "coords": [],
-      "name": "California"
+      "name": "Oklahoma"
     },
     "alternativeCategorizations": [
       {
@@ -28447,25 +26152,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "California"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Oklahoma"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -28626,15 +26313,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Mississippi"
           },
           "confidence": 0.25
@@ -28679,7 +26357,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Louisiana"
+      "name": "Kentucky"
     },
     "alternativeCategorizations": [
       {
@@ -28708,25 +26386,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "Louisiana"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Kentucky"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -28978,24 +26638,6 @@
             "coords": [],
             "name": "China"
           },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "China"
-          },
           "confidence": 0.25
         }
       },
@@ -29068,15 +26710,6 @@
           "info": {
             "coords": [],
             "name": "Mississippi"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -29231,7 +26864,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Czech Republic"
+      "name": "Russia"
     },
     "alternativeCategorizations": [
       {
@@ -29263,15 +26896,6 @@
             "start": 1800,
             "end": 1899,
             "lengthInYears": 99
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Czech Republic"
           },
           "confidence": 1.0
         }
@@ -29506,15 +27130,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "New York"
           },
           "confidence": 0.25
@@ -29630,15 +27245,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Nebraska"
           },
           "confidence": 0.25
@@ -29721,15 +27327,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Arizona"
           },
           "confidence": 0.025
@@ -29800,7 +27397,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Missouri"
+      "name": "United States of America"
     },
     "alternativeCategorizations": [
       {
@@ -29856,15 +27453,6 @@
             "lengthInYears": 99
           },
           "confidence": 0.5
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Missouri"
-          },
-          "confidence": 1.0
         }
       },
       {
@@ -29935,7 +27523,7 @@
     },
     "place": {
       "coords": [],
-      "name": "New York"
+      "name": "Ireland"
     },
     "alternativeCategorizations": [
       {
@@ -29964,25 +27552,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "New York"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Ireland"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -30058,24 +27628,6 @@
           "info": {
             "coords": [],
             "name": "Georgia"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Georgia"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -30323,15 +27875,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United Kingdom"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "England"
           },
           "confidence": 0.025
@@ -30436,15 +27979,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Poland"
           },
           "confidence": 0.25
@@ -30512,15 +28046,6 @@
           "info": {
             "coords": [],
             "name": "England"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "France"
           },
           "confidence": 1.0
         }
@@ -30682,15 +28207,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United Kingdom"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "England"
           },
           "confidence": 0.025
@@ -30833,15 +28349,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Florida"
           },
           "confidence": 0.25
@@ -30898,60 +28405,6 @@
           "info": {
             "coords": [],
             "name": "Georgia"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Indiana"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Tennessee"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "North Carolina"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "South Carolina"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "Georgia"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -31057,15 +28510,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Wisconsin"
           },
           "confidence": 0.25
@@ -31114,7 +28558,7 @@
     },
     "place": {
       "coords": [],
-      "name": "Wisconsin"
+      "name": "Kansas"
     },
     "alternativeCategorizations": [
       {
@@ -31143,25 +28587,7 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "Wisconsin"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Kansas"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
           },
           "confidence": 1.0
         }
@@ -31336,24 +28762,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "South Carolina"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Mississippi"
           },
           "confidence": 0.25
@@ -31447,15 +28855,6 @@
         "place": {
           "info": {
             "coords": [],
-            "name": "United States of America"
-          },
-          "confidence": 1.0
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
             "name": "Louisiana"
           },
           "confidence": 0.25
@@ -31500,7 +28899,7 @@
     },
     "place": {
       "coords": [],
-      "name": "England"
+      "name": "United Kingdom"
     },
     "alternativeCategorizations": [
       {
@@ -31534,15 +28933,6 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
-        }
-      },
-      {
-        "place": {
-          "info": {
-            "coords": [],
-            "name": "England"
-          },
-          "confidence": 1.0
         }
       },
       {

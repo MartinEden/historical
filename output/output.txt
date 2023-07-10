@@ -6,10 +6,10 @@ Half of a Yellow Sun by Adichie, Chimamanda Ngozi
 Nigeria
 Little Women by Alcott, Louisa May; Barreca, Regina; Komerski, Grzegorz
 1862 (1862)
-England
+Massachusetts
 A Long Petal of the Sea by Allende, Isabel
 1930s (1930 - 1940)
-Chile
+Spain
 The House of the Spirits by Allende, Isabel; Bogin, Magda
 20th Century (1900 - 1999)
 Chile
@@ -54,13 +54,13 @@ Persuasion by Austen, Jane; Lynch, Deidre Shauna; Kinsley, James
 England
 Pride and Prejudice by Austen, Jane; Quindlen, Anna
 1813 (1813)
-England
+United Kingdom
 Emma by Austen, Jane; Stafford, Fiona
 19th Century (1800 - 1899)
 England
 The True Confessions of Charlotte Doyle by Avi
 1832 (1832)
-England
+Rhode Island
 Longbourn by Baker, Jo
 Regency (1795 - 1837)
 England
@@ -81,7 +81,7 @@ The Aviator's Wife by Benjamin, Melanie
 Mexico
 The Vanishing Half by Bennett, Brit
 1956 (1956)
-California
+Washington
 Lovely War by Berry, Julie
 1917 (1917)
 New York
@@ -102,7 +102,7 @@ Arthurian mythology (500 - 1000)
 United Kingdom
 A Great and Terrible Beauty by Bray, Libba
 1895 (1895)
-England
+United Kingdom
 The Diviners by Bray, Libba
 1926 (1926)
 New York
@@ -111,7 +111,7 @@ Moloka'i by Brennert, Alan
 Hawaii
 Jane Eyre by Brontë, Charlotte; Mason, Michael
 19th Century (1800 - 1899)
-England
+United Kingdom
 Wuthering Heights by Brontë, Emily; Dunn, Richard J.; Brontë, Charlotte
 19th Century (1800 - 1899)
 Yorkshire
@@ -129,7 +129,7 @@ Year of Wonders by Brooks, Geraldine
 England
 The Da Vinci Code by Brown, Dan
 Late 20th century (1980 - 2000)
-England
+France
 The Good Earth by Buck, Pearl S.
 19th century (1800 - 1899)
 China
@@ -138,7 +138,7 @@ The Miniaturist by Burton, Jessie
 Netherlands
 Kindred by Butler, Octavia E.
 1976 (1976)
-California
+Maryland
 The Alienist by Carr, Caleb
 1896 (1896)
 New York
@@ -150,7 +150,7 @@ World War II (1939 - 1945)
 New York
 The Paris Library by Charles, Janet Skeslien
 World War II (1939 - 1945)
-Montana
+France
 Girl with a Pearl Earring by Chevalier, Tracy
 1664 (1664)
 Netherlands
@@ -159,7 +159,7 @@ Remarkable Creatures by Chevalier, Tracy
 England
 The Lady and the Unicorn by Chevalier, Tracy
 1490 (1490)
-Belgium
+France
 The Night Tiger by Choo, Yangsze
 1930s (1930 - 1940)
 Malaysia
@@ -207,7 +207,7 @@ Arthurian mythology (500 - 1000)
 United Kingdom
 Lords of the North by Cornwell, Bernard; Корнуел, Бърнард
 878 (878)
-England
+United Kingdom
 Pope Joan by Cross, Donna Woolfolk
 9th Century (800 - 899)
 Italy
@@ -216,7 +216,7 @@ Bud, Not Buddy by Curtis, Christopher Paul
 Michigan
 The Watsons Go to Birmingham - 1963 by Curtis, Christopher Paul
 1963 (1963)
-Alabama
+Michigan
 Catherine, Called Birdy by Cushman, Karen
 1290 (1290)
 England
@@ -225,13 +225,13 @@ The Red Tent by Diamant, Anita
 Israel
 A Tale of Two Cities by Dickens, Charles; Maxwell, Richard
 1789 (1789)
-England
+France
 All the Light We Cannot See by Doerr, Anthony
 World War II (1939 - 1945)
-Germany
+France
 Cloud Cuckoo Land by Doerr, Anthony
 1453 (1453)
-Idaho
+Turkey
 A Northern Light by Donnelly, Jennifer
 1906 (1906)
 New York
@@ -267,10 +267,10 @@ The Name of the Rose by Eco, Umberto; Weaver, William
 Italy
 Washington Black by Edugyan, Esi
 19th century (1800 - 1899)
-England
+Barbados
 Middlesex by Eugenides, Jeffrey
 1967 (1967)
-Michigan
+Turkey
 The Crimson Petal and the White by Faber, Michel
 1874 (1874)
 England
@@ -297,19 +297,19 @@ The Pillars of the Earth by Follett, Ken
 England
 Winter of the World by Follett, Ken
 World War II (1939 - 1945)
-England
+Germany
 World Without End by Follett, Ken
 Medieval (500 - 1500)
 England
 Edge of Eternity by Follett, Ken; Lee, John
 20th Century (1900 - 1999)
-England
+Germany
 Johnny Tremain by Forbes, Esther; Ward, Lynd
 1775 (1775)
 Massachusetts
 Hotel on the Corner of Bitter and Sweet by Ford, Jamie
 World War II (1939 - 1945)
-Idaho
+Washington
 Z: A Novel of Zelda Fitzgerald by Fowler, Therese Anne
 1918 (1918)
 Alabama
@@ -318,19 +318,19 @@ Mistress of the Art of Death by Franklin, Ariana
 England
 Cold Mountain by Frazier, Charles
 American Civil War (1861 - 1865)
-Virginia
+United States of America
 A Breath of Snow and Ashes by Gabaldon, Diana
 1773 (1773)
-North Carolina
+United States of America
 An Echo in the Bone by Gabaldon, Diana
 1777 (1777)
-Scotland
+North Carolina
 Dragonfly in Amber by Gabaldon, Diana
 1744 (1744)
-Scotland
+France
 Drums of Autumn by Gabaldon, Diana
 1969 (1969)
-England
+Massachusetts
 Outlander by Gabaldon, Diana
 1743 (1743)
 Scotland
@@ -339,10 +339,10 @@ The Fiery Cross by Gabaldon, Diana
 North Carolina
 Voyager by Gabaldon, Diana
 1766 (1766)
-Scotland
+France
 Written in My Own Heart's Blood by Gabaldon, Diana
 1778 (1778)
-Scotland
+Pennsylvania
 Lessons in Chemistry by Garmus, Bonnie
 1960s (1960 - 1970)
 California
@@ -354,7 +354,7 @@ The Signature of All Things by Gilbert, Elizabeth
 Pennsylvania
 The Luxe by Godbersen, Anna
 1899 (1899)
-New York
+United States of America
 Memoirs of a Geisha by Golden, Arthur
 1930 (1930)
 Japan
@@ -381,7 +381,7 @@ The Kingmaker's Daughter by Gregory, Philippa
 England
 The Lady of the Rivers by Gregory, Philippa
 Medieval (500 - 1500)
-England
+France
 The Other Boleyn Girl by Gregory, Philippa
 1521 (1521)
 England
@@ -417,25 +417,25 @@ At the Water's Edge by Gruen, Sara
 Scotland
 Water for Elephants by Gruen, Sara
 1932 (1932)
-Illinois
+United States of America
 Homegoing by Gyasi, Yaa
 18th Century (1700 - 1799)
-Alabama
+Ghana
 Roots: The Saga of an American Family by Haley, Alex
 1767 (1767)
-Gambia
+United States of America
 My Lady Jane by Hand, Cynthia; Ashton, Brodi; Meadows, Jodi
 Lifetime of Lady Jane Grey (1537 - 1554)
 New York
 The Four Winds by Hannah, Kristin
 1934 (1934)
-California
+Texas
 The Great Alone by Hannah, Kristin
 1974 (1974)
 Alaska
 The Nightingale by Hannah, Kristin
 1939 (1939)
-Oregon
+France
 Winter Garden by Hannah, Kristin
 World War II (1939 - 1945)
 Alaska
@@ -444,7 +444,7 @@ The Mercies by Hargrave, Kiran Millwood
 Norway
 The Book of Lost Names by Harmel, Kristin
 1942 (1942)
-Florida
+France
 What the Wind Knows by Harmon, Amy
 1921 (1921)
 Ireland
@@ -468,13 +468,13 @@ World War II (1939 - 1945)
 Italy
 Out of the Dust by Hesse, Karen
 Great Depresion (1929 - 1939)
-Oklahoma
+United States of America
 Girl in the Blue Coat by Hesse, Monica
 World War II (1939 - 1945)
 Netherlands
 The Book of Negroes by Hill, Lawrence
 18th century (1700 - 1799)
-England
+United States of America
 The Dovekeepers by Hoffman, Alice
 70 (70)
 Israel
@@ -483,10 +483,10 @@ A Thousand Splendid Suns by Hosseini, Khaled
 Afghanistan
 And the Mountains Echoed by Hosseini, Khaled
 1952 (1952)
-California
+Afghanistan
 The Kite Runner by Hosseini, Khaled
 1970s (1970 - 1980)
-California
+Afghanistan
 Les Misérables by Hugo, Victor; MacAfee, Norman; Wilbour, Charles E.
 19th century (1800 - 1899)
 France
@@ -528,16 +528,16 @@ The Henna Artist by Joshi, Alka
 India
 Slaughterhouse-Five by Jr., Kurt Vonnegut
 1945 (1945)
-Belgium
+Germany
 The Stationery Shop by Kamali, Marjan
 1953 (1953)
-California
+Iran
 The Winter Sea by Kearsley, Susanna
 1708 (1708)
 Scotland
 Lilac Girls by Kelly, Martha Hall
 World War II (1939 - 1945)
-Germany
+United States of America
 Burial Rites by Kent, Hannah
 1829 (1829)
 Iceland
@@ -549,7 +549,7 @@ The Invention of Wings by Kidd, Sue Monk
 South Carolina
 The Secret Life of Bees by Kidd, Sue Monk
 1964 (1964)
-South Carolina
+United States of America
 Euphoria by King, Lily
 1933 (1933)
 Guinea
@@ -567,7 +567,7 @@ The Exiles by Kline, Christina Baker
 Australia
 The Historian by Kostova, Elizabeth
 1974 (1974)
-England
+Netherlands
 This Tender Land by Krueger, William Kent
 1932 (1932)
 Minnesota
@@ -591,7 +591,7 @@ The Gentleman's Guide to Vice and Virtue by Lee, Mackenzi
 England
 The Lady's Guide to Petticoats and Piracy by Lee, Mackenzi
 18th century (1700 - 1799)
-England
+Scotland
 Pachinko by Lee, Min Jin
 1900s (1900 - 1910)
 Japan
@@ -630,10 +630,10 @@ Circling the Sun by McLain, Paula
 Kenya
 The Paris Wife by McLain, Paula
 1920 (1920)
-Illinois
+France
 Lonesome Dove by McMurtry, Larry
 19th Century (1800 - 1899)
-Texas
+United States of America
 The Crucible: A Play in Four Acts by Miller, Arthur; Bigsby, Christopher W.E.
 17th Century (1600 - 1699)
 Massachusetts
@@ -669,7 +669,7 @@ Ancient history (5000BC - 476)
 Egypt
 Gods of Jade and Shadow by Moreno-Garcia, Silvia
 1927 (1927)
-Texas
+Mexico
 Mexican Gothic by Moreno-Garcia, Silvia
 Mid 20th century (1940 - 1980)
 Mexico
@@ -681,16 +681,16 @@ World War II (1939 - 1945)
 Europe
 The Tattooist of Auschwitz by Morris, Heather
 World War II (1939 - 1945)
-Poland
+Slovakia
 Beloved by Morrison, Toni
 American Civil War (1861 - 1865)
-Kentucky
+Ohio
 The Clockmaker's Daughter by Morton, Kate
 1862 (1862)
 Europe
 The Forgotten Garden by Morton, Kate
 20th Century (1900 - 1999)
-England
+Australia
 The House at Riverton by Morton, Kate
 1924 (1924)
 United Kingdom
@@ -726,7 +726,7 @@ The Marriage Portrait by O'Farrell, Maggie
 Italy
 The English Patient by Ondaatje, Michael
 World War II (1939 - 1945)
-Egypt
+Italy
 The Scarlet Pimpernel by Orczy, Emmuska; Page, Michael
 1792 (1792)
 England
@@ -741,7 +741,7 @@ World War II (1939 - 1945)
 Pennsylvania
 Here Be Dragons by Penman, Sharon Kay
 1183 (1183)
-England
+Wales
 The Sunne in Splendour by Penman, Sharon Kay
 15th Century (1400 - 1499)
 England
@@ -771,7 +771,7 @@ The Viscount Who Loved Me by Quinn, Julia
 England
 The Alice Network by Quinn, Kate
 World War II (1939 - 1945)
-England
+France
 The Diamond Eye by Quinn, Kate
 World War II (1939 - 1945)
 Russia
@@ -798,7 +798,7 @@ All Quiet on the Western Front by Remarque, Erich Maria; Wheen, Arthur Wesley
 Germany
 The Book Woman of Troublesome Creek by Richardson, Kim Michele
 1936 (1936)
-Kentucky
+United States of America
 The Things We Cannot Say by Rimmer, Kelly
 1942 (1942)
 Poland
@@ -810,7 +810,7 @@ Prehistoric (20000BC - 5000BC)
 United Kingdom
 Esperanza Rising by Ryan, Pam Muñoz
 Great Depresion (1929 - 1939)
-California
+Mexico
 Dissolution by Sansom, C.J.
 1573 (1573)
 United Kingdom
@@ -822,10 +822,10 @@ World War II (1939 - 1945)
 Germany
 The Invisible Life of Addie LaRue by Schwab, V.E.
 1714 (1714)
-England
+France
 Shanghai Girls by See, Lisa
 1937 (1937)
-California
+China
 Snow Flower and the Secret Fan by See, Lisa
 19th Century (1800 - 1899)
 China
@@ -849,7 +849,7 @@ Out of the Easy by Sepetys, Ruta
 Louisiana
 The Fountains of Silence by Sepetys, Ruta
 1957 (1957)
-Texas
+Spain
 Salt to the Sea by Sepetys, Ruta; Marie, Jorjeana; Damron, Will
 1945 (1945)
 Europe
@@ -882,7 +882,7 @@ A Tree Grows in Brooklyn by Smith, Betty
 New York
 The Witch of Blackbird Pond by Speare, Elizabeth George
 American Revolutionary War (1775 - 1783)
-Connecticut
+United States of America
 The Light Between Oceans by Stedman, M.L.
 1926 (1926)
 Australia
@@ -894,7 +894,7 @@ Of Mice and Men by Steinbeck, John
 California
 The Grapes of Wrath by Steinbeck, John
 1930s (1930 - 1940)
-California
+Oklahoma
 Girl Waits with Gun by Stewart, Amy
 1914 (1914)
 New York
@@ -903,7 +903,7 @@ The Help by Stockett, Kathryn
 Mississippi
 Uncle Tom's Cabin by Stowe, Harriet Beecher
 19th Century (1800 - 1899)
-Louisiana
+Kentucky
 Beneath a Scarlet Sky by Sullivan, Mark T.
 World War II (1939 - 1945)
 Italy
@@ -921,7 +921,7 @@ Anna Karenina by Tolstoy, Leo; Maude, Aylmer; Maude, Louise
 Russia
 War and Peace by Tolstoy, Leo; Maude, Aylmer; Maude, Louise
 1805 (1805)
-Czech Republic
+Russia
 A Gentleman in Moscow: A Novel by Towles, Amor
 1922 (1922)
 New York
@@ -936,10 +936,10 @@ These Is My Words: The Diary of Sarah Agnes Prine, 1881-1901 by Turner, Nancy E.
 Arizona
 The Adventures of Huckleberry Finn by Twain, Mark; Cardwell, Guy; Kemble, E.W.
 1840 (1840)
-Missouri
+United States of America
 Brooklyn by Tóibín, Colm
 1950s (1950 - 1960)
-New York
+Ireland
 The Color Purple by Walker, Alice
 20th Century (1900 - 1999)
 Georgia
@@ -978,7 +978,7 @@ Little House in the Big Woods by Wilder, Laura Ingalls; Williams, Garth
 Wisconsin
 Little House on the Prairie by Wilder, Laura Ingalls; Williams, Garth
 1930s (1930 - 1940)
-Wisconsin
+Kansas
 The Dictionary of Lost Words by Williams, Pip
 1901 (1901)
 England
@@ -990,7 +990,7 @@ The Book of Lost Friends by Wingate, Lisa
 Louisiana
 Maisie Dobbs by Winspear, Jacqueline
 1929 (1929)
-England
+United Kingdom
 The Shadow of the Wind by Zafón, Carlos Ruiz; Graves, Lucia
 1945 (1945)
 Spain

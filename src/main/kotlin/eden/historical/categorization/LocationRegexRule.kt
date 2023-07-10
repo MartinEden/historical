@@ -3,7 +3,7 @@ package eden.historical.categorization
 import eden.historical.models.BookMetadata
 import eden.historical.models.countries.Country
 
-data class LocationRegexRule(val countries: List<Country>): RegexRule(buildRegex(countries)) {
+class LocationRegexRule(val countries: List<Country>): RegexRule(buildRegex(countries)) {
     private val lookup: Map<String, Country> = sequence {
         for (country in countries) {
             for (name in country.names) {
