@@ -488,7 +488,7 @@ The Kite Runner by Hosseini, Khaled
 1970s (1970 - 1980)
 California
 Les Misérables by Hugo, Victor; MacAfee, Norman; Wilbour, Charles E.
-Unknown
+19th century (1800 - 1899)
 France
 We Were the Lucky Ones by Hunter, Georgia
 World War II (1939 - 1945)
@@ -497,10 +497,10 @@ Their Eyes Were Watching God by Hurston, Zora Neale
 1928 (1928)
 Florida
 Genghis: Birth of an Empire by Iggulden, Conn
-Unknown
+12th Century (1100 - 1199)
 Mongolia
 Dread Nation by Ireland, Justina
-Unknown
+American Civil War (1861 - 1865)
 Maryland
 The Remains of the Day by Ishiguro, Kazuo
 1956 (1956)
@@ -999,4 +999,4 @@ The Book Thief by Zusak, Markus
 Germany
 
 Number of books: 333
-Missing pieces of data: 42
+Missing pieces of data: 39

@@ -5,6 +5,8 @@ import eden.historical.models.countries.Country
 
 class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
     private val rules = sequence {
+        val civilWarPeriod = Period.Range("American Civil War", 1861, 1865)
+
         yield(TheYearIsRule)
         yield(AnyYearRule)
         yield(DecadeRule)
@@ -32,7 +34,8 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
         yield(
             SnippetRule(
                 "Taliban",
-                Categorization(period = Century(20).period withConfidence 0.25f))
+                Categorization(period = Century(20).period withConfidence 0.25f)
+            )
         )
         yield(
             SnippetRule(
@@ -107,7 +110,7 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
             TagRule(
                 "Civil War",
                 Categorization(
-                    period = Period.Range("American Civil War", 1861, 1865) withConfidence 0.9f,
+                    period = civilWarPeriod withConfidence 0.9f,
                     place = countries.single { it.iso3 == "USA" }.asPlace() withConfidence 0.25f
                 )
             )
@@ -120,11 +123,20 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
                 )
             )
         )
+        yield(
+            SnippetRule(
+                "Gettysburg",
+                Categorization(
+                    period = civilWarPeriod withConfidence 0.2f
+                )
+            )
+        )
         yieldAll(CenturyRule.all)
         yieldAll(LocationRule.from(countries))
         yield(LocationRule(setOf("Yorkshire"), Place.Area("Yorkshire", emptyList())))
         yield(SourceYearRule)
         yield(HandwrittenCategorizationRule())
+        yield(GenghisKhanRule)
     }.toList()
 
     private val defaultCategorization = Categorization(

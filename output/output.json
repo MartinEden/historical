@@ -3717,7 +3717,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "19th century",
+      "start": 1800,
+      "end": 1899,
+      "lengthInYears": 0
+    },
     "place": {
       "coords": [],
       "name": "France"
@@ -3778,7 +3783,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "12th Century",
+      "start": 1100,
+      "end": 1199,
+      "lengthInYears": 99
+    },
     "place": {
       "coords": [],
       "name": "Mongolia"
@@ -3795,7 +3805,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "American Civil War",
+      "start": 1861,
+      "end": 1865,
+      "lengthInYears": 4
+    },
     "place": {
       "coords": [],
       "name": "Maryland"
