@@ -4117,7 +4117,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "1st Century",
+      "start": 1,
+      "end": 100,
+      "lengthInYears": 99
+    },
     "place": {
       "coords": [],
       "name": "Israel"

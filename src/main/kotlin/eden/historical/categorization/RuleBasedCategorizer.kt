@@ -131,6 +131,14 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
                 )
             )
         )
+        yield(
+            SnippetRule(
+                setOf("Jesus's life", "Life of Jesus"),
+                Categorization(
+                    period = Century(1).period withConfidence 0.2f
+                )
+            )
+        )
         yieldAll(CenturyRule.all)
         yieldAll(LocationRule.from(countries))
         yield(LocationRule(setOf("Yorkshire"), Place.Area("Yorkshire", emptyList())))
@@ -145,7 +153,7 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
     )
 
     override fun categorize(book: BookMetadata): CategorizedBook {
-        val candidates = rules.toList().mapNotNull { it.apply(book) } + defaultCategorization
+        val candidates = rules.mapNotNull { it.apply(book) } + defaultCategorization
 
         // TODO: take smallest intersection? e.g. 15th century / tudor
         val period = candidates

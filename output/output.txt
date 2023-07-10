@@ -542,7 +542,7 @@ Burial Rites by Kent, Hannah
 1829 (1829)
 Iceland
 The Book of Longings by Kidd, Sue Monk
-Unknown
+1st Century (1 - 100)
 Israel
 The Invention of Wings by Kidd, Sue Monk
 1803 (1803)
@@ -999,4 +999,4 @@ The Book Thief by Zusak, Markus
 Germany
 
 Number of books: 333
-Missing pieces of data: 39
+Missing pieces of data: 38
