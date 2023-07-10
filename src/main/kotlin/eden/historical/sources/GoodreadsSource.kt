@@ -47,7 +47,7 @@ class GoodreadsSource(private val fetcher: Fetcher) : BookSource {
 
         return BookMetadata(
             Book(url, title, authors),
-            synopsis = synopsis.lowercase().replace('’', '\''),
+            synopsis = cleanText(synopsis),
             reviews = getReviews(apolloState).toList(),
             tags = getTags(apolloState),
             places = placesAndYears.places,
@@ -88,8 +88,10 @@ class GoodreadsSource(private val fetcher: Fetcher) : BookSource {
         val reviewLookups = jsonData.getLookupsWithKeyMatching(Regex("^Review:"))
         return reviewLookups.mapNotNull { lookup ->
             lookup.value("text")?.let {
-                Jsoup.clean(it, Safelist.none())
+                cleanText(it)
             }
         }
     }
+
+    private fun cleanText(text: String) = Jsoup.clean(text, Safelist.none()).lowercase().replace('’', '\'')
 }

@@ -12,6 +12,7 @@ class NovelProcessingJob(
     fun run() {
         try {
             for (book in bookSource.books) {
+                print(".")
                 val categorizedBook = categorizer.categorize(book)
                 store.put(categorizedBook)
             }

@@ -13,8 +13,9 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
         yield(
             TextRule(
                 setOf(
-                    SearchTerm("World War II", 1f),
-                    SearchTerm("Nazi", 0.25f)
+                    SearchTerm.Plain("World War II", 1f),
+                    SearchTerm.Plain("WWII", 0.9f),
+                    SearchTerm.Plain("Nazi", 0.25f)
                 ),
                 Categorization(
                     Period.Range("World War II", 1939, 1945) withConfidence 1f,
@@ -169,7 +170,8 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
     )
 
     override fun categorize(book: BookMetadata): CategorizedBook {
-        val candidates = rules.mapNotNull { it.apply(book) } + defaultCategorization
+        val realCandidates = rules.mapNotNull { it.apply(book) }
+        val candidates = realCandidates + defaultCategorization
 
         // TODO: take smallest intersection? e.g. 15th century / tudor
         val period = candidates
@@ -184,6 +186,6 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
             .mapNotNull { it.place }
             .highestConfidenceInfo()
             .first()
-        return CategorizedBook(book.book, period, place)
+        return CategorizedBook(book.book, period, place, realCandidates)
     }
 }

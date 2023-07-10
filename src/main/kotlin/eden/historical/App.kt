@@ -14,7 +14,9 @@ import eden.historical.storage.MultiStore
 fun main() {
     val fetcher = CachingFetcher(ThrottlingFetcher(RequiresLoginFetcher(JsoupFetcher())))
     val source = GoodreadsSource(fetcher)
+    println("Loading country data")
     val countries = CountryDataSource().load()
+    println("Beginning categorization")
     val categorizer = RuleBasedCategorizer(countries)
     val store = MultiStore(listOf(
         JsonStore(),

@@ -22,11 +22,11 @@ class TextRule(termSet: Set<SearchTerm>, private val categorization: Categorizat
 
     // We trust some data more than other
     private fun getSupportForTerm(term: SearchTerm, book: BookMetadata): Float {
-        return if (term.text in book.tags || term.text in book.places) {
+        return if (term.isInSet(book.tags) || term.isInSet(book.places)) {
             1f
-        } else if (term.regex in book.synopsis) {
+        } else if (term.isInFreeText(book.synopsis)) {
             0.25f
-        } else if (book.reviews.any { term.regex in it }) {
+        } else if (book.reviews.any { term.isInFreeText(it) }) {
             0.1f
         } else {
             0f
@@ -34,6 +34,20 @@ class TextRule(termSet: Set<SearchTerm>, private val categorization: Categorizat
     }
 }
 
-data class SearchTerm(val text: String, val confidenceMultiplier: Float) {
-    val regex = Regex("([^a-zA-Z]|^)${text.lowercase()}([^a-zA-Z]|$)")
+sealed class SearchTerm(val confidenceMultiplier: Float) {
+    abstract fun isInSet(set: Set<String>): Boolean
+    abstract fun isInFreeText(text: String): Boolean
+
+    class Plain(private val text: String, confidenceMultiplier: Float): SearchTerm(confidenceMultiplier) {
+        private val regex = Regex("([^a-zA-Z]|^)${text.lowercase()}([^a-zA-Z]|$)")
+
+        override fun isInSet(set: Set<String>) = text in set
+        override fun isInFreeText(text: String) = regex in text
+    }
+    class Pattern(pattern: String, confidenceMultiplier: Float): SearchTerm(confidenceMultiplier) {
+        private val regex = Regex(pattern)
+
+        override fun isInSet(set: Set<String>) = false
+        override fun isInFreeText(text: String) = regex in text
+    }
 }
