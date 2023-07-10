@@ -125,6 +125,14 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
         )
         yield(
             SnippetRule(
+                "Roman Empire",
+                Categorization(
+                    period = Period.Range("Roman Empire", -27, 476) withConfidence 0.1f
+                )
+            )
+        )
+        yield(
+            SnippetRule(
                 "Gettysburg",
                 Categorization(
                     period = civilWarPeriod withConfidence 0.2f
@@ -145,6 +153,14 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
                 Categorization(
                     period = Century(19).period withConfidence 0.2f,
                     place = countries.single { it.iso3 == "USA" }.asPlace() withConfidence 0.2f
+                )
+            )
+        )
+        yield(
+            TagRule(
+                "Ancient History",
+                Categorization(
+                    period = Period.Range("Ancient history", -5000, 476) withConfidence 0.25f
                 )
             )
         )

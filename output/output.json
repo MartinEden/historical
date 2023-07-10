@@ -4913,7 +4913,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "19th century",
+      "start": 1800,
+      "end": 1899,
+      "lengthInYears": 0
+    },
     "place": {
       "coords": [],
       "name": "Canada"
@@ -4930,7 +4935,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "Roman Empire",
+      "start": -27,
+      "end": 476,
+      "lengthInYears": 502
+    },
     "place": {
       "coords": [],
       "name": "Egypt"
@@ -4969,7 +4979,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "Ancient history",
+      "start": -5000,
+      "end": 476,
+      "lengthInYears": 5475
+    },
     "place": {
       "coords": [],
       "name": "Egypt"
@@ -4986,7 +5001,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "Ancient history",
+      "start": -5000,
+      "end": 476,
+      "lengthInYears": 5475
+    },
     "place": {
       "coords": [],
       "name": "Egypt"
@@ -5003,7 +5023,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "Ancient history",
+      "start": -5000,
+      "end": 476,
+      "lengthInYears": 5475
+    },
     "place": {
       "coords": [],
       "name": "Egypt"
@@ -5663,7 +5688,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "Ancient history",
+      "start": -5000,
+      "end": 476,
+      "lengthInYears": 5475
+    },
     "place": {
       "coords": [],
       "name": "Greece"

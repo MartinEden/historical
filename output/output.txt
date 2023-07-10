@@ -653,19 +653,19 @@ Anne of Green Gables by Montgomery, L.M.
 19th century (1800 - 1899)
 Canada
 Cleopatra's Daughter by Moran, Michelle
-Unknown
+Roman Empire (27BC - 476)
 Egypt
 Madame Tussaud: A Novel of the French Revolution by Moran, Michelle
 1788 (1788)
 France
 Nefertiti by Moran, Michelle
-Unknown
+Ancient history (5000BC - 476)
 Egypt
 The Heretic Queen by Moran, Michelle
-Unknown
+Ancient history (5000BC - 476)
 Egypt
 The Heretic Queen by Moran, Michelle
-Unknown
+Ancient history (5000BC - 476)
 Egypt
 Gods of Jade and Shadow by Moreno-Garcia, Silvia
 1927 (1927)
@@ -758,7 +758,7 @@ The Secrets We Kept by Prescott, Lara; Uiterweer, Ellis Post; Uiterweer, Anna Po
 20th Century (1900 - 1999)
 Russia
 Gates of Fire by Pressfield, Steven
-Unknown
+Ancient history (5000BC - 476)
 Greece
 The Hangman's Daughter by Pötzsch, Oliver; Chadeayne, Lee; Marić, Sabine
 1659 (1659)
@@ -999,4 +999,4 @@ The Book Thief by Zusak, Markus
 Germany
 
 Number of books: 333
-Missing pieces of data: 31
+Missing pieces of data: 25
