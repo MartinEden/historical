@@ -458,7 +458,7 @@ The Ten Thousand Doors of January by Harrow, Alix E.
 Early 20th century (1900 - 1949)
 USA
 The Scarlet Letter by Hawthorne, Nathaniel; James, Henry; Baym, Nina
-1642 (1642)
+7th Century (600 - 699)
 Massachusetts
 A Thousand Ships by Haynes, Natalie
 Greek mythology (2000BC - 1000BC)
@@ -587,16 +587,16 @@ To Kill a Mockingbird by Lee, Harper
 1933 (1933)
 Alabama
 The Gentleman's Guide to Vice and Virtue by Lee, Mackenzi
-Unknown
+18th century (1700 - 1799)
 England
 The Lady's Guide to Petticoats and Piracy by Lee, Mackenzi
-Unknown
+18th century (1700 - 1799)
 England
 Pachinko by Lee, Min Jin
 1900s (1900 - 1910)
 Japan
 The Downstairs Girl by Lee, Stacey
-Unknown
+Early 20th century (1900 - 1949)
 Georgia
 Last Night at the Telegraph Club by Lo, Malinda
 1954 (1954)
@@ -620,7 +620,7 @@ Wolf Hall by Mantel, Hilary
 1500 (1500)
 England
 The Thorn Birds by McCullough, Colleen
-Unknown
+20th Century (1900 - 1999)
 Australia
 Atonement by McEwan, Ian
 20th Century (1900 - 1999)
@@ -999,4 +999,4 @@ The Book Thief by Zusak, Markus
 Germany
 
 Number of books: 333
-Missing pieces of data: 38
+Missing pieces of data: 34

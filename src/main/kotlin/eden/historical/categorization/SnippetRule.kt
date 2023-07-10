@@ -18,9 +18,7 @@ data class SnippetRule(
             // This tries to find the sequence of characters as a whole word (rather than finding 'Oman' in 'Romance').
             // On either side of the word we look for either a non-alphabetic character (so a space or a punctuation mark)
             // or for the beginning/end of the string.
-            val regex = Regex("([^a-zA-Z]|^)$snippetRegexes([^a-zA-Z]|$)")
-            println(regex.pattern)
-            return regex
+            return Regex("([^a-zA-Z]|^)$snippetRegexes([^a-zA-Z]|$)")
         }
     }
 }

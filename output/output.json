@@ -3490,10 +3490,10 @@
       ]
     },
     "period": {
-      "name": "1642",
-      "start": 1642,
-      "end": 1642,
-      "lengthInYears": 0
+      "name": "7th Century",
+      "start": 600,
+      "end": 699,
+      "lengthInYears": 99
     },
     "place": {
       "coords": [],
@@ -4447,7 +4447,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "18th century",
+      "start": 1700,
+      "end": 1799,
+      "lengthInYears": 0
+    },
     "place": {
       "coords": [],
       "name": "England"
@@ -4464,7 +4469,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "18th century",
+      "start": 1700,
+      "end": 1799,
+      "lengthInYears": 0
+    },
     "place": {
       "coords": [],
       "name": "England"
@@ -4503,7 +4513,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "Early 20th century",
+      "start": 1900,
+      "end": 1949,
+      "lengthInYears": 0
+    },
     "place": {
       "coords": [],
       "name": "Georgia"
@@ -4674,7 +4689,12 @@
         }
       ]
     },
-    "period": {},
+    "period": {
+      "name": "20th Century",
+      "start": 1900,
+      "end": 1999,
+      "lengthInYears": 99
+    },
     "place": {
       "coords": [],
       "name": "Australia"
