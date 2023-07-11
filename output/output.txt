@@ -39,13 +39,13 @@ Alias Grace by Atwood, Margaret
 Canada
 The Clan of the Cave Bear by Auel, Jean M.
 Prehistoric (20000BC - 5000BC)
-Earth
+New York
 The Mammoth Hunters by Auel, Jean M.
 Prehistoric (20000BC - 5000BC)
-Earth
+Ukraine
 The Valley of Horses by Auel, Jean M.; Burr, Sandra
 Prehistoric (20000BC - 5000BC)
-Earth
+Ukraine
 Sense and Sensibility by Austen, Jane; Ballaster, Ros; Остин, Джейн
 Regency (1795 - 1837)
 England
@@ -68,10 +68,10 @@ The Silence of the Girls by Barker, Pat
 Greek mythology (2000BC - 1000BC)
 Greece
 The Other Einstein by Benedict, Marie
-1875 – 1948 (1875 - 1948)
-Europe
+19th Century (1800 - 1899)
+New York
 The Personal Librarian by Benedict, Marie; Murray, Victoria Christopher
-1879 - 1950 (1879 - 1950)
+1905 (1905)
 New York
 City of Thieves by Benioff, David
 1942 (1942)
@@ -128,10 +128,10 @@ Year of Wonders by Brooks, Geraldine
 1666 (1666)
 England
 The Da Vinci Code by Brown, Dan
-Late 20th century (1980 - 2000)
+3rd Century (200 - 299)
 France
 The Good Earth by Buck, Pearl S.
-19th century (1800 - 1899)
+World War II (1939 - 1945)
 China
 The Miniaturist by Burton, Jessie
 1686 (1686)
@@ -182,7 +182,7 @@ The Girls by Cline, Emma; Holmsten, My
 1960s (1960 - 1970)
 California
 The Water Dancer by Coates, Ta-Nehisi
-1860s (1860 - 1869)
+American Civil War (1861 - 1865)
 Virginia
 Agincourt by Cornwell, Bernard
 1415 (1415)
@@ -266,7 +266,7 @@ The Name of the Rose by Eco, Umberto; Weaver, William
 1327 (1327)
 Italy
 Washington Black by Edugyan, Esi
-19th century (1800 - 1899)
+1830 (1830)
 Barbados
 Middlesex by Eugenides, Jeffrey
 1967 (1967)
@@ -278,7 +278,7 @@ One Thousand White Women: The Journals of May Dodd by Fergus, Jim
 1875 (1875)
 United States of America
 My Brilliant Friend by Ferrante, Elena; Goldstein, Ann
-20th century (1900 - 1999)
+World War II (1939 - 1945)
 Italy
 The Great Gatsby by Fitzgerald, F. Scott
 20th Century (1900 - 1999)
@@ -375,7 +375,7 @@ Tudor (1485 - 1603)
 England
 The King's Curse by Gregory, Philippa
 Tudor (1485 - 1603)
-New York
+Scotland
 The Kingmaker's Daughter by Gregory, Philippa
 15th Century (1400 - 1499)
 England
@@ -407,10 +407,10 @@ The White Queen by Gregory, Philippa
 1464 (1464)
 England
 The Kitchen House by Grissom, Kathleen
-19th century (1800 - 1899)
+American Civil War (1861 - 1865)
 Virginia
 Matrix by Groff, Lauren
-12th century (1100 - 1199)
+1158 (1158)
 England
 At the Water's Edge by Gruen, Sara
 1945 (1945)
@@ -425,7 +425,7 @@ Roots: The Saga of an American Family by Haley, Alex
 1767 (1767)
 United States of America
 My Lady Jane by Hand, Cynthia; Ashton, Brodi; Meadows, Jodi
-Lifetime of Lady Jane Grey (1537 - 1554)
+Tudor (1485 - 1603)
 New York
 The Four Winds by Hannah, Kristin
 1934 (1934)
@@ -924,7 +924,7 @@ War and Peace by Tolstoy, Leo; Maude, Aylmer; Maude, Louise
 Russia
 A Gentleman in Moscow: A Novel by Towles, Amor
 1922 (1922)
-New York
+Europe
 Rules of Civility by Towles, Amor
 1938 (1938)
 New York

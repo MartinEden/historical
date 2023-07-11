@@ -4,7 +4,7 @@ import eden.historical.categorization.*
 import eden.historical.models.BookMetadata
 import eden.historical.models.Period
 
-object TheYearIsRule : RegexRule(Regex("""(?:the year is|it is|in the year)\s+(\d{2,4})""")) {
+object TheYearIsRule : RegexRule(Regex("""(?<!written )(?:the year is|it is|in the year)\s+(\d{2,4})""")) {
     override fun handleMatch(match: MatchResult, fullText: String): Categorization {
         val year = match.groups[1]!!.value.toInt()
         return Categorization(Period.Range(year.toString(), year, year))
@@ -12,17 +12,19 @@ object TheYearIsRule : RegexRule(Regex("""(?:the year is|it is|in the year)\s+(\
 }
 
 object AnyYearRule : RegexRule(Regex("""\W(\d{4})\W""")) {
-    override fun handleMatch(match: MatchResult, fullText: String): Categorization? {
+    override fun handleMatch(match: MatchResult, fullText: String): Categorization {
         val year = match.groups[1]!!.value.toInt()
+        var categorization = Categorization(Period.Range(year.toString(), year, year) withConfidence 0.25f)
+
         val redHerringRegexes = listOf(
             Regex("""winner of [^.]*$year [^.]*prize"""),
-            Regex("""(written|published) in $year"""),
+            Regex("""(written|published) in (the year )?$year"""),
         )
-        return if (redHerringRegexes.any { it in fullText }) {
-            null
-        } else {
-            return Categorization(Period.Range(year.toString(), year, year) withConfidence 0.25f)
+        if (redHerringRegexes.any { it in fullText }) {
+            // TODO: Would be good to be able to output reasoning here
+            categorization = categorization.weightedBy(0.001f)
         }
+        return categorization
     }
 }
 

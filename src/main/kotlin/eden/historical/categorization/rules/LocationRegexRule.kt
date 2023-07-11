@@ -16,7 +16,17 @@ class LocationRegexRule(val countries: List<Country>): RegexRule(buildRegex(coun
     override fun handleMatch(match: MatchResult, fullText: String): Categorization {
         val country = lookup[match.value]
             ?: throw Exception("Unable to find country '${match.value}' in lookup")
-        return Categorization(place = country.asPlace() withConfidence 0.25f)
+
+        var categorization = Categorization(place = country.asPlace() withConfidence 0.25f)
+
+        val redHerringRegexes = listOfNotNull(
+            if (country.defaultName == "New York") Regex("new york times bestselling author") else null
+        )
+        if (redHerringRegexes.any { it in fullText }) {
+            // TODO: Would be good to be able to output reasoning here
+            categorization = categorization.weightedBy(0.001f)
+        }
+        return categorization
     }
 
     companion object {
