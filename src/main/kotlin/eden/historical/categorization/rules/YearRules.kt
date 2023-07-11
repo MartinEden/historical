@@ -28,7 +28,7 @@ object AnyYearRule : RegexRule(Regex("""\W(\d{4})\W""")) {
     }
 }
 
-// TODO: Currently we treat centuries (e.g. 1900s) as if they were just the first decade
+// It's okay that this matches centuries (e.g. 1700s) as it has a lower confidence than the century rules
 object DecadeRule : RegexRule(Regex("""(?<phrasing>in the (?:early|late)?)?\s*(?<decade>\d{4})s""")) {
     override fun handleMatch(match: MatchResult, fullText: String): Categorization {
         val decade = match.groups["decade"]!!.value.toInt()

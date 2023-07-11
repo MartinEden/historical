@@ -17,7 +17,6 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
 
         yield(LocationSourceDataRule(countries))
         yield(LocationRegexRule(countries))
-        yield(LocationRegexRule(listOf(Country(listOf("Yorkshire"), null, emptyList()))))
 
         yield(
             TextRule(
@@ -146,7 +145,6 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
     override fun categorize(book: BookMetadata): CategorizedBook {
         val candidates = rules.flatMap { it.apply(book) }
 
-        // TODO: take smallest intersection? e.g. 15th century / tudor
         val period = candidates
             .mapNotNull { it.categorization.period }
             .highestConfidenceInfo()
@@ -154,7 +152,6 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
             .firstOrNull() ?: Period.Unknown
 
         // TODO: distinguish places by specificity
-        // TODO: merge places when there are multiple conflicting places of equal weight. e.g. multiple states -> USA
         val place = candidates
             .mapNotNull { it.categorization.place }
             .highestConfidenceInfo()

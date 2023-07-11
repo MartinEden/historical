@@ -11,7 +11,6 @@ open class TextRule(terms: Set<SearchTerm>, private val categorization: Categori
 
     constructor(term: String, categorization: Categorization) : this(setOf(SearchTerm(term, 1f)), categorization)
 
-    // TODO: Consider returning multiple categorizations, and later we can sort them out by confidence/specificity
     override fun apply(book: BookMetadata): Iterable<AppliedCategorization> {
         return terms.flatMap { applyTerm(it, book) }
     }
