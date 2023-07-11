@@ -12,7 +12,7 @@ class LocationRegexRule(val countries: List<Country>): RegexRule(buildRegex(coun
         }
     }.toMap()
 
-    override fun handleMatch(match: MatchResult, book: BookMetadata, fullText: String): Categorization? {
+    override fun handleMatch(match: MatchResult, book: BookMetadata, fullText: String): Categorization {
         val country = lookup[match.value]
             ?: throw Exception("Unable to find country '${match.value}' in lookup")
         return Categorization(place = country.asPlace() withConfidence 0.25f)

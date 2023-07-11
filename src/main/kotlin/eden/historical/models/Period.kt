@@ -41,9 +41,9 @@ sealed class Period {
         // If y is more specific return a positive number
         override fun compare(x: Period, y: Period): Int {
             return when {
-                x is Period.Range && y is Period.Range -> x.lengthInYears - y.lengthInYears
-                x is Period.Unknown && y is Period.Range -> +1
-                x is Period.Range && y is Period.Unknown -> -1
+                x is Range && y is Range -> x.lengthInYears - y.lengthInYears
+                x is Unknown && y is Range -> +1
+                x is Range && y is Unknown -> -1
                 else -> 0
             }
         }
