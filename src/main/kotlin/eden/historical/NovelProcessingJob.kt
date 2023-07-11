@@ -3,6 +3,7 @@ package eden.historical
 import eden.historical.categorization.Categorizer
 import eden.historical.sources.BookSource
 import eden.historical.storage.Store
+import java.time.Duration
 
 class NovelProcessingJob(
     private val bookSource: BookSource,
@@ -10,10 +11,11 @@ class NovelProcessingJob(
     private val store: Store
 ) {
     fun run() {
+        val progress = ProgressReporter(reportFrequency = Duration.ofSeconds(2))
         try {
             categorizer.begin()
-            for (book in bookSource.books) {
-                print(".")
+            for ((i, book) in bookSource.books.withIndex()) {
+                progress.update("Processed $i books")
                 val categorizedBook = categorizer.categorize(book)
                 store.put(categorizedBook)
             }
