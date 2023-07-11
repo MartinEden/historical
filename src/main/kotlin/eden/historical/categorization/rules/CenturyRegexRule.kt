@@ -1,7 +1,6 @@
 package eden.historical.categorization.rules
 
-import eden.historical.categorization.Categorization
-import eden.historical.categorization.withConfidence
+import eden.historical.categorization.*
 import eden.historical.models.BookMetadata
 import eden.historical.models.Century
 
@@ -13,10 +12,11 @@ class CenturyRegexRule : RegexRule(buildRegex()) {
         }
     }.toMap()
 
-    override fun handleMatch(match: MatchResult, book: BookMetadata, fullText: String): Categorization {
+    override fun handleMatch(match: MatchResult, book: BookMetadata, fullText: String): AppliedCategorization {
         val century = lookup[match.value]
             ?: throw Exception("Unable to find century '${match.value}' in lookup")
         return Categorization(period = century.period withConfidence 0.75f)
+            .withReasoning(this, match.getSurroundingContext(fullText))
     }
 
     companion object {

@@ -1,6 +1,8 @@
 package eden.historical.categorization.rules
 
+import eden.historical.categorization.AppliedCategorization
 import eden.historical.categorization.Categorization
+import eden.historical.categorization.withReasoning
 import eden.historical.models.BookMetadata
 import eden.historical.models.Century
 
@@ -8,13 +10,13 @@ object CenturyTagRule : Rule {
     private val lookup = Century.ofInterest.associateBy { "${it.ordinalAsNumber} Century" to it }
     private val terms = lookup.keys.toSet()
 
-    override fun apply(book: BookMetadata): Categorization? {
+    override fun apply(book: BookMetadata): AppliedCategorization? {
         val intersection = book.tags.intersect(terms)
         // TODO: Return all matches that result in unique countries?
         return intersection.firstOrNull()?.let {
             val century = lookup[it]
                 ?: throw Exception("Unable to find century '$it' in lookup")
-            Categorization(period = century.period)
+            Categorization(period = century.period).withReasoning(this, intersection)
         }
     }
 }

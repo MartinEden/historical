@@ -6,7 +6,7 @@ import eden.historical.models.countries.Country
 
 class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
     private val rules = sequence {
-        val civilWarPeriod = Period.Range("American Civil War", 1861, 1865)
+        yield(DefaultRule)
 
         yield(SourceYearRule)
         yield(TheYearIsRule)
@@ -114,7 +114,7 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
                     SearchTerm("Gettysburg", 0.2f)
                 ),
                 Categorization(
-                    period = civilWarPeriod withConfidence 0.9f,
+                    period = Period.Range("American Civil War", 1861, 1865) withConfidence 0.9f,
                     place = countries.single { it.iso3 == "USA" }.asPlace() withConfidence 0.25f
                 )
             )
@@ -163,18 +163,12 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
 //        }
     }
 
-    private val defaultCategorization = Categorization(
-        Period.Unknown withConfidence 0f,
-        Place.Unknown withConfidence 0f
-    )
-
     override fun categorize(book: BookMetadata): CategorizedBook {
-        val realCandidates = rules.mapNotNull { it.apply(book) }
-        val candidates = realCandidates + defaultCategorization
+        val candidates = rules.mapNotNull { it.apply(book) }
 
         // TODO: take smallest intersection? e.g. 15th century / tudor
         val period = candidates
-            .mapNotNull { it.period }
+            .mapNotNull { it.categorization.period }
             .highestConfidenceInfo()
             .sortedWith(Period.Specificity())
             .firstOrNull() ?: Period.Unknown
@@ -182,9 +176,9 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
         // TODO: distinguish places by specificity
         // TODO: merge places when there are multiple conflicting places of equal weight. e.g. multiple states -> USA
         val place = candidates
-            .mapNotNull { it.place }
+            .mapNotNull { it.categorization.place }
             .highestConfidenceInfo()
             .first()
-        return CategorizedBook(book.book, period, place, realCandidates)
+        return CategorizedBook(book.book, period, place, candidates)
     }
 }

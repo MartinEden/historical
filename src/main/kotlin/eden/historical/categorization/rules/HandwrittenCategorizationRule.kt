@@ -3,6 +3,7 @@ package eden.historical.categorization.rules
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import eden.historical.categorization.Categorization
+import eden.historical.categorization.withReasoning
 import eden.historical.models.BookMetadata
 import eden.historical.models.Period
 import eden.historical.models.Place
@@ -25,7 +26,7 @@ class HandwrittenCategorizationRule : Rule {
         }
     }
 
-    override fun apply(book: BookMetadata) = extraCategorizations[book.book.id]
+    override fun apply(book: BookMetadata) = extraCategorizations[book.book.id]?.withReasoning(this, "")
 }
 
 private data class ManualBookData(val id: String, val period: Period.Range?, val place: Place.Area?)

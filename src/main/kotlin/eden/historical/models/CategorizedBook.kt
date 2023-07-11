@@ -1,12 +1,12 @@
 package eden.historical.models
 
-import eden.historical.categorization.Categorization
+import eden.historical.categorization.AppliedCategorization
 
 data class CategorizedBook(
     val book: Book,
     val period: Period,
     val place: Place,    // TODO: This should be a collection of Places
-    val alternativeCategorizations: List<Categorization>,
+    val alternativeCategorizations: List<AppliedCategorization>,
 ) {
     val title
         get() = book.title

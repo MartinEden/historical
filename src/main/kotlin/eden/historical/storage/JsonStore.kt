@@ -7,7 +7,6 @@ import java.io.File
 import java.nio.file.Paths
 import kotlin.io.path.absolutePathString
 
-// TODO: Output reasoning
 class JsonStore : Store {
     private val books = mutableListOf<CategorizedBook>()
     //private val nowAsString = LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH.mm.ss"))

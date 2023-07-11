@@ -1,5 +1,6 @@
 package eden.historical.categorization.rules
 
+import eden.historical.categorization.AppliedCategorization
 import eden.historical.categorization.Categorization
 import eden.historical.models.BookMetadata
 
@@ -8,7 +9,7 @@ abstract class RegexRule(private val regex: Regex) : Rule {
 //        println(regex.pattern)
 //    }
 
-    override fun apply(book: BookMetadata): Categorization? {
+    override fun apply(book: BookMetadata): AppliedCategorization? {
         val match = regex.find(book.synopsis)
         if (match != null) {
             return handleMatch(match, book, book.synopsis)
@@ -27,5 +28,5 @@ abstract class RegexRule(private val regex: Regex) : Rule {
         match: MatchResult,
         book: BookMetadata,
         fullText: String    // This is the full string that was searched to get this MatchResult
-    ): Categorization?
+    ): AppliedCategorization?
 }

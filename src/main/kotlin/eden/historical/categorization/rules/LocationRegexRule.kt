@@ -1,7 +1,6 @@
 package eden.historical.categorization.rules
 
-import eden.historical.categorization.Categorization
-import eden.historical.categorization.withConfidence
+import eden.historical.categorization.*
 import eden.historical.models.BookMetadata
 import eden.historical.models.countries.Country
 
@@ -14,10 +13,11 @@ class LocationRegexRule(val countries: List<Country>): RegexRule(buildRegex(coun
         }
     }.toMap()
 
-    override fun handleMatch(match: MatchResult, book: BookMetadata, fullText: String): Categorization {
+    override fun handleMatch(match: MatchResult, book: BookMetadata, fullText: String): AppliedCategorization {
         val country = lookup[match.value]
             ?: throw Exception("Unable to find country '${match.value}' in lookup")
         return Categorization(place = country.asPlace() withConfidence 0.25f)
+            .withReasoning(this, match.getSurroundingContext(fullText))
     }
 
     companion object {
