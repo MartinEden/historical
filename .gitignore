@@ -18,3 +18,5 @@ out/
 !**/src/test/**/out/
 !**/src/main/**/build/
 !**/src/test/**/build/
+
+output/output.json

@@ -179,6 +179,11 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
             .mapNotNull { it.categorization.place }
             .highestConfidenceInfo()
             .first()
-        return CategorizedBook(book.book, period, place, candidates)
+
+        val alternativeCategorizations = candidates
+            .filter { it.categorization.totalConfidence > 0 }
+            .sortedByDescending { it.categorization.totalConfidence }
+
+        return CategorizedBook(book.book, period, place, alternativeCategorizations)
     }
 }

@@ -13,6 +13,8 @@ data class Categorization(
         place?.let { InfoWithConfidence(place) }
     )
 
+    val totalConfidence = listOfNotNull(0f, period?.confidence, place?.confidence).sum()
+
     fun weightedBy(confidenceMultiplier: Float) = Categorization(
         period = this.period?.weightedBy(confidenceMultiplier),
         place = this.place?.weightedBy(confidenceMultiplier)

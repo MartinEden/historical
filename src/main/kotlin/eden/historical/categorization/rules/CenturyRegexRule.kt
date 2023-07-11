@@ -12,11 +12,17 @@ class CenturyRegexRule : RegexRule(buildRegex()) {
         }
     }.toMap()
 
-    override fun handleMatch(match: MatchResult, book: BookMetadata, fullText: String): AppliedCategorization {
+    override fun handleMatch(match: MatchResult, fullText: String): Categorization? {
         val century = lookup[match.value]
             ?: throw Exception("Unable to find century '${match.value}' in lookup")
-        return Categorization(period = century.period withConfidence 0.75f)
-            .withReasoning(this, match.getSurroundingContext(fullText))
+        val redHerringRegexes = listOf(
+            Regex("""works of the ${match.value}""")
+        )
+        return if (redHerringRegexes.any { it in fullText }) {
+            null
+        } else {
+            return Categorization(period = century.period withConfidence 0.75f)
+        }
     }
 
     companion object {

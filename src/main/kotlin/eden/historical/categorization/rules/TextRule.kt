@@ -18,18 +18,18 @@ open class TextRule(terms: Set<SearchTerm>, private val categorization: Categori
             val cat = categorization.weightedBy(term.confidenceMultiplier)
             if (term.text in book.tags) {
                 return cat
-                    .withReasoning(this, "Term '$term' is in tags: ${book.tags}")
+                    .withReasoning(this, "Term ($term) is in tags: ${book.tags}")
             }
             if (term.text in book.places) {
                 return cat
-                    .withReasoning(this, "Term '$term' is in place data: ${book.places}")
+                    .withReasoning(this, "Term ($term) is in place data: ${book.places}")
             }
 
             val match = term.regex.find(book.synopsis)
             if (match != null) {
                 return cat
                     .weightedBy(0.25f)
-                    .withReasoning(this, "Term '$term' is in synopsis: ${match.getSurroundingContext(book.synopsis)}")
+                    .withReasoning(this, "Term ($term) is in synopsis: ${match.getSurroundingContext(book.synopsis)}")
             }
 
             for (review in book.reviews) {
@@ -37,7 +37,7 @@ open class TextRule(terms: Set<SearchTerm>, private val categorization: Categori
                 if (reviewMatch != null) {
                     return cat
                         .weightedBy(0.1f)
-                        .withReasoning(this, "Term '$term' is in review: ${reviewMatch.getSurroundingContext(review)}")
+                        .withReasoning(this, "Term ($term) is in review: ${reviewMatch.getSurroundingContext(review)}")
                 }
             }
         }
