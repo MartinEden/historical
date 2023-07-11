@@ -46,12 +46,6 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
         )
         yield(
             TextRule(
-                "Scotland",
-                Categorization(place = Place.Area("Scotland", emptyList()))
-            )
-        )
-        yield(
-            TextRule(
                 "Tudor Period",
                 Categorization(period = Period.Range("Tudor", 1485, 1603))
             )
@@ -165,7 +159,7 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
     }
 
     override fun categorize(book: BookMetadata): CategorizedBook {
-        val candidates = rules.mapNotNull { it.apply(book) }
+        val candidates = rules.flatMap { it.apply(book) }
 
         // TODO: take smallest intersection? e.g. 15th century / tudor
         val period = candidates

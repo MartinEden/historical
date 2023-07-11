@@ -17,10 +17,9 @@ class LocationSourceDataRule(val countries: List<Country>): Rule {
     }.toMap()
     private val allNames = lookup.keys
 
-    override fun apply(book: BookMetadata): AppliedCategorization? {
+    override fun apply(book: BookMetadata): Iterable<AppliedCategorization> {
         val intersection = book.places.intersect(allNames)
-        // TODO: Return all matches that result in unique countries?
-        return intersection.firstOrNull()?.let {
+        return intersection.map {
             val country = lookup[it]
                 ?: throw Exception("Unable to find country '$it' in lookup")
             Categorization(place = country.asPlace())

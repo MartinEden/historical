@@ -10,5 +10,5 @@ object DefaultRule : Rule {
         .weightedBy(0f)
         .withReasoning(this, "")
 
-    override fun apply(book: BookMetadata) = categorization
+    override fun apply(book: BookMetadata) = listOf(categorization)
 }

@@ -7,11 +7,10 @@ import eden.historical.models.BookMetadata
 import eden.historical.models.Period
 
 object SourceYearRule : Rule {
-    override fun apply(book: BookMetadata): AppliedCategorization? {
-        val year = book.years.firstOrNull()
-        return if (year != null) {
+    override fun apply(book: BookMetadata): Iterable<AppliedCategorization> {
+        return book.years.map { year ->
             Categorization(period = Period.Range(year.toString(), year, year))
                 .withReasoning(this, "Year data from Goodreads: ${book.years}")
-        } else null
+        }
     }
 }

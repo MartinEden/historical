@@ -9,20 +9,26 @@ import eden.historical.models.BookMetadata
 open class TextRule(terms: Set<SearchTerm>, private val categorization: Categorization) : Rule {
     private val terms = terms.sortedByDescending { it.confidenceMultiplier }
 
-    constructor(term: String, categorization: Categorization)
-            : this(setOf(SearchTerm(term, 1f)), categorization)
+    constructor(term: String, categorization: Categorization) : this(setOf(SearchTerm(term, 1f)), categorization)
 
     // TODO: Consider returning multiple categorizations, and later we can sort them out by confidence/specificity
-    override fun apply(book: BookMetadata): AppliedCategorization? {
-        for (term in terms) {
-            val cat = categorization.weightedBy(term.confidenceMultiplier)
+    override fun apply(book: BookMetadata): Iterable<AppliedCategorization> {
+        return terms.flatMap { applyTerm(it, book) }
+    }
+
+    private fun applyTerm(term: SearchTerm, book: BookMetadata): Sequence<AppliedCategorization> {
+        val rule = this
+        val cat = categorization.weightedBy(term.confidenceMultiplier)
+        return sequence {
             if (term.text in book.tags) {
-                return cat
-                    .withReasoning(this, "Term ($term) is in tags: ${book.tags}")
+                yield(
+                    cat.withReasoning(rule, "Term ($term) is in tags: ${book.tags}")
+                )
             }
             if (term.text in book.places) {
-                return cat
-                    .withReasoning(this, "Term ($term) is in place data: ${book.places}")
+                yield(
+                    cat.withReasoning(rule, "Term ($term) is in place data: ${book.places}")
+                )
             }
 //            if (term.text in book.book.title) {
 //                return cat
@@ -32,21 +38,21 @@ open class TextRule(terms: Set<SearchTerm>, private val categorization: Categori
 
             val match = term.regex.find(book.synopsis)
             if (match != null) {
-                return cat
-                    .weightedBy(0.25f)
-                    .withReasoning(this, "Term ($term) is in synopsis: ${match.getSurroundingContext(book.synopsis)}")
+                yield(
+                    cat.weightedBy(0.25f).withReasoning(
+                        rule, "Term ($term) is in synopsis: ${match.getSurroundingContext(book.synopsis)}"
+                    )
+                )
             }
 
-            for (review in book.reviews) {
+            yieldAll(book.reviews.mapNotNull { review ->
                 val reviewMatch = term.regex.find(review)
                 if (reviewMatch != null) {
-                    return cat
-                        .weightedBy(0.1f)
-                        .withReasoning(this, "Term ($term) is in review: ${reviewMatch.getSurroundingContext(review)}")
-                }
-            }
+                    cat.weightedBy(0.1f)
+                        .withReasoning(rule, "Term ($term) is in review: ${reviewMatch.getSurroundingContext(review)}")
+                } else null
+            })
         }
-        return null
     }
 }
 

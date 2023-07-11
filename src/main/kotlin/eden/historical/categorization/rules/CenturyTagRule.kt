@@ -10,10 +10,9 @@ object CenturyTagRule : Rule {
     private val lookup = Century.ofInterest.associateBy { "${it.ordinalAsNumber} Century" to it }
     private val terms = lookup.keys.toSet()
 
-    override fun apply(book: BookMetadata): AppliedCategorization? {
+    override fun apply(book: BookMetadata): Iterable<AppliedCategorization> {
         val intersection = book.tags.intersect(terms)
-        // TODO: Return all matches that result in unique countries?
-        return intersection.firstOrNull()?.let {
+        return intersection.map {
             val century = lookup[it]
                 ?: throw Exception("Unable to find century '$it' in lookup")
             Categorization(period = century.period).withReasoning(this, intersection)

@@ -14,7 +14,7 @@ A Long Petal of the Sea by Allende, Isabel
 1930s (1930 - 1940)
 Spain
 The House of the Spirits by Allende, Isabel; Bogin, Magda
-1930s (1930 - 1940)
+20th Century (1900 - 1999)
 Chile
 Daughter of Fortune by Allende, Isabel; Peden, Margaret Sayers
 1849 (1849)
@@ -93,7 +93,7 @@ World War II (1939 - 1945)
 Europe
 The Other Einstein by Benedict, Marie
 19th Century (1800 - 1899)
-New York
+Switzerland
 The Personal Librarian by Benedict, Marie; Murray, Victoria Christopher
 1905 (1905)
 New York
@@ -264,7 +264,7 @@ Sword Song by Cornwell, Bernard
 England
 The Archer's Tale by Cornwell, Bernard
 1343 (1343)
-New York
+France
 The Burning Land by Cornwell, Bernard
 9th Century (800 - 899)
 England
@@ -311,7 +311,7 @@ The Boston Girl by Diamant, Anita
 20th Century (1900 - 1999)
 Massachusetts
 The Red Tent by Diamant, Anita
-20th Century (1900 - 1999)
+2017 (2017)
 Israel
 Great Expectations by Dickens, Charles; Flint, Kate; Cardwell, Margaret
 19th Century (1800 - 1899)
@@ -522,7 +522,7 @@ Tudor (1485 - 1603)
 England
 The King's Curse by Gregory, Philippa
 Tudor (1485 - 1603)
-Scotland
+England
 The Kingmaker's Daughter by Gregory, Philippa
 15th Century (1400 - 1499)
 England
@@ -558,10 +558,10 @@ The White Queen by Gregory, Philippa
 England
 Three Sisters, Three Queens by Gregory, Philippa
 Tudor (1485 - 1603)
-Scotland
+England
 Hild by Griffith, Nicola
 7th Century (600 - 699)
-Scotland
+England
 The Kitchen House by Grissom, Kathleen
 American Civil War (1861 - 1865)
 Virginia
@@ -588,7 +588,7 @@ The Familiars by Halls, Stacey
 England
 My Lady Jane by Hand, Cynthia; Ashton, Brodi; Meadows, Jodi
 Tudor (1485 - 1603)
-New York
+England
 The Four Winds by Hannah, Kristin
 1934 (1934)
 Texas
@@ -644,7 +644,7 @@ A Farewell to Arms by Hemingway, Ernest
 1917 (1917)
 Italy
 Out of the Dust by Hesse, Karen
-Great Depresion (1929 - 1939)
+Great Depression (1929 - 1939)
 United States of America
 Girl in the Blue Coat by Hesse, Monica
 World War II (1939 - 1945)
@@ -683,7 +683,7 @@ Their Eyes Were Watching God by Hurston, Zora Neale
 1928 (1928)
 Florida
 Genghis: Birth of an Empire by Iggulden, Conn
-12th Century (1100 - 1199)
+13th Century (1200 - 1299)
 Mongolia
 The Gates of Rome by Iggulden, Conn
 Roman Empire (27BC - 476)
@@ -990,7 +990,7 @@ Master and Commander by O'Brian, Patrick
 Spain
 The Things They Carried by O'Brien, Tim
 1990 (1990)
-Europe
+Iraq
 Island of the Blue Dolphins by O'Dell, Scott
 19th Century (1800 - 1899)
 California
@@ -1133,7 +1133,7 @@ Echo by Ryan, Pam Muñoz
 World War II (1939 - 1945)
 Germany
 Esperanza Rising by Ryan, Pam Muñoz
-Great Depresion (1929 - 1939)
+Great Depression (1929 - 1939)
 Mexico
 Dissolution by Sansom, C.J.
 1573 (1573)
@@ -1250,7 +1250,7 @@ The Joy Luck Club by Tan, Amy
 1949 (1949)
 California
 Roll of Thunder, Hear My Cry by Taylor, Mildred D.
-Great Depresion (1929 - 1939)
+Great Depression (1929 - 1939)
 Mississippi
 A Study in Scarlet Women by Thomas, Sherry
 Regency (1795 - 1837)
@@ -1289,7 +1289,7 @@ Exodus by Uris, Leon
 1946 (1946)
 Israel
 Moon Over Manifest by Vanderpool, Clare
-Great Depresion (1929 - 1939)
+Great Depression (1929 - 1939)
 Kansas
 Cutting for Stone by Verghese, Abraham
 19th Century (1800 - 1899)
