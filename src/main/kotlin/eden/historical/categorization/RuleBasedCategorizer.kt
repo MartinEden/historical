@@ -11,7 +11,8 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
         yield(TheYearIsRule)
         yield(AnyYearRule)
         yield(DecadeRule)
-        yieldAll(CenturyRule.all)
+        yield(CenturyTagRule)
+        yield(CenturyRegexRule())
 
         yield(LocationSourceDataRule(countries))
         yield(LocationRegexRule(countries))
@@ -155,10 +156,10 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
 
     override fun begin() {
         println("${rules.size} rules loaded")
-        println("By type, there are:")
-        for (group in rules.groupBy { it::class }.entries.sortedByDescending { it.value.size }) {
-            println("${group.key.simpleName}: ${group.value.size}")
-        }
+//        println("By type, there are:")
+//        for (group in rules.groupBy { it::class }.entries.sortedByDescending { it.value.size }) {
+//            println("${group.key.simpleName}: ${group.value.size}")
+//        }
     }
 
     private val defaultCategorization = Categorization(

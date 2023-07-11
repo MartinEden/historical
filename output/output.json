@@ -44,6 +44,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -209,6 +220,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -299,6 +321,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.7
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -413,7 +446,7 @@
             "end": 1999,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -496,6 +529,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -571,6 +615,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -643,6 +698,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "18th Century",
+            "start": 1700,
+            "end": 1799,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -759,6 +825,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "18th Century",
+            "start": 1700,
+            "end": 1799,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -809,6 +886,17 @@
             "lengthInYears": 0
           },
           "confidence": 0.025
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "14th Century",
+            "start": 1300,
+            "end": 1399,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -895,6 +983,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -1002,6 +1101,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -1095,6 +1205,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -1174,6 +1295,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -1359,10 +1491,10 @@
       ]
     },
     "period": {
-      "name": "19th Century",
-      "start": 1800,
-      "end": 1899,
-      "lengthInYears": 99
+      "name": "Regency",
+      "start": 1795,
+      "end": 1837,
+      "lengthInYears": 42
     },
     "place": {
       "coords": [],
@@ -1388,7 +1520,7 @@
             "end": 1899,
             "lengthInYears": 99
           },
-          "confidence": 1.0
+          "confidence": 0.075
         }
       },
       {
@@ -1460,10 +1592,10 @@
       ]
     },
     "period": {
-      "name": "19th Century",
-      "start": 1800,
-      "end": 1899,
-      "lengthInYears": 99
+      "name": "1816",
+      "start": 1816,
+      "end": 1816,
+      "lengthInYears": 0
     },
     "place": {
       "coords": [],
@@ -1500,7 +1632,7 @@
             "end": 1899,
             "lengthInYears": 99
           },
-          "confidence": 1.0
+          "confidence": 0.075
         }
       },
       {
@@ -1583,6 +1715,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -1654,10 +1797,10 @@
       ]
     },
     "period": {
-      "name": "19th Century",
-      "start": 1800,
-      "end": 1899,
-      "lengthInYears": 99
+      "name": "Regency",
+      "start": 1795,
+      "end": 1837,
+      "lengthInYears": 42
     },
     "place": {
       "coords": [],
@@ -1683,7 +1826,7 @@
             "end": 1899,
             "lengthInYears": 99
           },
-          "confidence": 1.0
+          "confidence": 0.075
         }
       },
       {
@@ -1791,6 +1934,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -1841,6 +1995,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "18th Century",
+            "start": 1700,
+            "end": 1799,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -1990,6 +2155,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -2075,6 +2251,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -2179,6 +2366,17 @@
             "lengthInYears": 0
           },
           "confidence": 0.025
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -2698,6 +2896,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -2939,6 +3148,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -3136,6 +3356,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -3218,7 +3449,7 @@
             "end": 1899,
             "lengthInYears": 99
           },
-          "confidence": 1.0
+          "confidence": 0.075
         }
       },
       {
@@ -3279,10 +3510,10 @@
       ]
     },
     "period": {
-      "name": "19th Century",
-      "start": 1800,
-      "end": 1899,
-      "lengthInYears": 99
+      "name": "1847",
+      "start": 1847,
+      "end": 1847,
+      "lengthInYears": 0
     },
     "place": {
       "coords": [],
@@ -3319,7 +3550,7 @@
             "end": 1899,
             "lengthInYears": 99
           },
-          "confidence": 1.0
+          "confidence": 0.075
         }
       },
       {
@@ -3405,7 +3636,7 @@
             "end": 1699,
             "lengthInYears": 99
           },
-          "confidence": 1.0
+          "confidence": 0.075
         }
       },
       {
@@ -3470,6 +3701,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -3564,7 +3806,7 @@
             "end": 1499,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -3699,6 +3941,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "17th Century",
+            "start": 1600,
+            "end": 1699,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -3771,6 +4024,17 @@
             "lengthInYears": 0
           },
           "confidence": 0.025
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "3rd Century",
+            "start": 200,
+            "end": 299,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -3868,6 +4132,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -3982,7 +4257,7 @@
             "end": 1699,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -4058,6 +4333,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -4165,6 +4451,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -4247,7 +4544,7 @@
             "end": 1899,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -4312,6 +4609,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -4394,6 +4702,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -4508,7 +4827,7 @@
             "end": 1699,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -4600,12 +4919,12 @@
       {
         "period": {
           "info": {
-            "name": "19th Century",
-            "start": 1800,
-            "end": 1899,
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
             "lengthInYears": 99
           },
-          "confidence": 1.0
+          "confidence": 0.075
         }
       },
       {
@@ -4710,6 +5029,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "15th Century",
+            "start": 1400,
+            "end": 1499,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -4892,6 +5222,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -4994,6 +5335,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -5086,6 +5438,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -5200,7 +5563,7 @@
             "end": 1699,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -5401,6 +5764,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -5462,6 +5836,17 @@
             "lengthInYears": 0
           },
           "confidence": 0.025
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -5558,6 +5943,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "15th Century",
+            "start": 1400,
+            "end": 1499,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -5629,7 +6025,7 @@
             "end": 899,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -5726,6 +6122,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "9th Century",
+            "start": 800,
+            "end": 899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -5786,7 +6193,7 @@
             "end": 899,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -5832,10 +6239,10 @@
       ]
     },
     "period": {
-      "name": "9th and 10th centuries",
-      "start": 800,
-      "end": 999,
-      "lengthInYears": 199
+      "name": "Medieval",
+      "start": 500,
+      "end": 1500,
+      "lengthInYears": 1000
     },
     "place": {
       "coords": [],
@@ -5867,12 +6274,12 @@
       {
         "period": {
           "info": {
-            "name": "9th and 10th centuries",
+            "name": "9th Century",
             "start": 800,
-            "end": 999,
-            "lengthInYears": 199
+            "end": 899,
+            "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.075
         }
       },
       {
@@ -5918,10 +6325,10 @@
       ]
     },
     "period": {
-      "name": "9th and 10th centuries",
-      "start": 800,
-      "end": 999,
-      "lengthInYears": 199
+      "name": "Medieval",
+      "start": 500,
+      "end": 1500,
+      "lengthInYears": 1000
     },
     "place": {
       "coords": [],
@@ -5953,12 +6360,12 @@
       {
         "period": {
           "info": {
-            "name": "9th and 10th centuries",
+            "name": "9th Century",
             "start": 800,
-            "end": 999,
-            "lengthInYears": 199
+            "end": 899,
+            "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.075
         }
       },
       {
@@ -6023,6 +6430,17 @@
             "lengthInYears": 0
           },
           "confidence": 0.025
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "5th Century",
+            "start": 400,
+            "end": 499,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -6114,6 +6532,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "9th Century",
+            "start": 800,
+            "end": 899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -6185,7 +6614,7 @@
             "end": 899,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -6465,6 +6894,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "14th Century",
+            "start": 1300,
+            "end": 1399,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -6612,12 +7052,12 @@
       {
         "period": {
           "info": {
-            "name": "19th Century",
-            "start": 1800,
-            "end": 1899,
+            "name": "18th Century",
+            "start": 1700,
+            "end": 1799,
             "lengthInYears": 99
           },
-          "confidence": 1.0
+          "confidence": 0.075
         }
       },
       {
@@ -6814,6 +7254,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "1st Century",
+            "start": 1,
+            "end": 100,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -6947,6 +7398,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -7022,6 +7484,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "18th Century",
+            "start": 1700,
+            "end": 1799,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -7083,6 +7556,17 @@
             "lengthInYears": 0
           },
           "confidence": 0.025
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -7161,6 +7645,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -7196,10 +7691,10 @@
       ]
     },
     "period": {
-      "name": "18th Century",
-      "start": 1700,
-      "end": 1799,
-      "lengthInYears": 99
+      "name": "1789",
+      "start": 1789,
+      "end": 1789,
+      "lengthInYears": 0
     },
     "place": {
       "coords": [],
@@ -7242,12 +7737,12 @@
       {
         "period": {
           "info": {
-            "name": "18th Century",
-            "start": 1700,
-            "end": 1799,
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
             "lengthInYears": 99
           },
-          "confidence": 1.0
+          "confidence": 0.075
         }
       },
       {
@@ -7474,6 +7969,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -7557,6 +8063,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -7628,7 +8145,7 @@
             "end": 1499,
             "lengthInYears": 99
           },
-          "confidence": 1.0
+          "confidence": 0.075
         }
       },
       {
@@ -7726,6 +8243,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -7837,6 +8365,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "14th Century",
+            "start": 1300,
+            "end": 1399,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -7934,6 +8473,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -8017,6 +8567,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -8138,7 +8699,7 @@
             "end": 1899,
             "lengthInYears": 99
           },
-          "confidence": 1.0
+          "confidence": 0.075
         }
       },
       {
@@ -8173,10 +8734,10 @@
       ]
     },
     "period": {
-      "name": "19th Century",
-      "start": 1800,
-      "end": 1899,
-      "lengthInYears": 99
+      "name": "1875",
+      "start": 1875,
+      "end": 1875,
+      "lengthInYears": 0
     },
     "place": {
       "coords": [],
@@ -8213,7 +8774,7 @@
             "end": 1899,
             "lengthInYears": 99
           },
-          "confidence": 1.0
+          "confidence": 0.075
         }
       },
       {
@@ -8392,10 +8953,10 @@
       ]
     },
     "period": {
-      "name": "1920s",
-      "start": 1920,
-      "end": 1930,
-      "lengthInYears": 10
+      "name": "20th Century",
+      "start": 1900,
+      "end": 1999,
+      "lengthInYears": 99
     },
     "place": {
       "coords": [],
@@ -8432,7 +8993,7 @@
             "end": 1999,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -8519,6 +9080,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "16th Century",
+            "start": 1500,
+            "end": 1599,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -8632,6 +9204,17 @@
             "lengthInYears": 0
           },
           "confidence": 0.25
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -8757,6 +9340,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "16th Century",
+            "start": 1500,
+            "end": 1599,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -8839,7 +9433,7 @@
             "end": 1199,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -8942,6 +9536,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -9056,6 +9661,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "14th Century",
+            "start": 1300,
+            "end": 1399,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -9142,7 +9758,7 @@
             "end": 1999,
             "lengthInYears": 99
           },
-          "confidence": 1.0
+          "confidence": 0.75
         }
       },
       {
@@ -9243,6 +9859,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -9322,6 +9949,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.7
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -9484,6 +10122,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "12th Century",
+            "start": 1100,
+            "end": 1199,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -9555,7 +10204,7 @@
             "end": 1899,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -9670,18 +10319,7 @@
             "end": 1799,
             "lengthInYears": 99
           },
-          "confidence": 0.5
-        }
-      },
-      {
-        "period": {
-          "info": {
-            "name": "20th Century",
-            "start": 1900,
-            "end": 1999,
-            "lengthInYears": 99
-          },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -9773,6 +10411,17 @@
             "lengthInYears": 0
           },
           "confidence": 0.25
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -9885,7 +10534,7 @@
             "end": 1799,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -9988,6 +10637,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "18th Century",
+            "start": 1700,
+            "end": 1799,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -10104,6 +10764,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "18th Century",
+            "start": 1700,
+            "end": 1799,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -10217,6 +10888,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "18th Century",
+            "start": 1700,
+            "end": 1799,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -10326,7 +11008,7 @@
             "end": 1799,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -10439,7 +11121,7 @@
             "end": 1999,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -10549,6 +11231,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.35
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -10709,6 +11402,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -10781,6 +11485,17 @@
             "lengthInYears": 0
           },
           "confidence": 0.25
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -11056,7 +11771,7 @@
             "end": 1799,
             "lengthInYears": 99
           },
-          "confidence": 1.0
+          "confidence": 0.075
         }
       },
       {
@@ -11168,6 +11883,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -11368,6 +12094,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "15th Century",
+            "start": 1400,
+            "end": 1499,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -11428,10 +12165,10 @@
       ]
     },
     "period": {
-      "name": "16th Century",
-      "start": 1500,
-      "end": 1599,
-      "lengthInYears": 99
+      "name": "Tudor",
+      "start": 1485,
+      "end": 1603,
+      "lengthInYears": 118
     },
     "place": {
       "coords": [],
@@ -11452,12 +12189,12 @@
       {
         "period": {
           "info": {
-            "name": "16th Century",
-            "start": 1500,
-            "end": 1599,
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
             "lengthInYears": 99
           },
-          "confidence": 1.0
+          "confidence": 0.075
         }
       },
       {
@@ -11543,7 +12280,7 @@
             "end": 1499,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -11619,6 +12356,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "15th Century",
+            "start": 1400,
+            "end": 1499,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -11744,6 +12492,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "16th Century",
+            "start": 1500,
+            "end": 1599,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -11816,6 +12575,17 @@
             "lengthInYears": 0
           },
           "confidence": 0.025
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "16th Century",
+            "start": 1500,
+            "end": 1599,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -11905,6 +12675,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "16th Century",
+            "start": 1500,
+            "end": 1599,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -11989,6 +12770,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "16th Century",
+            "start": 1500,
+            "end": 1599,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -12042,10 +12834,10 @@
       ]
     },
     "period": {
-      "name": "15th Century",
-      "start": 1400,
-      "end": 1499,
-      "lengthInYears": 99
+      "name": "Tudor",
+      "start": 1485,
+      "end": 1603,
+      "lengthInYears": 118
     },
     "place": {
       "coords": [],
@@ -12071,7 +12863,7 @@
             "end": 1499,
             "lengthInYears": 99
           },
-          "confidence": 1.0
+          "confidence": 0.075
         }
       },
       {
@@ -12119,10 +12911,10 @@
       ]
     },
     "period": {
-      "name": "16th Century",
-      "start": 1500,
-      "end": 1599,
-      "lengthInYears": 99
+      "name": "Tudor",
+      "start": 1485,
+      "end": 1603,
+      "lengthInYears": 118
     },
     "place": {
       "coords": [],
@@ -12138,17 +12930,6 @@
             "lengthInYears": 0
           },
           "confidence": 0.025
-        }
-      },
-      {
-        "period": {
-          "info": {
-            "name": "16th Century",
-            "start": 1500,
-            "end": 1599,
-            "lengthInYears": 99
-          },
-          "confidence": 1.0
         }
       },
       {
@@ -12222,6 +13003,17 @@
             "lengthInYears": 0
           },
           "confidence": 0.025
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -12308,6 +13100,17 @@
             "lengthInYears": 0
           },
           "confidence": 0.025
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "16th Century",
+            "start": 1500,
+            "end": 1599,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -12412,6 +13215,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "18th Century",
+            "start": 1700,
+            "end": 1799,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -12523,6 +13337,17 @@
             "lengthInYears": 0
           },
           "confidence": 0.025
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "12th Century",
+            "start": 1100,
+            "end": 1199,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -12796,18 +13621,7 @@
             "end": 1799,
             "lengthInYears": 99
           },
-          "confidence": 0.5
-        }
-      },
-      {
-        "period": {
-          "info": {
-            "name": "20th Century",
-            "start": 1900,
-            "end": 1999,
-            "lengthInYears": 99
-          },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -12890,6 +13704,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -12987,6 +13812,17 @@
             "lengthInYears": 0
           },
           "confidence": 0.025
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "16th Century",
+            "start": 1500,
+            "end": 1599,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -13458,6 +14294,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "17th Century",
+            "start": 1600,
+            "end": 1699,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -13580,7 +14427,7 @@
             "end": 1799,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -13674,6 +14521,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "21th Century",
+            "start": 2000,
+            "end": 2099,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -13874,6 +14732,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -13915,6 +14784,17 @@
             "lengthInYears": 0
           },
           "confidence": 0.025
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -14006,7 +14886,7 @@
             "end": 1699,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -14060,6 +14940,17 @@
             "lengthInYears": 0
           },
           "confidence": 0.025
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "5th Century",
+            "start": 400,
+            "end": 499,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -14160,6 +15051,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -14402,6 +15304,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "18th Century",
+            "start": 1700,
+            "end": 1799,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -14524,6 +15437,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "1st Century",
+            "start": 1,
+            "end": 100,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -14577,9 +15501,9 @@
       ]
     },
     "period": {
-      "name": "20th Century",
-      "start": 1900,
-      "end": 1999,
+      "name": "17th Century",
+      "start": 1600,
+      "end": 1699,
       "lengthInYears": 99
     },
     "place": {
@@ -14607,6 +15531,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "17th Century",
+            "start": 1600,
+            "end": 1699,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -14693,6 +15628,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -14876,6 +15822,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -14947,7 +15904,7 @@
             "end": 1999,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -15033,6 +15990,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -15101,6 +16069,17 @@
             "lengthInYears": 0
           },
           "confidence": 0.025
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "13th Century",
+            "start": 1200,
+            "end": 1299,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -15258,6 +16237,17 @@
             "lengthInYears": 0
           },
           "confidence": 0.25
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -15752,6 +16742,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -16091,6 +17092,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "18th Century",
+            "start": 1700,
+            "end": 1799,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -16268,6 +17280,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -16318,6 +17341,17 @@
             "lengthInYears": 0
           },
           "confidence": 0.025
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "1st Century",
+            "start": 1,
+            "end": 100,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -16405,7 +17439,7 @@
             "end": 1899,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -16758,6 +17792,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -16987,7 +18032,7 @@
             "end": 1899,
             "lengthInYears": 99
           },
-          "confidence": 1.0
+          "confidence": 0.75
         }
       },
       {
@@ -17072,6 +18117,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -17236,6 +18292,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -17307,7 +18374,7 @@
             "end": 1999,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -17413,6 +18480,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "13th Century",
+            "start": 1200,
+            "end": 1299,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -17485,6 +18563,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.35
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -17581,6 +18670,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -17656,6 +18756,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "18th Century",
+            "start": 1700,
+            "end": 1799,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -17728,6 +18839,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "18th Century",
+            "start": 1700,
+            "end": 1799,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -17812,6 +18934,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.7
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -17908,6 +19041,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -17998,6 +19142,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -18158,6 +19313,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -18233,6 +19399,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -18304,7 +19481,7 @@
             "end": 1599,
             "lengthInYears": 99
           },
-          "confidence": 1.0
+          "confidence": 0.075
         }
       },
       {
@@ -18414,6 +19591,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "16th Century",
+            "start": 1500,
+            "end": 1599,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -18508,6 +19696,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.7
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "16th Century",
+            "start": 1500,
+            "end": 1599,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -18640,7 +19839,7 @@
             "end": 1999,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -18733,7 +19932,7 @@
             "end": 1999,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -18828,6 +20027,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -18911,6 +20121,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -19078,7 +20299,7 @@
             "end": 1699,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -19299,6 +20520,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "18th Century",
+            "start": 1700,
+            "end": 1799,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -19360,6 +20592,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -19456,6 +20699,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -19538,6 +20792,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "1st Century",
+            "start": 1,
+            "end": 100,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -19617,12 +20882,12 @@
       {
         "period": {
           "info": {
-            "name": "18th Century",
-            "start": 1700,
-            "end": 1799,
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
             "lengthInYears": 99
           },
-          "confidence": 1.0
+          "confidence": 0.075
         }
       },
       {
@@ -19694,6 +20959,17 @@
             "lengthInYears": 0
           },
           "confidence": 0.025
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "14th Century",
+            "start": 1300,
+            "end": 1399,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -20037,10 +21313,10 @@
       ]
     },
     "period": {
-      "name": "1890",
-      "start": 1890,
-      "end": 1890,
-      "lengthInYears": 0
+      "name": "20th Century",
+      "start": 1900,
+      "end": 1999,
+      "lengthInYears": 99
     },
     "place": {
       "coords": [],
@@ -20056,6 +21332,17 @@
             "lengthInYears": 0
           },
           "confidence": 0.025
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -20278,6 +21565,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -20357,6 +21655,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "16th Century",
+            "start": 1500,
+            "end": 1599,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -20440,7 +21749,7 @@
             "end": 1999,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -20516,6 +21825,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -20676,6 +21996,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -20769,6 +22100,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "18th Century",
+            "start": 1700,
+            "end": 1799,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -20856,6 +22198,17 @@
             "lengthInYears": 0
           },
           "confidence": 0.025
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -21027,6 +22380,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -21089,6 +22453,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -21129,10 +22504,10 @@
       ]
     },
     "period": {
-      "name": "1960s",
-      "start": 1960,
-      "end": 1970,
-      "lengthInYears": 10
+      "name": "19th Century",
+      "start": 1800,
+      "end": 1899,
+      "lengthInYears": 99
     },
     "place": {
       "coords": [],
@@ -21159,6 +22534,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -21226,6 +22612,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "16th Century",
+            "start": 1500,
+            "end": 1599,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -21287,6 +22684,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.35
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "16th Century",
+            "start": 1500,
+            "end": 1599,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -21440,6 +22848,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "18th Century",
+            "start": 1700,
+            "end": 1799,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -21540,6 +22959,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -21612,6 +23042,17 @@
             "lengthInYears": 0
           },
           "confidence": 0.25
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "14th Century",
+            "start": 1300,
+            "end": 1399,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -21757,7 +23198,7 @@
             "end": 1299,
             "lengthInYears": 99
           },
-          "confidence": 1.0
+          "confidence": 0.75
         }
       },
       {
@@ -21832,7 +23273,7 @@
             "end": 1499,
             "lengthInYears": 99
           },
-          "confidence": 1.0
+          "confidence": 0.75
         }
       },
       {
@@ -21960,6 +23401,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "18th Century",
+            "start": 1700,
+            "end": 1799,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -22042,7 +23494,7 @@
             "end": 1899,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -22236,7 +23688,7 @@
             "end": 1999,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -22403,7 +23855,7 @@
             "end": 1699,
             "lengthInYears": 99
           },
-          "confidence": 1.0
+          "confidence": 0.075
         }
       },
       {
@@ -22575,6 +24027,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -22654,6 +24117,17 @@
             "lengthInYears": 0
           },
           "confidence": 0.25
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -22807,6 +24281,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -23184,6 +24669,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -23327,6 +24823,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -23399,6 +24906,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -23663,6 +25181,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -23860,6 +25389,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "12th Century",
+            "start": 1100,
+            "end": 1199,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -23941,6 +25481,17 @@
             "lengthInYears": 0
           },
           "confidence": 0.25
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -24109,6 +25660,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "17th Century",
+            "start": 1600,
+            "end": 1699,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -24283,7 +25845,7 @@
             "end": 1899,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -24362,6 +25924,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "18th Century",
+            "start": 1700,
+            "end": 1799,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -24429,10 +26002,10 @@
       ]
     },
     "period": {
-      "name": "1980s",
-      "start": 1980,
-      "end": 1990,
-      "lengthInYears": 10
+      "name": "20th Century",
+      "start": 1900,
+      "end": 1999,
+      "lengthInYears": 99
     },
     "place": {
       "coords": [],
@@ -24459,6 +26032,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -24598,6 +26182,17 @@
             "lengthInYears": 0
           },
           "confidence": 0.25
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -24798,6 +26393,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -24881,6 +26487,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -25003,6 +26620,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -25098,7 +26726,7 @@
             "end": 1399,
             "lengthInYears": 99
           },
-          "confidence": 1.0
+          "confidence": 0.75
         }
       },
       {
@@ -25235,10 +26863,10 @@
       ]
     },
     "period": {
-      "name": "1970s",
-      "start": 1970,
-      "end": 1980,
-      "lengthInYears": 10
+      "name": "19th Century",
+      "start": 1800,
+      "end": 1899,
+      "lengthInYears": 99
     },
     "place": {
       "coords": [],
@@ -25265,6 +26893,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -25318,6 +26957,17 @@
             "lengthInYears": 0
           },
           "confidence": 0.025
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -25480,6 +27130,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -25727,6 +27388,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -25749,10 +27421,10 @@
       ]
     },
     "period": {
-      "name": "1950s",
-      "start": 1950,
-      "end": 1960,
-      "lengthInYears": 10
+      "name": "20th Century",
+      "start": 1900,
+      "end": 1999,
+      "lengthInYears": 99
     },
     "place": {
       "coords": [],
@@ -25779,6 +27451,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -25813,10 +27496,10 @@
       ]
     },
     "period": {
-      "name": "American Revolutionary War",
-      "start": 1775,
-      "end": 1783,
-      "lengthInYears": 8
+      "name": "17th Century",
+      "start": 1600,
+      "end": 1699,
+      "lengthInYears": 99
     },
     "place": {
       "coords": [],
@@ -25843,6 +27526,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "17th Century",
+            "start": 1600,
+            "end": 1699,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -25970,10 +27664,10 @@
       ]
     },
     "period": {
-      "name": "20th Century",
-      "start": 1900,
-      "end": 1999,
-      "lengthInYears": 99
+      "name": "American Civil War",
+      "start": 1861,
+      "end": 1865,
+      "lengthInYears": 4
     },
     "place": {
       "coords": [],
@@ -25988,7 +27682,7 @@
             "end": 1999,
             "lengthInYears": 99
           },
-          "confidence": 1.0
+          "confidence": 0.075
         }
       },
       {
@@ -26149,6 +27843,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -26221,6 +27926,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -26350,10 +28066,10 @@
       ]
     },
     "period": {
-      "name": "19th Century",
-      "start": 1800,
-      "end": 1899,
-      "lengthInYears": 99
+      "name": "American Civil War",
+      "start": 1861,
+      "end": 1865,
+      "lengthInYears": 4
     },
     "place": {
       "coords": [],
@@ -26379,7 +28095,7 @@
             "end": 1899,
             "lengthInYears": 99
           },
-          "confidence": 1.0
+          "confidence": 0.075
         }
       },
       {
@@ -26556,7 +28272,7 @@
             "end": 1799,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -26621,6 +28337,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -26814,7 +28541,7 @@
             "end": 1899,
             "lengthInYears": 99
           },
-          "confidence": 1.0
+          "confidence": 0.075
         }
       },
       {
@@ -26897,7 +28624,7 @@
             "end": 1899,
             "lengthInYears": 99
           },
-          "confidence": 1.0
+          "confidence": 0.075
         }
       },
       {
@@ -27023,6 +28750,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -27115,6 +28853,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -27233,6 +28982,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -27312,6 +29072,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.07
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -27452,7 +29223,7 @@
             "end": 1899,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -27549,6 +29320,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -27620,7 +29402,7 @@
             "end": 1999,
             "lengthInYears": 99
           },
-          "confidence": 0.5
+          "confidence": 0.75
         }
       },
       {
@@ -27691,10 +29473,10 @@
       ]
     },
     "period": {
-      "name": "2022",
-      "start": 2022,
-      "end": 2022,
-      "lengthInYears": 0
+      "name": "19th Century",
+      "start": 1800,
+      "end": 1899,
+      "lengthInYears": 99
     },
     "place": {
       "coords": [],
@@ -27710,6 +29492,17 @@
             "lengthInYears": 0
           },
           "confidence": 0.025
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -27863,6 +29656,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -27964,6 +29768,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -28162,10 +29977,10 @@
       ]
     },
     "period": {
-      "name": "16th Century",
-      "start": 1500,
-      "end": 1599,
-      "lengthInYears": 99
+      "name": "Tudor",
+      "start": 1485,
+      "end": 1603,
+      "lengthInYears": 118
     },
     "place": {
       "coords": [],
@@ -28191,7 +30006,7 @@
             "end": 1599,
             "lengthInYears": 99
           },
-          "confidence": 1.0
+          "confidence": 0.75
         }
       },
       {
@@ -28401,6 +30216,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -28498,6 +30324,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -28551,10 +30388,10 @@
       ]
     },
     "period": {
-      "name": "1930s",
-      "start": 1930,
-      "end": 1940,
-      "lengthInYears": 10
+      "name": "19th Century",
+      "start": 1800,
+      "end": 1899,
+      "lengthInYears": 99
     },
     "place": {
       "coords": [],
@@ -28581,6 +30418,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -28645,6 +30493,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -28750,6 +30609,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -28840,6 +30710,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {
@@ -28936,6 +30817,17 @@
         }
       },
       {
+        "period": {
+          "info": {
+            "name": "20th Century",
+            "start": 1900,
+            "end": 1999,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
+        }
+      },
+      {
         "place": {
           "info": {
             "coords": [],
@@ -29010,6 +30902,17 @@
             "lengthInYears": 10
           },
           "confidence": 0.035
+        }
+      },
+      {
+        "period": {
+          "info": {
+            "name": "19th Century",
+            "start": 1800,
+            "end": 1899,
+            "lengthInYears": 99
+          },
+          "confidence": 0.075
         }
       },
       {

@@ -52,5 +52,7 @@ data class Century(private val century: Int) {
             "twentieth",
             "twenty-first"
         )
+
+        val ofInterest = (1..21).map { Century(it) }
     }
 }
