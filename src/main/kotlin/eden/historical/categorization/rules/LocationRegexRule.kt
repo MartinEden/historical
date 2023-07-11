@@ -20,7 +20,7 @@ class LocationRegexRule(val countries: List<Country>): RegexRule(buildRegex(coun
         var categorization = Categorization(place = country.asPlace() withConfidence 0.25f)
 
         val redHerringRegexes = listOfNotNull(
-            if (country.defaultName == "New York") Regex("new york times bestselling author") else null
+            if (country.defaultName == "New York") Regex("new york times") else null
         )
         if (redHerringRegexes.any { it in fullText }) {
             // TODO: Would be good to be able to output reasoning here

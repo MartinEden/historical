@@ -122,7 +122,10 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
         yield(
             TextRule(
                 "Roman Empire",
-                Categorization(period = Period.Range("Roman Empire", -27, 476))
+                Categorization(
+                    period = Period.Range("Roman Empire", -27, 476) withConfidence 1f,
+                    place = Place.Area("Roman Empire", coords = emptyList()) withConfidence 0.75f
+                )
             )
         )
         yield(
