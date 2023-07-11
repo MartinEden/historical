@@ -118,15 +118,6 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
         )
         yield(
             TextRule(
-                setOf(
-                    SearchTerm("Jesus's life", 1f),
-                    SearchTerm("Life of Jesus", 1f),
-                ),
-                Categorization(period = Century(1).period withConfidence 0.2f)
-            )
-        )
-        yield(
-            TextRule(
                 "Westerns",
                 Categorization(
                     period = Century(19).period withConfidence 0.2f,
