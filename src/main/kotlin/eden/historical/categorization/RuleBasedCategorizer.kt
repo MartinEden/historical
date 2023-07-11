@@ -34,12 +34,6 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
         )
         yield(
             TextRule(
-                "Taliban",
-                Categorization(period = Century(20).period withConfidence 0.25f)
-            )
-        )
-        yield(
-            TextRule(
                 "Great Depression",
                 Categorization(period = Period.Range("Great Depression", 1929, 1939))
             )
