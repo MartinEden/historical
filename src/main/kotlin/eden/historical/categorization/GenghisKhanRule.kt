@@ -2,7 +2,6 @@ package eden.historical.categorization
 
 import eden.historical.models.BookMetadata
 import eden.historical.models.Century
-import eden.historical.models.Period
 
 object GenghisKhanRule : Rule {
     override fun apply(book: BookMetadata): Categorization? {

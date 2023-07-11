@@ -21,9 +21,9 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
         yield(
             TextRule(
                 setOf(
-                    SearchTerm.Plain("World War II", 1f),
-                    SearchTerm.Plain("WWII", 0.9f),
-                    SearchTerm.Plain("Nazi", 0.25f)
+                    SearchTerm("World War II", 1f),
+                    SearchTerm("WWII", 0.9f),
+                    SearchTerm("Nazi", 0.25f)
                 ),
                 Categorization(
                     Period.Range("World War II", 1939, 1945) withConfidence 1f,
@@ -97,8 +97,8 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
         yield(
             TextRule(
                 setOf(
-                    SearchTerm.Plain("American Revolutionary War", 1f),
-                    SearchTerm.Plain("American Revolution", 0.8f)
+                    SearchTerm("American Revolutionary War", 1f),
+                    SearchTerm("American Revolution", 0.8f)
                 ),
                 Categorization(
                     period = Period.Range("American Revolutionary War", 1775, 1783) withConfidence 0.9f,
@@ -109,8 +109,8 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
         yield(
             TextRule(
                 setOf(
-                    SearchTerm.Plain("Civil War", 1f),
-                    SearchTerm.Plain("Gettysburg", 0.2f)
+                    SearchTerm("Civil War", 1f),
+                    SearchTerm("Gettysburg", 0.2f)
                 ),
                 Categorization(
                     period = civilWarPeriod withConfidence 0.9f,
@@ -127,8 +127,8 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
         yield(
             TextRule(
                 setOf(
-                    SearchTerm.Plain("Jesus's life", 1f),
-                    SearchTerm.Plain("Life of Jesus", 1f),
+                    SearchTerm("Jesus's life", 1f),
+                    SearchTerm("Life of Jesus", 1f),
                 ),
                 Categorization(period = Century(1).period withConfidence 0.2f)
             )

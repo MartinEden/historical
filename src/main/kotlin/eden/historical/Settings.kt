@@ -47,5 +47,3 @@ object Settings {
     val atMain = getProperty("atMain")
     val ubidMain = getProperty("ubidMain")
 }
-
-const val defaultLoginUrl = "https://www.goodreads.com/ap/signin?language=en_US&openid.assoc_handle=amzn_goodreads_web_na&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.goodreads.com/ap-handler/sign-in&siteState=993d838dd21a2948224ed2e83b39947f"

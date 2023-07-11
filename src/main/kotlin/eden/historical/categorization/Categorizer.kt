@@ -4,6 +4,6 @@ import eden.historical.models.BookMetadata
 import eden.historical.models.CategorizedBook
 
 interface Categorizer {
-    fun begin(): Unit
+    fun begin()
     fun categorize(book: BookMetadata): CategorizedBook
 }

@@ -6,14 +6,14 @@ open class TextRule(terms: Set<SearchTerm>, private val categorization: Categori
     private val terms = terms.sortedByDescending { it.confidenceMultiplier }
 
     constructor(term: String, categorization: Categorization)
-            : this(setOf(SearchTerm.Plain(term, 1f)), categorization)
+            : this(setOf(SearchTerm(term, 1f)), categorization)
 
     // TODO: Consider returning multiple categorizations, and later we can sort them out by confidence/specificity
     override fun apply(book: BookMetadata): Categorization? {
         for (term in terms) {
             val support = getSupportForTerm(term, book)
             if (support > 0) {
-                                                           // we trust some terms more than others
+                // we trust some terms more than others
                 return categorization.weightedBy(support * term.confidenceMultiplier)
             }
         }
@@ -34,20 +34,9 @@ open class TextRule(terms: Set<SearchTerm>, private val categorization: Categori
     }
 }
 
-sealed class SearchTerm(val confidenceMultiplier: Float) {
-    abstract fun isInSet(set: Set<String>): Boolean
-    abstract fun isInFreeText(text: String): Boolean
+class SearchTerm(private val text: String, val confidenceMultiplier: Float) {
+    private val regex = Regex("([^a-zA-Z]|^)${text.lowercase()}([^a-zA-Z]|$)")
 
-    class Plain(private val text: String, confidenceMultiplier: Float): SearchTerm(confidenceMultiplier) {
-        private val regex = Regex("([^a-zA-Z]|^)${text.lowercase()}([^a-zA-Z]|$)")
-
-        override fun isInSet(set: Set<String>) = text in set
-        override fun isInFreeText(text: String) = regex in text
-    }
-    class Pattern(pattern: String, confidenceMultiplier: Float): SearchTerm(confidenceMultiplier) {
-        private val regex = Regex(pattern)
-
-        override fun isInSet(set: Set<String>) = false
-        override fun isInFreeText(text: String) = regex in text
-    }
+    fun isInSet(set: Set<String>) = text in set
+    fun isInFreeText(text: String) = regex in text
 }

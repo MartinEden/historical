@@ -7,7 +7,6 @@ import eden.historical.models.Book
 import eden.historical.models.BookMetadata
 import eden.historical.sources.Json.Companion.getJsonData
 import org.jsoup.Jsoup
-import org.jsoup.Jsoup.clean
 import org.jsoup.nodes.Document
 import org.jsoup.safety.Safelist
 
