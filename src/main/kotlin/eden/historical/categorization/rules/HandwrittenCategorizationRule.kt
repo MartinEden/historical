@@ -1,7 +1,8 @@
-package eden.historical.categorization
+package eden.historical.categorization.rules
 
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
+import eden.historical.categorization.Categorization
 import eden.historical.models.BookMetadata
 import eden.historical.models.Period
 import eden.historical.models.Place

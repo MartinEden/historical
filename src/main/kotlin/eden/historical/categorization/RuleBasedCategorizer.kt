@@ -1,5 +1,6 @@
 package eden.historical.categorization
 
+import eden.historical.categorization.rules.*
 import eden.historical.models.*
 import eden.historical.models.countries.Country
 

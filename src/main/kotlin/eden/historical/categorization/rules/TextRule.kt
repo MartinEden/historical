@@ -1,5 +1,6 @@
-package eden.historical.categorization
+package eden.historical.categorization.rules
 
+import eden.historical.categorization.Categorization
 import eden.historical.models.BookMetadata
 
 open class TextRule(terms: Set<SearchTerm>, private val categorization: Categorization) : Rule {
