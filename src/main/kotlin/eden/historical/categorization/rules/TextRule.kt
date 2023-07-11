@@ -24,6 +24,11 @@ open class TextRule(terms: Set<SearchTerm>, private val categorization: Categori
                 return cat
                     .withReasoning(this, "Term ($term) is in place data: ${book.places}")
             }
+//            if (term.text in book.book.title) {
+//                return cat
+//                    .weightedBy(0.5f)
+//                    .withReasoning(this, "Term ($term) is in title: ${book.book.title}")
+//            }
 
             val match = term.regex.find(book.synopsis)
             if (match != null) {

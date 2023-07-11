@@ -23,7 +23,7 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
             TextRule(
                 setOf(
                     SearchTerm("World War II", 1f),
-                    SearchTerm("WWII", 0.9f),
+                    SearchTerm("WWII", 0.35f),
                     SearchTerm("Nazi", 0.25f)
                 ),
                 Categorization(
@@ -151,7 +151,6 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
                 )
             )
         )
-        yield(HandwrittenCategorizationRule())
         yield(GenghisKhanRule)
     }.toList()
 

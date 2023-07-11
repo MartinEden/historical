@@ -146,7 +146,7 @@ The Luminaries by Catton, Eleanor
 1866 (1866)
 New Zealand
 The Amazing Adventures of Kavalier & Clay by Chabon, Michael
-World War II (1939 - 1945)
+20th Century (1900 - 1999)
 New York
 The Paris Library by Charles, Janet Skeslien
 World War II (1939 - 1945)
@@ -278,7 +278,7 @@ One Thousand White Women: The Journals of May Dodd by Fergus, Jim
 1875 (1875)
 United States of America
 My Brilliant Friend by Ferrante, Elena; Goldstein, Ann
-World War II (1939 - 1945)
+1950s (1950 - 1960)
 Italy
 The Great Gatsby by Fitzgerald, F. Scott
 20th Century (1900 - 1999)
@@ -455,8 +455,8 @@ The Once and Future Witches by Harrow, Alix E.
 1893 (1893)
 Massachusetts
 The Ten Thousand Doors of January by Harrow, Alix E.
-Early 20th century (1900 - 1949)
-USA
+20th Century (1900 - 1999)
+Vermont
 The Scarlet Letter by Hawthorne, Nathaniel; James, Henry; Baym, Nina
 17th Century (1600 - 1699)
 Massachusetts
@@ -473,7 +473,7 @@ Girl in the Blue Coat by Hesse, Monica
 World War II (1939 - 1945)
 Netherlands
 The Book of Negroes by Hill, Lawrence
-18th century (1700 - 1799)
+Regency (1795 - 1837)
 United States of America
 The Dovekeepers by Hoffman, Alice
 70 (70)
@@ -488,7 +488,7 @@ The Kite Runner by Hosseini, Khaled
 1970s (1970 - 1980)
 Afghanistan
 Les Misérables by Hugo, Victor; MacAfee, Norman; Wilbour, Charles E.
-19th century (1800 - 1899)
+1817 (1817)
 France
 We Were the Lucky Ones by Hunter, Georgia
 World War II (1939 - 1945)
@@ -587,16 +587,16 @@ To Kill a Mockingbird by Lee, Harper
 1933 (1933)
 Alabama
 The Gentleman's Guide to Vice and Virtue by Lee, Mackenzi
-18th century (1700 - 1799)
+18th Century (1700 - 1799)
 England
 The Lady's Guide to Petticoats and Piracy by Lee, Mackenzi
-18th century (1700 - 1799)
+18th Century (1700 - 1799)
 Scotland
 Pachinko by Lee, Min Jin
 1900s (1900 - 1910)
 Japan
 The Downstairs Girl by Lee, Stacey
-Early 20th century (1900 - 1949)
+1890 (1890)
 Georgia
 Last Night at the Telegraph Club by Lo, Malinda
 1954 (1954)
@@ -626,7 +626,7 @@ Atonement by McEwan, Ian
 20th Century (1900 - 1999)
 England
 Circling the Sun by McLain, Paula
-1920s (1920 - 1929)
+20th Century (1900 - 1999)
 Kenya
 The Paris Wife by McLain, Paula
 1920 (1920)
@@ -650,7 +650,7 @@ Gone with the Wind by Mitchell, Margaret
 American Civil War (1861 - 1865)
 Georgia
 Anne of Green Gables by Montgomery, L.M.
-19th century (1800 - 1899)
+20th Century (1900 - 1999)
 Canada
 Cleopatra's Daughter by Moran, Michelle
 Roman Empire (27BC - 476)
@@ -671,7 +671,7 @@ Gods of Jade and Shadow by Moreno-Garcia, Silvia
 1927 (1927)
 Mexico
 Mexican Gothic by Moreno-Garcia, Silvia
-Mid 20th century (1940 - 1980)
+1950s (1950 - 1960)
 Mexico
 The Night Circus by Morgenstern, Erin
 20th Century (1900 - 1999)
@@ -687,7 +687,7 @@ American Civil War (1861 - 1865)
 Ohio
 The Clockmaker's Daughter by Morton, Kate
 1862 (1862)
-Europe
+Canada
 The Forgotten Garden by Morton, Kate
 20th Century (1900 - 1999)
 Australia
@@ -695,7 +695,7 @@ The House at Riverton by Morton, Kate
 1924 (1924)
 United Kingdom
 The Secret Keeper by Morton, Kate
-World War II (1939 - 1945)
+2011 (2011)
 England
 The Girl You Left Behind by Moyes, Jojo
 1916 (1916)
