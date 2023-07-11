@@ -41,7 +41,7 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
         yield(
             TextRule(
                 "Great Depression",
-                Categorization(period = Period.Range("Great Depresion", 1929, 1939))
+                Categorization(period = Period.Range("Great Depression", 1929, 1939))
             )
         )
         yield(
@@ -154,7 +154,6 @@ class RuleBasedCategorizer(countries: List<Country>) : Categorizer {
                 )
             )
         )
-        yield(GenghisKhanRule)
     }.toList()
 
     override fun begin() {
